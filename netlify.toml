@@ -1,0 +1,7 @@
+# /Users/alex/WebDevelopment/gonetotheforest/netlify.toml
+[build]
+  command = "./gf-convert_obsidian_links.sh && hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.147.4"

@@ -1,0 +1,35 @@
+{{/* this is /Users/alex/WebDevelopment/gonetotheforest/layouts/partials/footer.html */}}
+</main>
+
+<footer style="background: #f8f9fa; padding: 2rem 1rem; margin-top: 3rem; border-top: 1px solid #e9ecef;">
+  <div style="max-width: 800px; margin: 0 auto; text-align: center;">
+
+    <!-- Quick links -->
+    <div style="margin-bottom: 1.5rem;">
+      <a href="/" style="margin: 0 1rem; text-decoration: none;">Home</a>
+      <a href="/about/" style="margin: 0 1rem; text-decoration: none;">About</a>
+      <a href="/bio/" style="margin: 0 1rem; text-decoration: none;">Bio</a>
+      <a href="/dharma/" style="margin: 0 1rem; text-decoration: none;">Dharma</a>
+      <a href="/support/donate/" style="margin: 0 1rem; text-decoration: none;">Donate</a>
+      <a href="/privacy-policy/" style="margin: 0 1rem; text-decoration: none;">Privacy Policy</a>
+    </div>
+
+    <!-- Copyright -->
+    <p style="margin: 0; color: #666;">&copy;{{ dateFormat "2006" now }} {{ .Site.Title }}. All rights reserved.</p>
+  </div>
+</footer>
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+</body>
+</html>

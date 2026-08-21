@@ -1,0 +1,70 @@
+{{/* this is /Users/alex/WebDevelopment/gonetotheforest/layouts/partials/header.html */}}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+	{{ if .Params.ogImage }}
+	<meta property="og:image" content="{{ .Site.BaseURL }}images/{{ .Params.ogImage }}" />
+	{{ end }}	<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Estonia&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+	<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
+	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+	{{ with .OutputFormats.Get "rss" -}}
+		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	{{ end -}}
+
+</head>
+
+<body>
+<header class="site-header" style="
+  text-align: center;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  position: relative;
+">
+
+  <h1 style="
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    font-family: 'Estonia', serif;
+    font-size: 4rem;
+    font-style: italic;
+    font-weight: 250;
+    letter-spacing: 1.2rem;
+    margin: 0rem 0 0rem 0; /* top, right, bottom, left */
+    padding: 0 0.5rem;
+    box-sizing: border-box;
+    width: 100%;
+    flex-wrap: wrap;
+  ">
+    {{/* Gaia Forest's own seal, used deliberately (not a placeholder) --
+         Tenzin chose to keep it as a visual link between the two sites. */}}
+    <img src="/media/headers/seal.jpg" alt="Gaia Forest seal" style="max-height: 50px; vertical-align: middle; margin-right: 3rem;" />
+
+    <span>gone to the forest</span>
+  </h1>
+
+  <p style="margin: 0.5rem 0 0 0;
+            font-size: 1.2rem;
+            font-family: 'Times New Roman', serif;
+            color: #555;
+            -webkit-text-stroke: 0.6px #555;
+            text-stroke: 0.5px #555;
+            letter-spacing: 0.15rem;
+            font-style: italic;
+            padding: 0 0.5rem;">
+    Ven. Ngawang Tenzin (Dr. Alex Anderson)
+  </p>
+</header>
+
+{{ partial "nav.html" . }}
+
+<main class="content">

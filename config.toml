@@ -1,0 +1,71 @@
+baseURL = "https://tenzin.gaiaforest.org"
+languageCode = "en-us"
+title = "gone to the forest"
+
+# Enable HTML in markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Site parameters
+[params]
+  description = "Gone to the Forest - Buddhist and ecological retreat experiences"
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "bio"
+  name = "Bio"
+  url = "/bio/"
+  parent = "about"
+  weight = 11
+
+[[menu.main]]
+  identifier = "resources"
+  name = "Resources"
+  url = "/resources/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "resources-audio"
+  name = "Audio"
+  url = "/resources/audio/"
+  parent = "resources"
+  weight = 21
+
+[[menu.main]]
+  identifier = "resources-handouts"
+  name = "Handouts"
+  url = "/resources/handouts/"
+  parent = "resources"
+  weight = 22
+
+[[menu.main]]
+  identifier = "resources-vocabularies"
+  name = "Vocabularies"
+  url = "/resources/languages/"
+  parent = "resources"
+  weight = 23
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "photography"
+  name = "Photography"
+  url = "/photography/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "donate"
+  name = "Donate"
+  url = "/support/donate/"
+  weight = 50

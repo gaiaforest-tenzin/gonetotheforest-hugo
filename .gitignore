@@ -1,0 +1,12 @@
+content/
+public/
+/resources/
+.DS_Store
+.hugo_build.lock
+*.pre-optimize
+
+# Legacy WordPress export media dump (~279MB, mostly for the deferred
+# sections in _drafts/wp-migration-pending/). Files stay on disk, just
+# untracked -- pull specific images back in via static/media/ (see bio
+# photo, resources PDFs) as content actually needs them.
+static/wp-content/

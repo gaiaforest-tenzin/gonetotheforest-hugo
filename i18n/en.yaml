@@ -1,0 +1,5 @@
+# UI strings used by the translation-pending shortcode.
+# English is always the complete source language, so these are rarely
+# shown, but are kept for symmetry when English is not the default.
+translation_pending: "This section has not been translated yet."
+view_original: "View the original version"

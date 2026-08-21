@@ -1,0 +1,18 @@
+{{/*
+  Usage: {{< donorbox campaign="your-donorbox-campaign-slug" >}}
+
+  Same convention as gaiaforest's donorbox_gold.html shortcode, but
+  parameterized since gonetotheforest's Donorbox campaign ID is not
+  necessarily the same as gaiaforest's.
+*/}}
+{{ $campaign := .Get "campaign" }}
+{{ if not $campaign }}
+  <p style="color:#a00; border:1px solid #a00; padding:0.75rem 1rem; border-radius:4px;">
+    Donorbox shortcode error: no <code>campaign</code> provided. Usage:
+    <code>{{`{{< donorbox campaign="your-donorbox-campaign-slug" >}}`}}</code>
+    — find this in the Donorbox dashboard under the campaign's embed code.
+  </p>
+{{ else }}
+<script type="module" src="https://donorbox.org/widgets.js" async></script><dbox-widget
+campaign="{{ $campaign }}" type="donation_form" enable-auto-scroll="true"></dbox-widget>
+{{ end }}

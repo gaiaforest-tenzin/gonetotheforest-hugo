@@ -1,0 +1,25 @@
+{{/*
+  Usage: {{< soundcloud url="https://soundcloud.com/artist/track-name" >}}
+  Optional params:
+    height - iframe height in px (default 166, good for a single track;
+             use ~300+ for playlists/sets)
+    color  - accent color as a hex triplet without '#' (default ff5500)
+
+  Hugo has no built-in SoundCloud shortcode (unlike YouTube/Vimeo), so this
+  is a small iframe wrapper -- same convention as the donorbox.html shortcode.
+*/}}
+{{ $url := .Get "url" }}
+{{ $height := .Get "height" | default "166" }}
+{{ $color := .Get "color" | default "ff5500" }}
+{{ if not $url }}
+  <p style="color:#a00; border:1px solid #a00; padding:0.75rem 1rem; border-radius:4px;">
+    SoundCloud shortcode error: no <code>url</code> provided. Usage:
+    <code>{{`{{< soundcloud url="https://soundcloud.com/artist/track-name" >}}`}}</code>
+  </p>
+{{ else }}
+<div class="soundcloud-embed" style="margin: 1.5rem 0;">
+  <iframe width="100%" height="{{ $height }}" scrolling="no" frameborder="no" allow="autoplay"
+    src="https://w.soundcloud.com/player/?url={{ $url | urlquery }}&color=%23{{ $color }}&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
+  </iframe>
+</div>
+{{ end }}

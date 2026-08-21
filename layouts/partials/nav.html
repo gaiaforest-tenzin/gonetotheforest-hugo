@@ -1,0 +1,47 @@
+{{/* this is /Users/alex/WebDevelopment/gonetotheforest/layouts/partials/nav.html */}}
+<!-- Navigation with dropdown support -->
+<header class="site-header">
+  <nav class="site-nav">
+    <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+      <ul class="main-menu" style="display: flex; margin: 0; padding: 0; list-style: none;">
+        {{ range .Site.Menus.main }}
+          {{ if ne .Identifier "donate" }}
+            {{ if .HasChildren }}
+              <li class="has-dropdown">
+                <a href="{{ .URL }}">{{ .Name }}</a>
+                <ul class="dropdown">
+                  {{ range .Children }}
+                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                  {{ end }}
+                </ul>
+              </li>
+            {{ else }}
+              <li>
+                <a href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </ul>
+
+      <!-- Donate button on far right -->
+      <div style="display: flex; gap: 1.5rem; align-items: center;">
+        {{ range .Site.Menus.main }}
+          {{ if eq .Identifier "donate" }}
+            <a href="{{ .URL }}" style="
+              background-color: transparent;
+              color: #999;
+              border: 2px solid #999;
+              padding: 0.5rem 1rem;
+              border-radius: 20px;
+              text-decoration: none;
+              font-size: 1rem;
+              font-weight: normal;
+              transition: border-color 0.3s ease, color 0.3s ease;
+            ">{{ .Name }}</a>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </nav>
+</header>

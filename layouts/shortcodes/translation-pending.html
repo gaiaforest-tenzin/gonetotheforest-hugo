@@ -1,0 +1,38 @@
+{{/*
+  Usage: {{< translation-pending >}}
+
+  Drop this into a stub _index.LANG.md page for a section that hasn't
+  been translated yet. It shows an honest "not yet translated" notice
+  in the current page's language, with a link back to the original
+  (English) version -- using Hugo's built-in .Translations pairing, so
+  it stays correct automatically as translations are added later.
+
+  To support a new language, just add matching "translation_pending"
+  and "view_original" keys to i18n/<lang>.yaml -- no template changes.
+
+  NOTE (gonetotheforest): this is copied verbatim from the gaiaforest
+  repo's shortcode of the same name. It works today (the i18n lookup
+  always resolves), but the .Page.Translations pairing only becomes
+  live once this site's config.toml gains a [languages] block like
+  gaiaforest's -- see i18n/en.yaml and i18n/zh.yaml, which are already
+  in place and waiting for that switch to be flipped when the first
+  real translated retreat sheet is ready.
+*/}}
+<div class="translation-pending" style="
+  background: #f7f5f0;
+  border: 1px solid #e0dcd3;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+  color: #555;
+">
+  <p style="margin: 0 0 0.5rem 0;">{{ i18n "translation_pending" }}</p>
+  {{ with .Page.Translations }}
+    {{ range . }}
+      <p style="margin: 0;">
+        <a href="{{ .Permalink }}" style="color: #0066cc; text-decoration: none;">{{ i18n "view_original" }} →</a>
+      </p>
+    {{ end }}
+  {{ end }}
+</div>
