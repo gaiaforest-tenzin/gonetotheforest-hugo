@@ -1,0 +1,11 @@
+{{/* Curated landing page (Resources) -- content already links to its
+     children (Audio, Handouts, Vocabularies), so this deliberately skips
+     the _default/list.html behaviour of also auto-listing every child
+     page below it. */}}
+{{ partial "header.html" . }}
+
+<h1 data-pagefind-ignore>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ partial "footer.html" . }}

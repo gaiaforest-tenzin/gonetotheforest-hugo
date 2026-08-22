@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<h1 class="post-title">{{ .Title }}</h1>
+<h1 class="post-title" data-pagefind-ignore>{{ .Title }}</h1>
 
 <span class="post-date">{{ .Date.Format "January 2, 2006" }}</span>
 
@@ -9,5 +9,10 @@
 {{ end }}
 
 {{ .Content }}
+
+{{/* Hidden Pagefind filter tags -- lets the search UI filter results by
+     category/tag without changing anything visible on the page. */}}
+{{ range .Params.categories }}<span data-pagefind-filter="Category" style="display:none;">{{ . }}</span>{{ end }}
+{{ range .Params.tags }}<span data-pagefind-filter="Category" style="display:none;">{{ . }}</span>{{ end }}
 
 {{ partial "footer.html" . }}

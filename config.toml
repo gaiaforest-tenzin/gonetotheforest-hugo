@@ -53,19 +53,26 @@ title = "gone to the forest"
   weight = 23
 
 [[menu.main]]
-  identifier = "posts"
-  name = "Posts"
-  url = "/posts/"
+  identifier = "news"
+  name = "News"
+  url = "/news/"
   weight = 30
 
 [[menu.main]]
-  identifier = "photography"
-  name = "Photography"
-  url = "/photography/"
+  identifier = "news-events"
+  name = "Events"
+  url = "/news/events/"
+  parent = "news"
+  weight = 31
+
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
   weight = 40
 
 [[menu.main]]
   identifier = "donate"
-  name = "Donate"
+  name = "Dāna"
   url = "/support/donate/"
   weight = 50

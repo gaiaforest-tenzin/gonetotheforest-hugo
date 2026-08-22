@@ -27,18 +27,18 @@ body {
   margin: 0 auto;
 }
 
-/* General link colors */
+/* General link colors -- warm golden-brown, site-wide (matches nav) */
 a {
-  color: #2d7a2d;
+  color: #C08A3E;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #5f8f5f;
+  color: #96652A;
 }
 
 a:hover {
-  color: #1a4d2e;
+  color: #6B4423;
   text-decoration: none;
 }
 
@@ -70,16 +70,16 @@ img {
 .site-nav a {
   display: block;
   padding: .5rem 1rem;
-  color: #7fb87f;
+  color: #C08A3E;
   text-decoration: none;
 }
 
 .site-nav a:visited {
-  color: #2d5f2d;
+  color: #96652A;
 }
 
 .site-nav a:hover {
-  color: #1a4d2e;
+  color: #6B4423;
 }
 
 .site-nav .logo {

@@ -1,0 +1,54 @@
+{{ partial "header.html" . }}
+
+<h1 data-pagefind-ignore>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ $now := now }}
+{{ $upcoming := (where .Pages "Date" "ge" $now).ByDate }}
+{{ $past := (where .Pages "Date" "lt" $now).ByDate.Reverse }}
+
+<h2>Upcoming</h2>
+{{ if $upcoming }}
+  {{ $currentYear := "" }}
+  {{ range $upcoming }}
+    {{ $year := .Date.Format "2006" }}
+    {{ if ne $year $currentYear }}
+      <h3>{{ $year }}</h3>
+      {{ $currentYear = $year }}
+    {{ end }}
+    <article class="post-snippet">
+      <h4>
+        <a href="{{ with .Params.external_link }}{{ . }}{{ else }}{{ .RelPermalink }}{{ end }}"{{ with .Params.external_link }} target="_blank" rel="noopener"{{ end }}>{{ .Title }}</a>
+      </h4>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      {{ with .Params.location }}<span> — {{ . }}</span>{{ end }}
+      {{ with .Content }}<div>{{ . }}</div>{{ end }}
+    </article>
+  {{ end }}
+{{ else }}
+  <p style="color: #666; font-style: italic;">No upcoming events at this time.</p>
+{{ end }}
+
+<h2>Past</h2>
+{{ if $past }}
+  {{ $currentYear := "" }}
+  {{ range $past }}
+    {{ $year := .Date.Format "2006" }}
+    {{ if ne $year $currentYear }}
+      <h3>{{ $year }}</h3>
+      {{ $currentYear = $year }}
+    {{ end }}
+    <article class="post-snippet">
+      <h4>
+        <a href="{{ with .Params.external_link }}{{ . }}{{ else }}{{ .RelPermalink }}{{ end }}"{{ with .Params.external_link }} target="_blank" rel="noopener"{{ end }}>{{ .Title }}</a>
+      </h4>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      {{ with .Params.location }}<span> — {{ . }}</span>{{ end }}
+    </article>
+  {{ end }}
+{{ else }}
+  <p style="color: #666; font-style: italic;">No past events recorded yet.</p>
+{{ end }}
+
+{{ partial "footer.html" . }}

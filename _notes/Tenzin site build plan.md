@@ -14,7 +14,7 @@ built and hardened a proven pattern with gaia forest site: (Obsidian-friendly `_
 
 **Decisions confirmed
 - Hosting: **subdomain** `tenzin.gaiaforest.org` Own independent repo, own Netlify site, deployed/managed separately from Gaia Forest.
-- Branding: distinct minimalist personal identity: humble, understated, blog-like, text emphasis rather than hero images.  Borrows Gaia Forest's look and feel in fonts, minimal centered-wordmark layout convention.  Use Gaia Forest seal to link to the parent site (effectively my home monastery).
+- Branding: distinct personal identity: minimalist, humble, understated, more blog-like, text emphasis rather than hero images?  Borrows Gaia Forest's look and feel in fonts, minimal centered-wordmark layout convention.  Use Gaia Forest seal to link to the parent site (effectively my home monastery).
 - Existing WordPress-migrated content (dharma, ecophilosophy, meditation, myth-and-memory, yatra, yoga sections; ~35 posts) is **left untouched for now**, moved to drafts — empty placeholders or HTML-polluted export debris.
 - Priority: retreat-resources use case: bio, working audio embeds (SoundCloud — personal plus IBA account), multilingual vocabulary/topic sheets, and the already-configured Donorbox donation portal. Movement-practice video is next on the list, followed by (selected) blog posts.
 - photography portfolio is a longer effort, can wait for now.

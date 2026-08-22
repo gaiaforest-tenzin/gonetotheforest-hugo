@@ -3,8 +3,6 @@ title: Resources
 date: 2026-08-21
 ---
 
-## Resources
-
 Follow-up materials for retreat and class participants, organized by type:
 
 - [Audio](/resources/audio/) — chanting and recitation recordings

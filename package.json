@@ -1,0 +1,7 @@
+{
+  "name": "gonetotheforest",
+  "private": true,
+  "devDependencies": {
+    "pagefind": "^1.5.2"
+  }
+}

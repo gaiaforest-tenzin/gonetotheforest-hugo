@@ -1,0 +1,36 @@
+{{/*
+  Netlify Forms contact form -- same pattern as gaiaforest's contact-form.html
+  shortcode. No backend needed: Netlify detects this form at build time
+  (because it's rendered into static HTML with data-netlify="true") and
+  handles submissions/spam filtering/notifications from its own dashboard.
+*/}}
+<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/contact/success/" style="max-width: 600px; margin: 2rem 0;">
+  <input type="hidden" name="form-name" value="contact" />
+
+  <!-- Spam protection honeypot -->
+  <div style="display: none;">
+    <label>Don't fill this out: <input name="bot-field" /></label>
+  </div>
+
+  <div style="margin-bottom: 1rem;">
+    <label for="name" style="display: block; margin-bottom: 0.5rem; font-weight: bold;">Name *</label>
+    <input type="text" id="name" name="name" required style="width: 100%; padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box;" />
+  </div>
+
+  <div style="margin-bottom: 1rem;">
+    <label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: bold;">Email *</label>
+    <input type="email" id="email" name="email" required style="width: 100%; padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box;" />
+  </div>
+
+  <div style="margin-bottom: 1rem;">
+    <label for="subject" style="display: block; margin-bottom: 0.5rem; font-weight: bold;">Subject</label>
+    <input type="text" id="subject" name="subject" style="width: 100%; padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box;" />
+  </div>
+
+  <div style="margin-bottom: 1rem;">
+    <label for="message" style="display: block; margin-bottom: 0.5rem; font-weight: bold;">Message *</label>
+    <textarea id="message" name="message" rows="5" required style="width: 100%; padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; resize: vertical; box-sizing: border-box;"></textarea>
+  </div>
+
+  <button type="submit" style="background: #6B4423; color: white; padding: 0.75rem 1.5rem; border: none; border-radius: 4px; cursor: pointer; font-size: 1rem;">Send Message</button>
+</form>

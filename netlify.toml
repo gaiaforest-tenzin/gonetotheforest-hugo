@@ -1,6 +1,6 @@
 # /Users/alex/WebDevelopment/gonetotheforest/netlify.toml
 [build]
-  command = "./gf-convert_obsidian_links.sh && hugo --gc --minify"
+  command = "npm install && ./gf-convert_obsidian_links.sh && hugo --gc --minify --buildFuture && npx pagefind --site public"
   publish = "public"
 
 [build.environment]

@@ -3,9 +3,10 @@ title: Chinese
 author: admin
 type: page
 date: 2022-11-26T08:19:10+00:00
+categories:
+  - Vocabulary
+  - Chinese
 ---
-
-## Chinese
 
 I'm posting here resources I'm finding useful for my own very tentative steps toward the study of Chinese language, with the aspiration to learn enough classical Chinese to read Buddhist texts.
 

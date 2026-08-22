@@ -3,8 +3,6 @@ title: "gone to the forest"
 description: "Br. Ngawang Tenzin (Dr. Alex Anderson)"
 ---
 
-# gone to the forest
-
 *araññagato* — Pāli
 
 Welcome to the personal website of (Ngawang) Tenzin (Dr. Alex Anderson). 
@@ -13,14 +11,11 @@ These pages grow from my efforts to organise my own study and practice interests
 
 Anything offered here is not intended as a teaching, simply a sharing from a "friend on the path". Any benefit is thanks to my teachers and their merit.
 
-## Recent Posts
-
 ## Sections
 
 - [About](/about/) - Learn more about this site and my journey
 - [Resources](/resources/) - Audio, handouts and vocabularies for retreat and class participants
-- [Posts](/posts/) - Essays and reflections
-- [Photography](/photography/) - Visual contemplations (coming soon)
+- [News](/news/) - Upcoming and past events
 
 ---
 

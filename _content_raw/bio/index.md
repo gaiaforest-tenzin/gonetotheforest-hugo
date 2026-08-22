@@ -17,9 +17,11 @@ My parallel interest in movement practice first found expression through martial
 
 I am interested by the complementarity of the Buddhist, Taoist and Indian Yogic approaches to cultivation of physical, mental, and spiritual wellbeing.  I like to remind myself that I am an “Australian Buddhist”, and look for similarities among traditions as a way to understand an essence which can be applied to my own experience.  In this time of global ecological and humanitarian crisis, I am especially interested in engaged spiritual practices that apply mindfulness to the cultivation of harmony within oneself, within community, and with the natural world.
 
-In Deep Ecology I have also found a wonderful community of practitioners dedicated to the exploration of the cross-over between these domains, and I am also passionate about wilderness yatra, (walking meditation in wild places) incorporating aspects of the “Work That Reconnects” as a modality for exploring healthy individuation and connection with the planet.  It is my hope that the Gaia Forest community will grow into a beautiful space for the exploration of these and other practices.
+In Deep Ecology I have found a wonderful community of practitioners dedicated to the exploration of the cross-over between these domains, and I am passionate about wilderness yatra — group walking meditation in wild places — incorporating aspects of the “Work That Reconnects” as a modality for exploring healthy individuation and connection with the planet in this time of ecological crisis.
 
-I am currently based at  the Dorrigo Plateau in the mid-north of NSW, exploring the region and connecting with the local community. With the [Gaia Forest Project](https://www.gaiaforest.org) we nurture an aspiration to build mindful community for the practice of meditation, yoga and Deep Ecology. I am also enthusiastic about wilderness yatra (group walking meditation in wild places) as a modality for exploring healthy individuation and connection with the planet in this time of ecological crisis.
+I am currently based on the Dorrigo Plateau in the mid-north of NSW, where with the [Gaia Forest Project](https://www.gaiaforest.org) we nurture an aspiration to build mindful community for the practice of meditation, yoga and Deep Ecology.
+
+For a fuller CV — qualifications, retreat facilitation history, publications and more — see the [CV page](/cv/).
 
 <!-- Tenzin: you've also got a much fuller CV at _drafts/CV.md (qualifications,
      retreat facilitation history, publications, etc.) -- say the word and

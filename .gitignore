@@ -4,6 +4,7 @@ public/
 .DS_Store
 .hugo_build.lock
 *.pre-optimize
+node_modules/
 
 # Legacy WordPress export media dump (~279MB, mostly for the deferred
 # sections in _drafts/wp-migration-pending/). Files stay on disk, just

@@ -3,9 +3,10 @@ title: Sanskrit
 author: admin
 type: page
 date: 2022-11-26T08:03:50+00:00
+categories:
+  - Vocabulary
+  - Sanskrit
 ---
-
-## Sanskrit
 
 Sanskrit is the ancient classical language of the Hindu tradition; language of the Vedas, of Patañjali's sutras of Hatha Yoga, and of the rich textual tradition of Mahayana Buddhist philosophy. It is a challenging language to learn, but richly rewarding, as it conveys ideas concerning the science of mind which are difficult to translate into modern languages. For fellow beginners on the journey, below are some links and posts relating to Sanskrit learning resources I am finding helpful.
 
@@ -29,12 +30,3 @@ Sanskrit is the ancient classical language of the Hindu tradition; language of t
 
 - [Text: Heart Sutra in Sanskrit](/resources/handouts/heart-sutra-sanskrit-text/) (printable pecha-format PDF)
 - [Audio: Heart Sutra in Sanskrit](/resources/audio/heart-sutra-in-sanskrit/)
-
-#### Related posts
-
-- [Chinese Buddhist terms lookup](/?p=1664)
-- [Digital Dictionary of Buddhism](/?p=1658)
-- [Chinese Buddhist text resources](/?p=1018)
-- [Learning Chinese characters](/?p=986)
-- [Chinese Etymology](/?p=976)
-- [Essay: The Buddhist Attitude Towards Nature, by Lily da Silva](/?p=972)

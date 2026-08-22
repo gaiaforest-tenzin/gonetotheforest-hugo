@@ -56,8 +56,8 @@ def convert_markdown_link(match):
     text = match.group(1)
     path = match.group(2).strip()
 
-    # Skip external links
-    if path.startswith('http://') or path.startswith('https://'):
+    # Skip any URL with a scheme (http:, https:, mailto:, tel:, ftp:, etc.)
+    if re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:', path):
         return match.group(0)
 
     # Skip anchor links
