@@ -7,4 +7,4 @@ categories:
 ---
 Spanish-language translation of a set of guided meditations from a meditation class at the International Buddhist Academy, Kathmandu, 2025.
 
-{{< soundcloud url="https://soundcloud.com/tenzin_alex/sets/iba-guided-meditations-en" height="300" >}}
+{{< soundcloud url="https://soundcloud.com/tenzin_alex/sets/iba-guided-meditations-en" height="500" >}}

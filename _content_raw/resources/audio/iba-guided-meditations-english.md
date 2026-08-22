@@ -7,4 +7,4 @@ categories:
 ---
 A set of guided meditations in English from the International Buddhist Academy, Kathmandu, 2025.
 
-{{< soundcloud url="https://soundcloud.com/iba-kathmandu/sets/stopping-looking-deeply-introduction-to-shamatha-vipashyana-from-a-mahayana-viewpoint" height="300" >}}
+{{< soundcloud url="https://soundcloud.com/iba-kathmandu/sets/stopping-looking-deeply-introduction-to-shamatha-vipashyana-from-a-mahayana-viewpoint" height="500" >}}
