@@ -6,9 +6,9 @@
 
 - [ ] Privacy policy is legacy from WordPress — suggest recycle, or send to the present Gaia Forest page
 - [ ] Suggestions about ways to harvest emails from users of this sub-site — can funnel them to a new list on MailerLite (same undercarriage as Gaia Forest's subscription form). Open to suggestions.
-- [ ] general links to add:
-- [ ] Rhonda Place "Cool Calm and Re-collected" #1 — missing a URL, can't add until found - BLOCKED
-- [ ] Shamatha retreat at IBA 2025 (co-facilitated with Christian Bernert) — missing a URL/date, can't add until found - BLOCKED
+- [ ] general links to add: Gaia Forest Website, Plum Village International, Mountain Spring Monastery website, International Buddhist Academy
+- [ ] BLOCKED - Rhonda Place "Cool Calm and Re-collected" #1 — missing a URL, can't add until found
+- [ ] BLOCKED - Shamatha retreat at IBA 2025 (co-facilitated with Christian Bernert) — missing a URL/date, can't add until found
 
 ## Done
 
