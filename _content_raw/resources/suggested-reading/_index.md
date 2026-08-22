@@ -18,9 +18,11 @@ categories:
 - [*Knowing and Seeing*](https://dhammatalks.net/Books13/Pa-Auk-Sayadaw_Knowing-and-Seeing-4th-Ed-2010.pdf) — Pa Auk Sayadaw (free PDF)
 
 #### Śamatha-Vipaśyanā
-
-- [*The Attention Revolution*](https://wisdomexperience.org/product/attention-revolution/) — Alan Wallace (Wisdom Publications)
-- [*The Mind Illuminated*](https://culadasa.com/) — Culadasa
+Southern Schools:
+	- [*Visuddhimagga]( https://store.pariyatti.org/path-of-purification) Bhadantācariya Buddhaghosa, tr. Bhikkhu Ñāṇamoli (also available as a free pdf by searching).
+Northern Schools:
+	- [*The Attention Revolution*](https://wisdomexperience.org/product/attention-revolution/) — Alan Wallace (Wisdom Publications)
+	- [*The Mind Illuminated*](https://culadasa.com/) — Culadasa
 
 #### Yogācāra
 

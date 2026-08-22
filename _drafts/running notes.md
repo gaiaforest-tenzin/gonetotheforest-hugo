@@ -5,14 +5,17 @@
 ## To do
 
 - [x] Mailer lite does not allow an embed of preferences - it is managed via secure links - need to insert a "request preference link"  any suggestions (search mailer lite help if needed...)
-- [ ] possible to embed individual tracks rather than playlists for all soundcloud shares?  (the sets load slowly and are in a cramped scrollable window)
-- [ ] maybe put socials links in the header? and shorten "privacy policy" to "privacy" for the footer - so it needn't stack - currently cramped.
+- [ ] remove dates from all posts and pages?  currently the site has this blog-like legacy feature - seems not relevant for most content - can adapt as needed (e.g. when I have posts happening.
+- [ ] possible to embed individual tracks rather than playlists for all soundcloud shares?  (the sets load slowly and are in a cramped scrollable window) — need individual track URLs from Tenzin to swap in
 - [ ] Suggestions about ways to harvest emails from users of this sub-site — can funnel them to a new list on MailerLite (same undercarriage as Gaia Forest's subscription form). Open to suggestions. (Note: gaiaforest's own MailerLite form got a look tonight too — Members page was missing its embed, Tenzin handling directly; also discussed adding Country/Postcode fields there, needs the field added in MailerLite's form builder first.)
-- [ ] also note - currently there is no link between donations collected and my email list... suggestions?  ask people to subscribe when they donate?  any way to automate? any way to back-fix this gap?
-- [ ] BLOCKED - Rhonda Place "Cool Calm and Re-collected" #1 — missing a URL, can't add until found
+- [ ] also note - currently there is no link between donations collected and my email list... suggestions?  ask people to subscribe when they donate?  any way to automate? any way to back-fix this gap? - donor-box zapier automation??? - to be revisited (shelved for a later session)
 - [ ] BLOCKED - Shamatha retreat at IBA 2025 (co-facilitated with Christian Bernert) — missing a URL/date, can't add until found
 
 ## Done
+
+- [x] TCP 2026 morning meditation glossary/summary handout (14pp, EN/ES/ZH + Sanskrit/Tibetan) published at /resources/text/glossary-morning-meditations-tcp-2026/ -- ready to share with IBA
+- [x] Rhonda Place "Cool Calm and Re-collected" #1 added (18 Jan 2025, Session 1: Kayanupassana -- embodied awareness)
+- [x] Social icons moved to header, footer "Privacy Policy" shortened to "Privacy"
 
 - [x] General links added: Gaia Forest, Plum Village International, Mountain Spring Monastery, International Buddhist Academy
 - [x]  Updates to Gaia Forest Privacy policy also?
