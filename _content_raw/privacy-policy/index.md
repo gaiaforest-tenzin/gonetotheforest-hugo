@@ -1,55 +1,46 @@
 ---
 title: Privacy Policy
-author: admin
-type: page
-date: 2025-08-30T04:47:46+00:00
-draft: true
-
+date: 2026-08-22
 ---
-## Who we are {.wp-block-heading}
 
-<strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://localhost:8080.
+### Who we are
 
-## Comments {.wp-block-heading}
+This is the personal website of Ven. Ngawang Tenzin (Dr. Alex Anderson), at tenzin.gaiaforest.org. It is run independently, though Tenzin is also affiliated with the [Gaia Forest Project](https://www.gaiaforest.org), which has its own separate privacy policy covering its own services.
 
-<strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.
+### What personal data we collect, and why
 
-An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+#### Contact form
 
-## Media {.wp-block-heading}
+When you use the [contact form](/contact/), we collect your name, email address, and whatever you write in the message, so that we can reply to you. Submissions are handled by Netlify Forms and delivered to a private inbox — they are not visible publicly, not added to any mailing list, and not shared with anyone else.
 
-<strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+#### Donations
 
-## Cookies {.wp-block-heading}
+Donations are processed by [Donorbox](https://donorbox.org), a third-party payment platform. We do not see or store your payment card details — those are handled entirely by Donorbox and their payment processors. Please see [Donorbox's own privacy policy](https://donorbox.org/privacy) for details of how they handle your data.
 
-<strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+#### Search
 
-If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+This site's search function (Pagefind) runs entirely in your own browser. No search terms, results, or usage data are ever sent anywhere — we don't know what anyone searches for.
 
-When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+#### Embedded content
 
-If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+Some pages include embedded audio or video from SoundCloud and YouTube. These behave the same as if you'd visited SoundCloud or YouTube directly — they may set their own cookies and collect data according to their own privacy policies, over which we have no control.
 
-## Embedded content from other websites {.wp-block-heading}
+### Cookies
 
-<strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+This site does not set any cookies of its own, and does not use any analytics or advertising trackers. Embedded third-party content (see above) may set its own cookies according to its own policies.
 
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+### Who we share your data with
 
-## Who we share your data with {.wp-block-heading}
+We don't share contact form submissions or any personal data with anyone else. Donation and embedded-content data is handled directly by the relevant third-party service (Donorbox, SoundCloud, YouTube) as described above.
 
-<strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.
+### How long we retain your data
 
-## How long we retain your data {.wp-block-heading}
+Contact form submissions are retained for as long as needed to respond to you and keep a reasonable record, then deleted periodically. We don't retain donation payment details ourselves at all — see Donorbox's policy for how long they retain data.
 
-<strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+### Your rights
 
-For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+You can ask what personal data we hold about you, ask us to correct it, or ask us to delete it, by [getting in touch](/contact/).
 
-## What rights you have over your data {.wp-block-heading}
+### Changes to this policy
 
-<strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
-
-## Where your data is sent {.wp-block-heading}
-
-<strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.
+We'll update this page if what the site actually does changes. Last updated: August 2026.
