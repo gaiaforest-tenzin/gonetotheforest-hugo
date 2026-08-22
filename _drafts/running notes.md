@@ -4,7 +4,7 @@
 
 ## To do
 
-- [ ] slight increase in size of gaia forest seal on both websites?  Its a little small in both, maybw just 15-20%
+- [ ] slight increase in size of gaia forest seal on both websites?  Its a little small in both, maybe just 15-20%
 - [x] Mailer lite does not allow an embed of preferences - it is managed via secure links - need to insert a "request preference link"  any suggestions (search mailer lite help if needed...)
 - [x] remove dates from all posts and pages -- stripped from About/CV/Contact/Resources (was showing arbitrary placeholder dates), kept on News/Events where they're meaningful
 - [~] possible to embed individual tracks rather than playlists for soundcloud shares -- interim fix: widened the two cramped IBA set embeds (height 300->500px). Full fix (individual tracks) still needs real track URLs from Tenzin.
