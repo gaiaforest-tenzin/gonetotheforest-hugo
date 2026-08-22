@@ -7,28 +7,30 @@ categories:
 
 #### Mindfulness of Breathing
 
-- *Breathe, You Are Alive* — Thich Nhat Hanh
-- *Mindfulness of Breathing* — Pa Auk Sayadaw
+- [Ānāpānasati Sutta](https://suttacentral.net/mn118/en/sujato?lang=en&layout=linebyline&reference=main%2Cpts&notes=none&highlight=false&script=latin) (MN 118)
+- [*Breathe, You Are Alive*](https://www.parallax.org/product/breathe-you-are-alive-2008/) — Thich Nhat Hanh (Parallax Press)
+- [*Mindfulness of Breathing*](https://www.dhammatalks.net/Books10/Pa_Auk_Sayadaw-Mindfulness_of_Breathing.pdf) — Pa Auk Sayadaw (free PDF)
 
 #### Four Foundations of Mindfulness
 
-- *Transformation and Healing* — Thich Nhat Hanh
-- *Knowing and Seeing* — Pa Auk Sayadaw
+- [Satipaṭṭhāna Sutta](https://suttacentral.net/mn10/en/sujato?lang=en&layout=linebyline&reference=main%2Cpts&notes=none&highlight=false&script=latin) (MN 10)
+- [*Transformation and Healing*](https://www.parallax.org/product/transformation-and-healing/) — Thich Nhat Hanh (Parallax Press)
+- [*Knowing and Seeing*](https://dhammatalks.net/Books13/Pa-Auk-Sayadaw_Knowing-and-Seeing-4th-Ed-2010.pdf) — Pa Auk Sayadaw (free PDF)
 
 #### Śamatha-Vipaśyanā
 
-- *The Attention Revolution* — Alan Wallace
-- *The Mind Illuminated* — Culadasa
+- [*The Attention Revolution*](https://wisdomexperience.org/product/attention-revolution/) — Alan Wallace (Wisdom Publications)
+- [*The Mind Illuminated*](https://culadasa.com/) — Culadasa
 
 #### Yogācāra
 
-- *Understanding Our Mind* — Thich Nhat Hanh
+- [*Understanding Our Mind*](https://www.parallax.org/product/understanding-our-mind/) — Thich Nhat Hanh (Parallax Press)
 
 #### Loving Kindness and the Four Brahmavihāras
 
-- *The Four Immeasurables: Practices to Open the Heart* — Alan Wallace
+- [*The Four Immeasurables: Practices to Open the Heart*](https://www.shambhala.com/the-four-immeasurables-2569.html) — Alan Wallace (Shambhala / Snow Lion)
 
 #### Eco-Dharma
 
-- *The Diamond That Cuts Through Illusion* — Thich Nhat Hanh
-- *Zen and the Art of Saving the Planet* — Thich Nhat Hanh
+- [*The Diamond That Cuts Through Illusion*](https://www.parallax.org/product/the-diamond-that-cuts-through-illusion/) — Thich Nhat Hanh (Parallax Press)
+- [*Zen and the Art of Saving the Planet*](https://www.parallax.org/product/zen-and-the-art-of-saving-the-planet/) — Thich Nhat Hanh (Parallax Press)

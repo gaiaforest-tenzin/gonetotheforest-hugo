@@ -1,26 +1,28 @@
 # Running notes
 
-(New notes added to the top for ease of discovery by Claude. Everything below is a checklist — `- [x]` done, `- [ ]` still open. Tenzin to tick items  too if handled something directly.)
+(New notes added to the top for ease of discovery by Claude. Everything below is a checklist — `- [x]` done, `- [ ]` still open. Tenzin to tick items too if handled something directly.)
 
 ## To do
 
-- [ ] Privacy policy is legacy from Wordpress - suggest recycle - or send to the present Gaia Forest page
-- [ ] suggestions about ways to harvest emails from users of this sub-site - can funnel them to a new list on my mailer lite email management platform (same undercarriage as gaia forest subscription form) open to suggestions
-- [ ] About page: embed image inline with text wrap (not too large) — source file: `/Users/alex/Downloads/tenzin_profile_photo_new.jpg`
-- [ ] Resources page reorg: split into Audio / Video / Text / Links / Suggested reading (description text is done — see below; the category split itself is still open, pending how to handle Links/Suggested reading vs. the existing Vocabularies page content)
-- [ ] Search bar scoped to just the Resources page (results limited to Resources only, not full-site)
-- [ ] Rhonda Place "Cool Calm and Re-collected" #1 — missing a URL, can't add until found
-- [ ] Shamatha retreat at IBA 2025 (co-facilitated with Christian Bernert) — missing a URL/date, can't add until found
+- [ ] Privacy policy is legacy from WordPress — suggest recycle, or send to the present Gaia Forest page
+- [ ] Suggestions about ways to harvest emails from users of this sub-site — can funnel them to a new list on MailerLite (same undercarriage as Gaia Forest's subscription form). Open to suggestions.
+- [ ] general links to add:
+- [ ] Rhonda Place "Cool Calm and Re-collected" #1 — missing a URL, can't add until found - BLOCKED
+- [ ] Shamatha retreat at IBA 2025 (co-facilitated with Christian Bernert) — missing a URL/date, can't add until found - BLOCKED
 
 ## Done
 
-- [x] Resources page description text added: "Below are links to selected resources, including audio and video recordings from past retreats, traditional chanting, vocabulary handouts, recommended web resources and readings. Also searchable by topic."
+- [x] Resources page description text added
 - [x] Header title spacing adjusted (`layouts/partials/header.html`)
 - [x] Donorbox campaign colours adjusted
 - [x] CV: Metta/śamatha retreats at IBA Kathmandu (2025 & 2026, co-facilitated with Christian Bernert)
 - [x] CV: Online sangha — Deep Eco Dharma group detail + link to Gaia Forest page
 - [x] CV: Weekly meditation — Never Never Mind Cafe, Dorrigo, 9am + contact link
 - [x] Bio page: fixed repetitive closing paragraphs
+- [x] About page: inline profile photo, floated with text wrap
+- [x] Resources reorg: split into Audio / Video / Text / Links / Suggested Reading / Vocabularies
+- [x] Search bar scoped to just the Resources page (Pagefind, filtered to Section=Resources)
+- [x] Suggested Reading: published with links (see below — all 8 books + 2 suttas linked to publisher/official/free sources)
 
 ### Past events added
 
@@ -46,28 +48,11 @@
 - [x] Audio (series): English meditations, IBA 2025
 - [x] Audio: Song of the Rainforest
 
----
+### Suggested Reading — published at /resources/suggested-reading/
 
-## Suggested reading (content for site — not yet published anywhere)
-
-Mindfulness of breathing
-- *Breathe, You Are Alive* — Thich Nhat Hanh
-- *Mindfulness of Breathing* — Pa Auk Sayadaw
-
-Four foundations of mindfulness
-- *Transformation and Healing* — Thich Nhat Hanh
-- *Knowing and Seeing* — Pa Auk Sayadaw
-
-Śamatha-vipaśyanā
-- *The Attention Revolution* — Alan Wallace
-- *The Mind Illuminated* — Culadasa
-
-Yogācāra
-- *Understanding Our Mind* — Thich Nhat Hanh
-
-Loving Kindness and the Four Brahmavihāras
-- *The Four Immeasurables: Practices to Open the Heart* — Alan Wallace
-
-Eco-dharma
-- *The Diamond That Cuts Through Illusion* — Thich Nhat Hanh
-- *Zen and the Art of Saving the Planet* — Thich Nhat Hanh
+- [x] Mindfulness of Breathing — [Ānāpānasati Sutta](https://suttacentral.net/mn118/en/sujato?lang=en&layout=linebyline&reference=main%2Cpts&notes=none&highlight=false&script=latin), *Breathe, You Are Alive* (Parallax Press), *Mindfulness of Breathing* — Pa Auk Sayadaw (free PDF)
+- [x] Four Foundations of Mindfulness — [Satipaṭṭhāna Sutta](https://suttacentral.net/mn10/en/sujato?lang=en&layout=linebyline&reference=main%2Cpts&notes=none&highlight=false&script=latin), *Transformation and Healing* (Parallax Press), *Knowing and Seeing* — Pa Auk Sayadaw (free PDF)
+- [x] Śamatha-Vipaśyanā — *The Attention Revolution* (Wisdom Publications), *The Mind Illuminated* (culadasa.com)
+- [x] Yogācāra — *Understanding Our Mind* (Parallax Press)
+- [x] Loving Kindness and the Four Brahmavihāras — *The Four Immeasurables* (Shambhala/Snow Lion)
+- [x] Eco-Dharma — *The Diamond That Cuts Through Illusion*, *Zen and the Art of Saving the Planet* (both Parallax Press)
