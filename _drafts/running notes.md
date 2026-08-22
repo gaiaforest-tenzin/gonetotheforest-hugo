@@ -9,9 +9,10 @@
 - [~] possible to embed individual tracks rather than playlists for soundcloud shares -- interim fix: widened the two cramped IBA set embeds (height 300->500px). Full fix (individual tracks) still needs real track URLs from Tenzin.
 - [ ] Suggestions about ways to harvest emails from users of this sub-site — can funnel them to a new list on MailerLite (same undercarriage as Gaia Forest's subscription form). Open to suggestions. (Note: gaiaforest's own MailerLite form got a look tonight too — Members page was missing its embed, Tenzin handling directly; also discussed adding Country/Postcode fields there, needs the field added in MailerLite's form builder first.)
 - [ ] also note - currently there is no link between donations collected and my email list... suggestions?  ask people to subscribe when they donate?  any way to automate? any way to back-fix this gap? - donor-box zapier automation??? - to be revisited (shelved for a later session)
-- [ ] BLOCKED - Shamatha retreat at IBA 2025 (co-facilitated with Christian Bernert) — missing a URL/date, can't add until found
-
 ## Done
+
+- [x] Śamatha Retreat at IBA 2025 (31 July – 6 August, with Christian Bernert) added -- last blocked event, now resolved
+- [x] Header socials: YouTube added, Instagram switched to Tenzin's personal account, SoundCloud added
 
 - [x] TCP 2026 morning meditation glossary/summary handout (14pp, EN/ES/ZH + Sanskrit/Tibetan) published at /resources/text/glossary-morning-meditations-tcp-2026/ -- ready to share with IBA
 - [x] Rhonda Place "Cool Calm and Re-collected" #1 added (18 Jan 2025, Session 1: Kayanupassana -- embodied awareness)
