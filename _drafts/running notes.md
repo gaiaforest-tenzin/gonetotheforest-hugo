@@ -1,11 +1,11 @@
 # Running notes
 
-(New notes added to the top for ease of discovery by Claude. Everything below is a checklist — `- [x]` done, `- [ ]` still open. Tick items yourself too if you handle something directly.)
+(New notes added to the top for ease of discovery by Claude. Everything below is a checklist — `- [x]` done, `- [ ]` still open. Tenzin to tick items  too if handled something directly.)
 
 ## To do
 
 - [ ] Privacy policy is legacy from Wordpress - suggest recycle - or send to the present Gaia Forest page
-- [ ] suggestions about ways to harvest emails from users of this site - can funnel them to a new list on my mailer lite email management platform (same as gaia forest subscription form) open to suggestions
+- [ ] suggestions about ways to harvest emails from users of this sub-site - can funnel them to a new list on my mailer lite email management platform (same undercarriage as gaia forest subscription form) open to suggestions
 - [ ] About page: embed image inline with text wrap (not too large) — source file: `/Users/alex/Downloads/tenzin_profile_photo_new.jpg`
 - [ ] Resources page reorg: split into Audio / Video / Text / Links / Suggested reading (description text is done — see below; the category split itself is still open, pending how to handle Links/Suggested reading vs. the existing Vocabularies page content)
 - [ ] Search bar scoped to just the Resources page (results limited to Resources only, not full-site)

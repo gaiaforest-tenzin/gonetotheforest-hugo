@@ -5,10 +5,12 @@ type: page
 date: 2022-04-27T09:31:49+00:00
 ---
 
+<img src="/media/about/profile-inline.jpg" alt="Ven. Ngawang Tenzin in seated meditation" style="float: right; max-width: 240px; width: 40%; margin: 0 0 1rem 1.5rem; border-radius: 4px;" />
+
 Welcome. This is the personal website of Ven. Ngawang Tenzin (Dr. Alex Anderson). Here I share a summary of my journey so far, my practice and study interests and information about upcoming and past events.  You will also find a small and searchable library of resources, such as audio and video recordings, links, suggested readings, and downloadable text resources (chanting, glossaries etc.).  It also provides a way to [contact me](https://tenzin.gaiaforest.org/contact/)
 ### A note about the site title:
 
-"Gone to the forest" – "*araññagato*" in Pāli. Is a word from the introduction to the the [*satipatthana* *sutta*](https://suttacentral.net/mn10/en/sujato?layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin), among instructions related to finding a suitable place for the cultivation of mindfulness. It has also been my life-long tendency.
+"Gone to the forest" is a translation of the Pali "*araññagato*".  This word appears in the introduction to the the [*satipatthana* *sutta*](https://suttacentral.net/mn10/en/sujato?layout=sidebyside&reference=none&notes=asterisk&highlight=false&script=latin), in the phrase "araññagato vā, rukkhamūlagato vā, suññāgāragato vā"  instructions related to finding a suitable place for the cultivation of mindfulness. It has also been my life-long tendency.
 
 For a little more about my journey so far, please visit the [Bio page](/bio/), or for a more detailed [CV](/cv/).
 

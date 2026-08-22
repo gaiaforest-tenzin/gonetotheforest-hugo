@@ -14,5 +14,6 @@
      category/tag without changing anything visible on the page. */}}
 {{ range .Params.categories }}<span data-pagefind-filter="Category" style="display:none;">{{ . }}</span>{{ end }}
 {{ range .Params.tags }}<span data-pagefind-filter="Category" style="display:none;">{{ . }}</span>{{ end }}
+{{ if eq .Section "resources" }}<span data-pagefind-filter="Section" style="display:none;">Resources</span>{{ end }}
 
 {{ partial "footer.html" . }}

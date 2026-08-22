@@ -8,4 +8,26 @@
 
 {{ .Content }}
 
+{{ if eq .RelPermalink "/resources/" }}
+{{/* Scoped search: only this page (the Resources landing page) gets this
+     box, pre-locked to Section=Resources so results never include news,
+     bio, etc. Uses the same Pagefind index as /search/, just filtered. */}}
+<h3 style="margin-top: 2rem;">Search Resources</h3>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="resources-search"></div>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({
+      element: "#resources-search",
+      showSubResults: true,
+      showImages: false,
+      filters: { "Section": "Resources" }
+    });
+  });
+</script>
+{{ end }}
+
+<span data-pagefind-filter="Section" style="display:none;">Resources</span>
+
 {{ partial "footer.html" . }}
