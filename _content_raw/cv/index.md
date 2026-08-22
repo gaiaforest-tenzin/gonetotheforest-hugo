@@ -58,7 +58,7 @@ Working closely with John Seed and Pat Fleming, coauthors with Joanna Macy and A
 - 2025–2026: Metta and śamatha retreats, International Buddhist Academy, Kathmandu — co-facilitated with Christian Bernert.
 - 2025–2026: Forest mindfulness retreats, Kadoorie Farm and Botanic Garden, Hong Kong — one-day (2025) and two-day (2026) "Walking in Peace" events.
 - 2023 onward: One-day "Calm, Cool, and Re-collected" retreat series, Concord, NSW — with the Metta Centre, Sydney.
-- One-day Deep Ecology retreat, Thora, NSW.
+- 2025: One-day Deep Ecology workshop, Thora, NSW — with John Seed and Karin Raven Steininger.
 - 2023: Yuraygir Dharma Yatra — nine-day trek with yoga, meditation, mindfulness and deep ecology process along the Yuraygir coast, NSW. Co-facilitated with Robyn Gibson.
 - 2023: Mindfulness of the Breath — a ten-day retreat for monastics, introducing Theravada approaches to Ānāpānasati and Satipaṭṭhāna as a base for the Mahayana approach. Sakya Tantric College, Dehradun, Uttar Pradesh, India.
 - 2023: Men Aware Nature Retreat — four days of day walks, yoga, meditation, deep ecology and nature connection, New England National Park.
@@ -68,8 +68,8 @@ Working closely with John Seed and Pat Fleming, coauthors with Joanna Macy and A
 
 ### Ongoing
 
-- Weekly meditation sittings, Dorrigo, NSW.
-- Online sangha.
+- Weekly meditation and discussion group, 9am, Never Never Mind Cafe, Dorrigo, NSW. [Get in touch](/contact/) for details.
+- Online sangha: [Deep Eco Dharma](https://www.gaiaforest.org/news/2024/08/2024-08-15-deep-eco-dharma-online-discussion-group/) — a monthly discussion group for ZASP course alumni and anyone interested in the intersection of Buddha Dharma and Deep Ecology.
 
 ## Academic Employment History
 
@@ -100,8 +100,7 @@ Working closely with John Seed and Pat Fleming, coauthors with Joanna Macy and A
 
 ## Talks and Presentations (selected)
 
-- 2026: Opening talk, Metta Convention, Sydney.
-- 2026: "Ekayana and the Lotus Sutra", Metta Convention, Sydney.
+- 2025: Opening talk, and a talk on "Ekayāna and the Lotus Sutra", Metta Convention: Many Rivers, One Ocean, Sydney.
 - 2025: "Zen and the Ecology of the Unconscious: Mindfulness, Compassion and Insight in a Time of Planetary Polycrisis", Kadoorie Earth Programme, Hong Kong (online).
 - 2023: "Buddhism & Deep Ecology", HKU Centre of Buddhist Studies 20th Anniversary Series, Hong Kong.
 - 2022: "Satyagraha and the Indian Tradition of Deep Ecology", Nalanda University, Bihar, India.

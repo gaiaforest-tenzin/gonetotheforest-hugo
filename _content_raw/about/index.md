@@ -5,7 +5,7 @@ type: page
 date: 2022-04-27T09:31:49+00:00
 ---
 
-Welcome. This is the personal website of (Ngawang) Tenzin (Dr. Alex Anderson). These pages grow from my efforts to organise my own study and practice interests, and to collate resources I have encountered online that seem useful. From time to time I may also upload articles containing reflections on aspects of the dharma, talks I have given etc. Anything offered here is not intended as a teaching, simply a sharing from a "friend on the path". Any benefit is thanks to my teachers and their merit.
+Welcome. This is the personal website of Ven. Ngawang Tenzin (Dr. Alex Anderson). These pages grow from my efforts to organise my own study and practice interests, and to collate resources I have encountered online that seem useful. From time to time I may also upload articles containing reflections on aspects of the dharma, talks I have given etc. Anything offered here is not intended as a teaching, simply a sharing from a "friend on the path". Any benefit is thanks to my teachers and their merit.
 
 ### A note about the site title:
 

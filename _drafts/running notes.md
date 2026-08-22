@@ -1,3 +1,19 @@
+# latest 
+
+image to use on about page (embed in-line with text wrap - not too large): /Users/alex/Downloads/tenzin_profile_photo_new.jpg
+
+(new notes added to the top for ease of discovery by Claude)
+ - new resources page structure:
+- Description "below are links to selected resources, including audio and video recordings from past retreats, traditional chanting, vocabulary handouts, recommended web resources and readings. Also searchable by topic"
+	 - Audio
+	 - Video
+	 - Text
+	 - Links
+	 - Suggested reading
+
+Perhaps it would be good to add a search bar and results display internal to this page to search only resources? (eventually this might be were my obsidian dharma knowledge base gets shared? - just a thought...)
+
+---
 # Additional information for CV
 
 Metta and shamatha retreats at IBA kathmandu 2025 and 2026 co-facilitated with Christian Bernert
@@ -7,7 +23,7 @@ Online sangha?  For ZASP Alumni and those interested in the intersection between
 Weekly meditations at Dorrigo
 we run weekly meditation and discussion group - 9am at the Never Never Mind cafe Dorrigo.  for info contact us
 
-DONE
+## DONE
  - adjusted for spacing for title in layouts/partials/header.html
  - adjusted donor box campaign colours
 
