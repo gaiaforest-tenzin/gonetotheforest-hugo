@@ -5,8 +5,8 @@
 ## To do
 
 - [x] Mailer lite does not allow an embed of preferences - it is managed via secure links - need to insert a "request preference link"  any suggestions (search mailer lite help if needed...)
-- [ ] remove dates from all posts and pages?  currently the site has this blog-like legacy feature - seems not relevant for most content - can adapt as needed (e.g. when I have posts happening.
-- [ ] possible to embed individual tracks rather than playlists for all soundcloud shares?  (the sets load slowly and are in a cramped scrollable window) — need individual track URLs from Tenzin to swap in
+- [x] remove dates from all posts and pages -- stripped from About/CV/Contact/Resources (was showing arbitrary placeholder dates), kept on News/Events where they're meaningful
+- [~] possible to embed individual tracks rather than playlists for soundcloud shares -- interim fix: widened the two cramped IBA set embeds (height 300->500px). Full fix (individual tracks) still needs real track URLs from Tenzin.
 - [ ] Suggestions about ways to harvest emails from users of this sub-site — can funnel them to a new list on MailerLite (same undercarriage as Gaia Forest's subscription form). Open to suggestions. (Note: gaiaforest's own MailerLite form got a look tonight too — Members page was missing its embed, Tenzin handling directly; also discussed adding Country/Postcode fields there, needs the field added in MailerLite's form builder first.)
 - [ ] also note - currently there is no link between donations collected and my email list... suggestions?  ask people to subscribe when they donate?  any way to automate? any way to back-fix this gap? - donor-box zapier automation??? - to be revisited (shelved for a later session)
 - [ ] BLOCKED - Shamatha retreat at IBA 2025 (co-facilitated with Christian Bernert) — missing a URL/date, can't add until found
