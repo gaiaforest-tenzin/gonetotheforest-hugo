@@ -4,7 +4,7 @@
 
 ## To do
 
-- [ ] Privacy policy is legacy from WordPress — suggest recycle, or send to the present Gaia Forest page?
+- [x] Mailer lite does not allow an embed of preferences - it is managed via secure links - need to insert a "request preference link"  any suggestions (search mailer lite help if needed...)
 - [ ] Suggestions about ways to harvest emails from users of this sub-site — can funnel them to a new list on MailerLite (same undercarriage as Gaia Forest's subscription form). Open to suggestions. (Note: gaiaforest's own MailerLite form got a look tonight too — Members page was missing its embed, Tenzin handling directly; also discussed adding Country/Postcode fields there, needs the field added in MailerLite's form builder first.)
 - [ ] BLOCKED - Rhonda Place "Cool Calm and Re-collected" #1 — missing a URL, can't add until found
 - [ ] BLOCKED - Shamatha retreat at IBA 2025 (co-facilitated with Christian Bernert) — missing a URL/date, can't add until found
@@ -12,6 +12,8 @@
 ## Done
 
 - [x] General links added: Gaia Forest, Plum Village International, Mountain Spring Monastery, International Buddhist Academy
+- [x]  Updates to Gaia Forest Privacy policy also?
+- [x]  Privacy policy is legacy from WordPress — suggest recycle, or send to the present Gaia Forest page?
 - [x] Renamed "Vocabularies" → "Language Study" everywhere (nav, resources landing page, page title, category tags) — frees up "Vocabularies" for the future PDF-handout concept from Tenzin's Obsidian knowledge base
 - [x] About page: linkified plain-text mentions of events/resources/audio/video/links/suggested reading/text resources/contact
 - [x] Resources page description text added
