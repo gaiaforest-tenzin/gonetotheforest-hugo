@@ -28,5 +28,5 @@ Sanskrit is the ancient classical language of the Hindu tradition; language of t
 
 #### Related resources
 
-- [Text: Heart Sutra in Sanskrit](/resources/handouts/heart-sutra-sanskrit-text/) (printable pecha-format PDF)
+- [Text: Heart Sutra in Sanskrit](/resources/text/heart-sutra-sanskrit-text/) (printable pecha-format PDF)
 - [Audio: Heart Sutra in Sanskrit](/resources/audio/heart-sutra-in-sanskrit/)

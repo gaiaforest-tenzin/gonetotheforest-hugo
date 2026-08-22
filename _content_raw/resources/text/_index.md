@@ -1,5 +1,5 @@
 ---
-title: Handouts
+title: Text
 date: 2026-08-21
 ---
 

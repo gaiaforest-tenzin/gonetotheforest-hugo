@@ -39,18 +39,39 @@ title = "gone to the forest"
   weight = 21
 
 [[menu.main]]
-  identifier = "resources-handouts"
-  name = "Handouts"
-  url = "/resources/handouts/"
+  identifier = "resources-video"
+  name = "Video"
+  url = "/resources/video/"
   parent = "resources"
   weight = 22
+
+[[menu.main]]
+  identifier = "resources-text"
+  name = "Text"
+  url = "/resources/text/"
+  parent = "resources"
+  weight = 23
+
+[[menu.main]]
+  identifier = "resources-links"
+  name = "Links"
+  url = "/resources/links/"
+  parent = "resources"
+  weight = 24
+
+[[menu.main]]
+  identifier = "resources-suggested-reading"
+  name = "Suggested Reading"
+  url = "/resources/suggested-reading/"
+  parent = "resources"
+  weight = 25
 
 [[menu.main]]
   identifier = "resources-vocabularies"
   name = "Vocabularies"
   url = "/resources/languages/"
   parent = "resources"
-  weight = 23
+  weight = 26
 
 [[menu.main]]
   identifier = "news"

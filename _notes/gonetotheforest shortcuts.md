@@ -13,5 +13,6 @@ view in local host
 ### Convert edits and copy to /content/
  - server should track them and show in local host
 ```bash
+cd /Users/alex/WebDevelopment/gonetotheforest
  ./gf-convert_obsidian_links.sh
 ```
