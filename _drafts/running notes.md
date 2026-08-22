@@ -4,20 +4,17 @@
 
 ## To do
 
+- [ ] slight increase in size of gaia forest seal on both websites?  Its a little small in both, maybw just 15-20%
 - [x] Mailer lite does not allow an embed of preferences - it is managed via secure links - need to insert a "request preference link"  any suggestions (search mailer lite help if needed...)
 - [x] remove dates from all posts and pages -- stripped from About/CV/Contact/Resources (was showing arbitrary placeholder dates), kept on News/Events where they're meaningful
 - [~] possible to embed individual tracks rather than playlists for soundcloud shares -- interim fix: widened the two cramped IBA set embeds (height 300->500px). Full fix (individual tracks) still needs real track URLs from Tenzin.
-- [ ] Suggestions about ways to harvest emails from users of this sub-site — can funnel them to a new list on MailerLite (same undercarriage as Gaia Forest's subscription form). Open to suggestions. (Note: gaiaforest's own MailerLite form got a look tonight too — Members page was missing its embed, Tenzin handling directly; also discussed adding Country/Postcode fields there, needs the field added in MailerLite's form builder first.)
-- [ ] also note - currently there is no link between donations collected and my email list... suggestions?  ask people to subscribe when they donate?  any way to automate? any way to back-fix this gap? - donor-box zapier automation??? - to be revisited (shelved for a later session)
-## Done
-
+- [ ]  ways to harvest emails from users of this sub-site — can funnel them to a new list on MailerLite (same undercarriage as Gaia Forest's subscription form). Open to suggestions. (Note: gaiaforest's own MailerLite form got a look tonight too — Members page was missing its embed, Tenzin handling directly; also discussed adding Country/Postcode fields there, needs the field added in MailerLite's form builder first.)
+- [ ] Currently no link between donations collected and my email list... suggestions?  ask people to subscribe when they donate?  any way to automate? any way to back-fix this gap? - donor-box zapier automation??? - to be revisited (shelved for a later session)
 - [x] Śamatha Retreat at IBA 2025 (31 July – 6 August, with Christian Bernert) added -- last blocked event, now resolved
 - [x] Header socials: YouTube added, Instagram switched to Tenzin's personal account, SoundCloud added
-
 - [x] TCP 2026 morning meditation glossary/summary handout (14pp, EN/ES/ZH + Sanskrit/Tibetan) published at /resources/text/glossary-morning-meditations-tcp-2026/ -- ready to share with IBA
 - [x] Rhonda Place "Cool Calm and Re-collected" #1 added (18 Jan 2025, Session 1: Kayanupassana -- embodied awareness)
 - [x] Social icons moved to header, footer "Privacy Policy" shortened to "Privacy"
-
 - [x] General links added: Gaia Forest, Plum Village International, Mountain Spring Monastery, International Buddhist Academy
 - [x]  Updates to Gaia Forest Privacy policy also?
 - [x]  Privacy policy is legacy from WordPress — suggest recycle, or send to the present Gaia Forest page?

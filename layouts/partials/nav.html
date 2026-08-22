@@ -3,8 +3,8 @@
      row (not its own separate header/row anymore). Children (Bio, Audio,
      Handouts, Vocabularies) are reachable via their parent pages' own
      body content rather than cluttering this row. -->
-<nav class="site-nav" style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
-  <ul class="main-menu" style="display: flex; margin: 0; padding: 0; list-style: none; gap: 0.5rem;">
+<nav class="site-nav" style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
+  <ul class="main-menu" style="display: flex; margin: 0; padding: 0; list-style: none; gap: 0.25rem;">
     {{ range .Site.Menus.main }}
       {{ if and (ne .Identifier "donate") (not .Parent) }}
         <li>
@@ -21,7 +21,7 @@
   {{ end }}
 
   {{/* Social links -- moved here from the footer to reduce footer crowding. */}}
-  <span style="display: flex; gap: 0.75rem; align-items: center;">
+  <span style="display: flex; gap: 0.5rem; align-items: center;">
     <a href="https://www.facebook.com/gaiaforest.org/" target="_blank" rel="noopener" style="color: #999;" aria-label="Facebook">
       <i class="fab fa-facebook"></i>
     </a>
