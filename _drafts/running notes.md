@@ -5,7 +5,10 @@
 ## To do
 
 - [x] Mailer lite does not allow an embed of preferences - it is managed via secure links - need to insert a "request preference link"  any suggestions (search mailer lite help if needed...)
+- [ ] possible to embed individual tracks rather than playlists for all soundcloud shares?  (the sets load slowly and are in a cramped scrollable window)
+- [ ] maybe put socials links in the header? and shorten "privacy policy" to "privacy" for the footer - so it needn't stack - currently cramped.
 - [ ] Suggestions about ways to harvest emails from users of this sub-site — can funnel them to a new list on MailerLite (same undercarriage as Gaia Forest's subscription form). Open to suggestions. (Note: gaiaforest's own MailerLite form got a look tonight too — Members page was missing its embed, Tenzin handling directly; also discussed adding Country/Postcode fields there, needs the field added in MailerLite's form builder first.)
+- [ ] also note - currently there is no link between donations collected and my email list... suggestions?  ask people to subscribe when they donate?  any way to automate? any way to back-fix this gap?
 - [ ] BLOCKED - Rhonda Place "Cool Calm and Re-collected" #1 — missing a URL, can't add until found
 - [ ] BLOCKED - Shamatha retreat at IBA 2025 (co-facilitated with Christian Bernert) — missing a URL/date, can't add until found
 

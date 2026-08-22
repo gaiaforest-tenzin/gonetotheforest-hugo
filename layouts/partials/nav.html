@@ -19,4 +19,14 @@
       <a href="{{ .URL }}" style="text-decoration: none; font-weight: 600; color: #6B4423;">{{ .Name }}</a>
     {{ end }}
   {{ end }}
+
+  {{/* Social links -- moved here from the footer to reduce footer crowding. */}}
+  <span style="display: flex; gap: 0.75rem; align-items: center;">
+    <a href="https://www.facebook.com/gaiaforest.org/" target="_blank" rel="noopener" style="color: #999;" aria-label="Facebook">
+      <i class="fab fa-facebook"></i>
+    </a>
+    <a href="https://www.instagram.com/gaiaforestproject/" target="_blank" rel="noopener" style="color: #999;" aria-label="Instagram">
+      <i class="fab fa-instagram"></i>
+    </a>
+  </span>
 </nav>
