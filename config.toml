@@ -68,7 +68,7 @@ title = "gone to the forest"
 
 [[menu.main]]
   identifier = "resources-vocabularies"
-  name = "Vocabularies"
+  name = "Language Study"
   url = "/resources/languages/"
   parent = "resources"
   weight = 26

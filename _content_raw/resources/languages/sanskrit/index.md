@@ -4,7 +4,7 @@ author: admin
 type: page
 date: 2022-11-26T08:03:50+00:00
 categories:
-  - Vocabulary
+  - Language Study
   - Sanskrit
 ---
 
