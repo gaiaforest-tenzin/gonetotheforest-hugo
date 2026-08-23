@@ -5,6 +5,9 @@
 ## To do
 
 - [ ] add link to personal site from main site (maybe in main menu as well as on about and bio page ??) 
+- [x] new event: https://events.humanitix.com/sept-11-13-deep-ecology-coffs-with-john-seed-and-friends -- added as "Deep Ecology: Coffs Harbour, with John Seed and Friends" (Sept 11-13, co-facilitating per Tenzin)
+- [ ] make news and events one pge, rather than needing to click through from news (where there is currently no news) to events via a link.  News section can be a single post displayed, likely a sticky post from the as-yet non-existent posts section.
+- [ ] help me to craft a new post for this slot that is a link to the launch of the donation page - maybe can even simply recycle the post from gaia forest website?  not sure of this ius good practice to syndicate - it would save us some worlk!
 - [x] slight increase in size of gaia forest seal on both websites?  Its a little small in both, maybe just 15-20% -- bumped 50px -> 60px (20%) on gonetotheforest and gaiaforest headers
 - [x] Mailer lite does not allow an embed of preferences - it is managed via secure links - need to insert a "request preference link"  any suggestions (search mailer lite help if needed...)
 - [x] remove dates from all posts and pages -- stripped from About/CV/Contact/Resources (was showing arbitrary placeholder dates), kept on News/Events where they're meaningful
