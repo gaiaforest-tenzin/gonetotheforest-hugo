@@ -1,10 +1,15 @@
-{{/* Curated landing page (News) -- content already links to its children
-     (Events), so this deliberately skips the _default/list.html behaviour
-     of also auto-listing every child page below it. */}}
+{{/* Merged News + Events landing page -- shows this page's own content
+     (e.g. a future featured/sticky post, see the _content_raw/news/_index.md
+     comment for how to wire that up) directly above the Events listing, so
+     visitors see everything without clicking through to a separate page. */}}
 {{ partial "header.html" . }}
 
 <h1 data-pagefind-ignore>{{ .Title }}</h1>
 
 {{ .Content }}
+
+{{ with .Site.GetPage "/news/events" }}
+  {{ partial "events-list.html" (dict "pages" .Pages) }}
+{{ end }}
 
 {{ partial "footer.html" . }}
