@@ -8,4 +8,4 @@ categories:
 ---
 A full-day practice session (9:30am–4:00pm) on Calm Abiding (śamatha) meditation and Lovingkindness (metta) practice, led by Br. Tenzin.
 
-To register, [get in touch](/contact/) and I'll pass your details on to the organiser.
+For more information visit: https://www.facebook.com/share/p/14fBboAbKcz/

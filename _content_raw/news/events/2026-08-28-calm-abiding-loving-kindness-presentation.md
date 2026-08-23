@@ -8,4 +8,4 @@ categories:
 ---
 An evening presentation by Br. Tenzin exploring Calm Abiding (śamatha) meditation and Loving Kindness (metta) practice.
 
-To register, [get in touch](/contact/) and I'll pass your details on to the organiser.
+For more information visit: https://www.facebook.com/share/p/14fBboAbKcz/

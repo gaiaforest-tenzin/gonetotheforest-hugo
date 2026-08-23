@@ -4,6 +4,7 @@
 
 ## To do
 
+- [ ] add link to personal site from main site (maybe in main menu as well as on about and bio page ??) 
 - [x] slight increase in size of gaia forest seal on both websites?  Its a little small in both, maybe just 15-20% -- bumped 50px -> 60px (20%) on gonetotheforest and gaiaforest headers
 - [x] Mailer lite does not allow an embed of preferences - it is managed via secure links - need to insert a "request preference link"  any suggestions (search mailer lite help if needed...)
 - [x] remove dates from all posts and pages -- stripped from About/CV/Contact/Resources (was showing arbitrary placeholder dates), kept on News/Events where they're meaningful
