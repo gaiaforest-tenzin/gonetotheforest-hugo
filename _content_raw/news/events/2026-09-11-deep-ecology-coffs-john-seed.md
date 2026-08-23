@@ -7,4 +7,4 @@ categories:
   - Event
   - Retreat
 ---
-A three-day experiential deep ecology workshop (11–13 September), co-facilitated with John Seed and friends, following the Work That Reconnects framework — gratitude, honouring pain for the world, seeing with new eyes, and going forth — including the Council of All Beings ritual. Vegetarian meals provided; 25% of proceeds support the Rainforest Information Centre.
+A three-day experiential deep ecology workshop (11–13 September), co-facilitated by John Seed with Br. Tenzin and Niamh Murray, following the Work That Reconnects framework — gratitude, honouring pain for the world, seeing with new eyes, and going forth — including the Council of All Beings ritual. Vegetarian meals provided; 25% of proceeds support the Rainforest Information Centre.
