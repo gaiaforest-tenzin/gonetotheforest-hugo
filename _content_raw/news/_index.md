@@ -5,11 +5,12 @@ date: 2026-08-22
 
 ## Latest
 
-**Fundraising film launched — "Tan Ma Ling: Island of Stability"**
+*Reposted from [Gaia Forest](https://gaiaforest.org/news/2026/06/2026-07-01-fundraising-video-launch/)*
 
-Gaia Forest has just released a short film about the project — home, sangha, and forest restoration on the Dorrigo Plateau — as part of a campaign to secure this land for the long term. Watch it and read more on the [Gaia Forest news page](https://gaiaforest.org/news/2026/06/2026-07-01-fundraising-video-launch/), or go straight to [Gaia Forest's donation page](https://gaiaforest.org/support/donate/) to support the campaign.
+**Tan Ma Ling — Island of Stability**  
+Help us secure this once-in-a-lifetime place for practice, community and forest restoration
 
-(This is separate from dāna for my own teaching — see [Support](/support/donate/) for that.)
+As we reach a critical moment in the life of the project, we are very excited to announce the launch of a short video about Gaia Forest. In March this year we were fortunate to welcome a young Belgian filmaker - Louis Leroy - to Gaia Forest. Louis visited us as a Workaway Helper, and came with a background in film making, armed with digital camera, sound gear and drones, and inspired to help us produce a short film about the project as part of our fundraising campaign. We think the result is fantastic, and invite you to watch it [here](https://gaiaforest.org/support/donate/):
 
 <!-- Tenzin: once a real posts section exists, replace the "Latest" item
      above with a "featured_post" front-matter field here pointing at a
