@@ -1,8 +1,12 @@
-{{/* Merged News + Events landing page. Shows the single most recent post
-     from /news/posts/ (see that section's _index.md for how to add posts)
-     directly under the page title -- no "Latest" label, the post's own
-     title/date/summary is the heading -- then the Events listing right
-     below, so visitors see everything without clicking through. */}}
+{{/* News page: shows the single most recent post from /news/posts/
+     (title/date/teaser, clickable through to its own page), plus a plain
+     link to the Events calendar.
+
+     Deliberately NOT embedding the full Events listing here (that was
+     tried, then reverted): whatever news post is currently featured --
+     a fundraising pitch, say -- would otherwise greet everyone who clicks
+     through to Events looking for retreat/talk dates, including people
+     who already saw it on this page. Events stays its own quiet page. */}}
 {{ partial "header.html" . }}
 
 <h1 data-pagefind-ignore>{{ .Title }}</h1>
@@ -20,8 +24,6 @@
   {{ end }}
 {{ end }}
 
-{{ with .Site.GetPage "/news/events" }}
-  {{ partial "events-list.html" (dict "pages" .Pages) }}
-{{ end }}
+<p><a href="/news/events/">See upcoming events →</a></p>
 
 {{ partial "footer.html" . }}
