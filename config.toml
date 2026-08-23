@@ -80,11 +80,18 @@ title = "gone to the forest"
   weight = 30
 
 [[menu.main]]
+  identifier = "news-posts"
+  name = "Posts"
+  url = "/news/posts/"
+  parent = "news"
+  weight = 31
+
+[[menu.main]]
   identifier = "news-events"
   name = "Events"
   url = "/news/events/"
   parent = "news"
-  weight = 31
+  weight = 32
 
 [[menu.main]]
   identifier = "search"

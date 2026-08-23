@@ -3,22 +3,15 @@ title: News
 date: 2026-08-22
 ---
 
-## Latest
+<!-- Tenzin: this page auto-shows the single most recent post from
+     /news/posts/ (see that section's own _index.md for how to add a new
+     one), followed directly by Upcoming/Past events -- no separate
+     "Latest" or "Events" heading in between, to keep it to one scroll.
 
-*Reposted from [Gaia Forest](https://gaiaforest.org/news/2026/06/2026-07-01-fundraising-video-launch/)*
+     To feature an older post instead of the most recent one, or once you
+     want real "sticky" behaviour, that'll need a "featured_post"
+     front-matter field here and a small change to the lookup in
+     layouts/news/list.html (currently just takes the newest by date).
 
-**Tan Ma Ling — Island of Stability**  
-Help us secure this once-in-a-lifetime place for practice, community and forest restoration
-
-As we reach a critical moment in the life of the project, we are very excited to announce the launch of a short video about Gaia Forest. In March this year we were fortunate to welcome a young Belgian filmaker - Louis Leroy - to Gaia Forest. Louis visited us as a Workaway Helper, and came with a background in film making, armed with digital camera, sound gear and drones, and inspired to help us produce a short film about the project as part of our fundraising campaign. We think the result is fantastic, and invite you to watch it [here](https://gaiaforest.org/support/donate/):
-
-<!-- Tenzin: once a real posts section exists, replace the "Latest" item
-     above with a "featured_post" front-matter field here pointing at a
-     post's path, pulled in via a few lines in layouts/news/list.html
-     (which renders header + this page's content + the Events listing +
-     footer, so there's a clean place to add it).
-
-     Events render directly on this page (see layouts/news/list.html and
-     the shared layouts/partials/events-list.html) -- no more click-through
-     to /news/events/. That page still exists and still works if linked to
-     directly, it's just no longer needed to see the list. -->
+     /news/events/ still exists and works standalone if linked to
+     directly, it's just no longer needed to see the events list. -->

@@ -1,0 +1,20 @@
+{{/* Blog archive -- all posts, newest first. The most recent one also
+     shows automatically on /news/ (see layouts/news/list.html). */}}
+{{ partial "header.html" . }}
+
+<h1 data-pagefind-ignore>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ range .Pages.ByDate.Reverse }}
+<article class="post-snippet">
+  <h3>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h3>
+  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+  {{ .Summary }}
+  {{ if .Truncated }}<p><a href="{{ .RelPermalink }}">Continue reading →</a></p>{{ end }}
+</article>
+{{ end }}
+
+{{ partial "footer.html" . }}

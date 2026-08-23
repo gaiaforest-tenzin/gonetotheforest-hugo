@@ -8,7 +8,7 @@
 {{ $upcoming := (where $pages "Date" "ge" $now).ByDate }}
 {{ $past := (where $pages "Date" "lt" $now).ByDate.Reverse }}
 
-<h2>Upcoming</h2>
+<h2>Upcoming events</h2>
 {{ if $upcoming }}
   {{ $currentYear := "" }}
   {{ range $upcoming }}
@@ -30,7 +30,7 @@
   <p style="color: #666; font-style: italic;">No upcoming events at this time.</p>
 {{ end }}
 
-<h2>Past</h2>
+<h2>Past events</h2>
 {{ if $past }}
   {{ $currentYear := "" }}
   {{ range $past }}

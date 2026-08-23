@@ -1,12 +1,24 @@
-{{/* Merged News + Events landing page -- shows this page's own content
-     (e.g. a future featured/sticky post, see the _content_raw/news/_index.md
-     comment for how to wire that up) directly above the Events listing, so
-     visitors see everything without clicking through to a separate page. */}}
+{{/* Merged News + Events landing page. Shows the single most recent post
+     from /news/posts/ (see that section's _index.md for how to add posts)
+     directly under the page title -- no "Latest" label, the post's own
+     title/date/summary is the heading -- then the Events listing right
+     below, so visitors see everything without clicking through. */}}
 {{ partial "header.html" . }}
 
 <h1 data-pagefind-ignore>{{ .Title }}</h1>
 
 {{ .Content }}
+
+{{ with .Site.GetPage "/news/posts" }}
+  {{ range first 1 .Pages.ByDate.Reverse }}
+    <article class="post-snippet">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      {{ .Summary }}
+      {{ if .Truncated }}<p><a href="{{ .RelPermalink }}">Continue reading →</a></p>{{ end }}
+    </article>
+  {{ end }}
+{{ end }}
 
 {{ with .Site.GetPage "/news/events" }}
   {{ partial "events-list.html" (dict "pages" .Pages) }}
