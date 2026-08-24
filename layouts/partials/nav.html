@@ -2,7 +2,13 @@
 <!-- Flat, plain-text nav, rendered beside the title in header.html's flex
      row (not its own separate header/row anymore). Children (Bio, Audio,
      Handouts, Vocabularies) are reachable via their parent pages' own
-     body content rather than cluttering this row. -->
+     body content rather than cluttering this row.
+
+     Social icons used to live here too, but four icons plus the nav
+     links made this row cramped and kept forcing spacing tweaks every
+     time a platform was added. They now live in the footer (see
+     footer.html), and the Connect page (/contact/) lists them properly
+     alongside the contact form. -->
 <nav class="site-nav" style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <ul class="main-menu" style="display: flex; margin: 0; padding: 0; list-style: none; gap: 0.25rem;">
     {{ range .Site.Menus.main }}
@@ -19,20 +25,4 @@
       <a href="{{ .URL }}" style="text-decoration: none; font-weight: 600; color: #6B4423;">{{ .Name }}</a>
     {{ end }}
   {{ end }}
-
-  {{/* Social links -- moved here from the footer to reduce footer crowding. */}}
-  <span style="display: flex; gap: 0.5rem; align-items: center;">
-    <a href="https://www.facebook.com/gaiaforest.org/" target="_blank" rel="noopener" style="color: #999;" aria-label="Facebook">
-      <i class="fab fa-facebook"></i>
-    </a>
-    <a href="https://www.instagram.com/tenzinalexanderson/" target="_blank" rel="noopener" style="color: #999;" aria-label="Instagram">
-      <i class="fab fa-instagram"></i>
-    </a>
-    <a href="https://www.youtube.com/@gaiaforest_tanmaling" target="_blank" rel="noopener" style="color: #999;" aria-label="YouTube">
-      <i class="fab fa-youtube"></i>
-    </a>
-    <a href="https://soundcloud.com/tenzin_alex" target="_blank" rel="noopener" style="color: #999;" aria-label="SoundCloud">
-      <i class="fab fa-soundcloud"></i>
-    </a>
-  </span>
 </nav>
