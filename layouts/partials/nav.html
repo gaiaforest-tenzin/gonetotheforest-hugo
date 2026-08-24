@@ -1,8 +1,10 @@
 {{/* this is /Users/alex/WebDevelopment/gonetotheforest/layouts/partials/nav.html */}}
 <!-- Flat, plain-text nav, rendered beside the title in header.html's flex
-     row (not its own separate header/row anymore). Children (Bio, Audio,
-     Handouts, Vocabularies) are reachable via their parent pages' own
-     body content rather than cluttering this row.
+     row (not its own separate header/row anymore). Most children (Bio,
+     Audio, Handouts, Vocabularies) are reachable via their parent pages'
+     own body content rather than cluttering this row -- Events is the one
+     exception, promoted into the flat row below since there's room now
+     that the social icons moved to the footer.
 
      Social icons used to live here too, but four icons plus the nav
      links made this row cramped and kept forcing spacing tweaks every
@@ -16,6 +18,19 @@
         <li>
           <a href="{{ .URL }}">{{ .Name }}</a>
         </li>
+        {{/* .Site.Menus.main only yields top-level entries here -- children
+             (parent = "...") are nested under .Children, not flattened
+             into this range. Events is the one child promoted into the
+             flat row, rendered right after its parent (News). */}}
+        {{ if eq .Identifier "news" }}
+          {{ range .Children }}
+            {{ if eq .Identifier "news-events" }}
+              <li>
+                <a href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+            {{ end }}
+          {{ end }}
+        {{ end }}
       {{ end }}
     {{ end }}
   </ul>
