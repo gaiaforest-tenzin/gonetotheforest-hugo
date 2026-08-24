@@ -11,12 +11,20 @@
      time a platform was added. They now live in the footer (see
      footer.html), and the Connect page (/contact/) lists them properly
      alongside the contact form. -->
-<nav class="site-nav" style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
-  <ul class="main-menu" style="display: flex; margin: 0; padding: 0; list-style: none; gap: 0.25rem;">
+<nav class="site-nav" style="display: flex; align-items: center; gap: 1.1rem; flex-wrap: wrap;">
+  <ul class="main-menu" style="display: flex; margin: 0; padding: 0; list-style: none; gap: 0.275rem;">
     {{ range .Site.Menus.main }}
       {{ if and (ne .Identifier "donate") (not .Parent) }}
         <li>
-          <a href="{{ .URL }}">{{ .Name }}</a>
+          {{ if eq .Identifier "search" }}
+            {{/* Icon instead of text -- saves horizontal space, and the
+                 icon is self-explanatory. Still just links to /search/;
+                 no in-page search dialog (that'd need wiring Pagefind's
+                 JS UI as an overlay, a bigger job than this needed). */}}
+            <a href="{{ .URL }}" aria-label="Search"><i class="fas fa-magnifying-glass"></i></a>
+          {{ else }}
+            <a href="{{ .URL }}">{{ .Name }}</a>
+          {{ end }}
         </li>
         {{/* .Site.Menus.main only yields top-level entries here -- children
              (parent = "...") are nested under .Children, not flattened

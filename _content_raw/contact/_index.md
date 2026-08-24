@@ -3,12 +3,6 @@ title: Connect
 date: 2026-08-22
 ---
 
-## Get in touch
-
-Use the form below to get in touch — including about events listed on the [News](/news/) page, where organiser emails are kept off the public page.
-
-{{< contact-form >}}
-
 ## Follow
 
 <div style="display: flex; gap: 1.5rem; align-items: center; font-size: 1.5rem; margin: 1rem 0;">
@@ -25,3 +19,9 @@ Use the form below to get in touch — including about events listed on the [New
     <i class="fab fa-soundcloud"></i>
   </a>
 </div>
+
+## Get in touch
+
+Use the form below to get in touch.  Please be aware that if I am in retreat replies may be delayed.
+
+{{< contact-form >}}

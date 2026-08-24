@@ -69,7 +69,8 @@ img {
 
 .site-nav a {
   display: block;
-  padding: .5rem .6rem;
+  padding: .5rem .66rem;
+  letter-spacing: 0.05em;
   color: #C08A3E;
   text-decoration: none;
 }

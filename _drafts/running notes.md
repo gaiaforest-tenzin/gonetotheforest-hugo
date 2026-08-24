@@ -4,8 +4,9 @@
 
 ## To do
 
-- [ ] add link to personal site from main site (maybe in main menu as well as on about and bio page ??) 
-- [ ] lets increase the bu
+- [ ] add link to personal site from main site (maybe in main menu as well as on about and bio page ??)
+- [x] lets change the search menu item to a magnifying glass icon, either that opens a search dialogue, or takes you to the search page... saves space, allows us to increase spacing of letters and menu items in main nav menu, about 10% to start with -- swapped "Search" text for a fa-magnifying-glass icon linking to /search/ (kept it simple, not a JS dialog overlay -- bigger job, revisit if wanted); nav gap 1rem->1.1rem, menu item gap 0.25rem->0.275rem, link horizontal padding .6rem->.66rem, added 0.05em letter-spacing to nav links (all ~10%)
+- [x] lets increase the buffer around the Gaia forest seal image in the header by 25% , and also increase it size another 10% it is currently small and crowded by the title -- gap between seal and title 1rem->1.25rem (25%), seal height 60px->66px (10%)
 - [x] still you've got that bug where pages show their title twice (one obsidian note title and one hugo title) e.g. "Thank You
 Thank You
 
