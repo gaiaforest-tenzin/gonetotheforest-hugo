@@ -4,8 +4,10 @@
 
 ## To do
 
+- [ ] Ok, resources such as audio and video lack any context - most should have some information (like a date, description) that would be good to include beside beneath the link in the corresponding resources link oge (e.g. "Adio) At least in abridged form.  
+- [ ] Also - it might be a good idea to gently direct people to the donate page along side the resources...
 - [x] add link to personal site from main site (maybe in main menu as well as on about and bio page ??) -- added on gaiaforest.org: Tenzin's full bio page and his blurb on Who We Are both now link to https://tenzin.gaiaforest.org; also fixed a broken link on Who We Are that 404'd (was pointing at /br-tenzin-dr-alex-anderson instead of the real /about/bios/br-tenzin-dr-alex-anderson/ path). Skipped adding it to gaiaforest's main nav menu for now -- bigger structural call, the note itself flagged it with "??"; say the word if you want it there too.
-- [x] lets put the search icon to the far right, after dana. -- moved out of the main-menu <ul> to its own link after Dāna, end of the nav row
+- [x] lets put the search icon to the far right, after dana. -- moved out of the main-menu to its own link after Dāna, end of the nav row
 - [x] lets increase the buffer around the Gaia forest seal image in the header another 25% -- gap 1.25rem -> 1.5625rem (25% on top of the previous 25%)
 - [x] still you've got that bug where pages show their title twice (one obsidian note title and one hugo title) e.g. "Thank You Thank You Your message has been received. I’ll do my best to respond soon." -- was only this one page (checked every page site-wide for the pattern, nothing else matched): contact/success/index.md had both `title: "Thank You"` in frontmatter (renders as h1) AND a redundant `## Thank You` heading as the first line of the body. Removed the body heading.
  - [x] Also, the social links dont appear on the connect page -- content was actually there in both local build and live site when checked (probably a stale cache on your end), but they were a bare bulleted list of text links, easy to miss/mistake for "not there" -- restyled to match the icon treatment used in the header/footer everywhere else.
