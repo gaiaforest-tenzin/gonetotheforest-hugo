@@ -1,6 +1,9 @@
 ---
 title: Events
 date: 2026-08-22
+outputs:
+  - HTML
+  - JSON
 ---
 
 <!--
@@ -29,4 +32,11 @@ date: 2026-08-22
   pasting a raw mailto: -- keeps organisers' emails off the public page
   and out of scraper/spam reach. See the 2026-08-28 and 2026-08-29 events
   for the pattern.
+
+  This section also outputs a JSON feed (see the "outputs" front matter
+  above and layouts/news/events/list.json.json) at
+  https://tenzin.gaiaforest.org/news/events/index.json -- gaiaforest.org's
+  own Events page fetches it at build time to show your events there too,
+  so nothing needs to be duplicated by hand. Just keep adding events here
+  as normal.
 -->

@@ -1,0 +1,17 @@
+{{- /* this is /Users/alex/WebDevelopment/gonetotheforest/layouts/news/events/list.json.json */ -}}
+{{- /* Machine-readable events feed, consumed by gaiaforest.org's own
+       Events page at build time (resources.GetRemote) so Tenzin's events
+       show there too without hand-duplicating content across repos.
+       Served at /news/events/index.json. */ -}}
+{{- $events := slice -}}
+{{- range .Pages -}}
+  {{- $events = $events | append (dict
+      "title" .Title
+      "date" (.Date.Format "2006-01-02")
+      "location" (.Params.location | default "")
+      "external_link" (.Params.external_link | default "")
+      "permalink" .Permalink
+      "description" (.Summary | plainify)
+  ) -}}
+{{- end -}}
+{{- dict "events" $events | jsonify -}}
