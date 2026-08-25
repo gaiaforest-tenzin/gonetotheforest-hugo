@@ -1,0 +1,19 @@
+{{/* this is /Users/alex/WebDevelopment/gonetotheforest/layouts/partials/resource-list.html */}}
+{{/* Shared listing for Resources subsections (Audio, Video, Text, Language
+     Study) -- each child page already carries a date and an opening
+     descriptive line/paragraph in its body; this surfaces both next to
+     the title instead of just a bare link, so browsing the list actually
+     gives some context before clicking through.
+
+     Note: dates here are largely leftover WordPress-import timestamps,
+     not real recording/publish dates -- shown anyway per Tenzin's call,
+     but that's the caveat if the dates look oddly precise/old. */}}
+{{ range .pages }}
+<article class="post-snippet">
+  <h3>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h3>
+  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+  {{ with .Summary }}<p>{{ . | plainify | truncate 160 }}</p>{{ end }}
+</article>
+{{ end }}

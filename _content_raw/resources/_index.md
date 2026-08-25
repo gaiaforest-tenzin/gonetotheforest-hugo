@@ -11,3 +11,5 @@ Below are links to selected resources, including audio and video recordings from
 - [Links](/resources/links/) — recommended web resources
 - [Suggested Reading](/resources/suggested-reading/) — book recommendations
 - [Language Study](/resources/languages/) — language study resources (Pāli, Sanskrit, Chinese)
+
+*These resources are offered freely. If you find them of benefit, please consider [supporting this work](/support/donate/).*

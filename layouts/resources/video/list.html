@@ -4,13 +4,7 @@
 
 {{ .Content }}
 
-{{ range .Pages }}
-<article class="post-snippet">
-  <h3>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  </h3>
-</article>
-{{ end }}
+{{ partial "resource-list.html" (dict "pages" .Pages) }}
 
 <span data-pagefind-filter="Section" style="display:none;">Resources</span>
 
