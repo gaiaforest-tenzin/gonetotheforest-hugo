@@ -5,6 +5,8 @@ categories:
   - Audio
   - Meditation
   - Deep Ecology
+tags:
+  - Coffs Mindfulness in Nature
 ---
 A guided body scan and total relaxation (32 minutes), building on earlier embodied-awareness and breath meditations to cultivate sensitivity to subtler sensation throughout the body — useful for relaxation and stress management, and for honing the skills of the earlier practices.
 

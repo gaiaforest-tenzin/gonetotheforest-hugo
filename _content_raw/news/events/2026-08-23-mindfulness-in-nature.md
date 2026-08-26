@@ -7,4 +7,6 @@ categories:
   - Event
   - Retreat
 ---
-A guided outdoor mindfulness session led by Br. Tenzin, exploring Buddhist principles of compassion and wisdom through meditation practices that deepen connection with nature — inspired by Thich Nhat Hanh's teachings. Hosted by the City of Coffs Harbour.
+A guided outdoor mindfulness session led by Br. Tenzin, exploring Buddhist principles of compassion and wisdom through meditation practices that deepen connection with nature — inspired by Thich Nhat Hanh's teachings. Part of the [Our Living Coast](https://www.ourlivingcoast.com.au/Home) program, organised by Lilli Nicholson.
+
+[Follow-up resources for participants →](/resources/mindfulness-in-nature-coffs-harbour/)

@@ -5,6 +5,8 @@ categories:
   - Audio
   - Meditation
   - Deep Ecology
+tags:
+  - Coffs Mindfulness in Nature
 ---
 This practice expands on basic postural awareness, bringing in mindfulness of breathing, drawing on the [Ānāpānasati Sutta](https://suttacentral.net/mn118/en/sujato?lang=en&layout=linebyline&reference=main%2Cpts&notes=none&highlight=false&script=latin) (MN 118). Suitable for any level of practitioner, cultivating a body and mind that is calm and at ease, and a helpful antidote to strong or flooding emotions.
 
