@@ -4,6 +4,8 @@
 
 {{ .Content }}
 
+{{ partial "resource-search.html" (dict "id" "languages-search") }}
+
 {{ partial "resource-list.html" (dict "pages" .Pages) }}
 
 <span data-pagefind-filter="Section" style="display:none;">Resources</span>

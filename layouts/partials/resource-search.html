@@ -1,0 +1,29 @@
+{{/* this is /Users/alex/WebDevelopment/gonetotheforest/layouts/partials/resource-search.html */}}
+{{/* Shared Pagefind search+filter box for the Resources landing page and
+     each subsection (Audio/Video/Text/Language Study). Locked to
+     Section=Resources so results never include news/bio/etc, same as
+     before -- but now also surfaces Category as a live filter, since
+     _default/single.html already tags every resource page with
+     data-pagefind-filter="Category" for each of its categories/tags.
+     Pagefind-UI auto-builds checkbox UI for any indexed filter that
+     ISN'T locked via the `filters` option below, so Category shows up
+     for free without any extra wiring.
+
+     Usage: {{ partial "resource-search.html" (dict "id" "unique-element-id") }}
+     Each page using this needs a unique id if more than one instance
+     could ever appear, though in practice each page only calls it once. */}}
+{{ $id := .id | default "resource-search" }}
+<h3 style="margin-top: 2rem;">Search Resources</h3>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="{{ $id }}"></div>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({
+      element: "#{{ $id }}",
+      showSubResults: true,
+      showImages: false,
+      filters: { "Section": "Resources" }
+    });
+  });
+</script>

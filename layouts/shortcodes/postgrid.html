@@ -1,0 +1,156 @@
+{{/* ---------- postgrid shortcode ---------- */}}
+{{/*
+Curate an arbitrary hand-picked set of existing Resources pages into a
+new page of your own, with your own preamble/description above it --
+e.g. "Handout for Event X, 12 May: bring these recordings" -- rather
+than asking people to self-filter via the Search Resources checkboxes.
+Complements that search (good for "let me find X"), this is for "here
+is the set I've already chosen for you" (good for a specific retreat,
+day, or participant group).
+
+Same interface as deepecology's shortcode of the same name, so it
+should feel familiar, but adapted to this site:
+  - Pulls from gonetotheforest's actual Resources tree (Section
+    "resources" covers Audio/Video/Text/Language Study/Suggested
+    Reading uniformly, regardless of subfolder) instead of a single
+    flat "posts" section.
+  - Category/tag matching is case-insensitive on both sides. This
+    site's frontmatter uses Title Case (e.g. "Audio", "Deep Ecology"),
+    unlike deepecology's lowercase convention, so page-side values are
+    lower-cased before comparing, not just the shortcode params.
+  - Cards default to no image/no date (showimage=false, showdate=false)
+    to match the plain, no-synthetic-date convention already used by
+    resource-list.html across Audio/Video/Text/Language Study -- most
+    resource pages don't set a featured_image, and frontmatter dates
+    here are mostly leftover import timestamps rather than meaningful
+    ones. Override per-call if a given collection genuinely wants them.
+
+Usage examples:
+  {{< postgrid categories="Audio" limit="12" >}}
+  {{< postgrid categories="Audio" tags="Pali" limit="20" layout="column" >}}
+  {{< postgrid tags="Deep Ecology" excludetags="Video" layout="grid" >}}
+*/}}
+
+{{/* ---------- Parameters ---------- */}}
+{{ $catParam      := .Get "categories"  | default "" }}
+{{ $tagParam      := .Get "tags"        | default "" }}
+{{ $excludeParam  := .Get "excludetags" | default "" }}
+{{ $limit         := .Get "limit"       | default 12 | int }}
+{{ $layout        := .Get "layout"      | default "grid" }}
+{{ $showImage     := eq (lower (.Get "showimage" | default "false")) "true" }}
+{{ $showTitle     := eq (lower (.Get "showtitle" | default "true")) "true" }}
+{{ $showDate      := eq (lower (.Get "showdate" | default "false")) "true" }}
+{{ $summaryLength := .Get "summarylength" | default 160 | int }}
+
+{{/* Convert to slices for filtering */}}
+{{ $cats := slice }}
+{{ if $catParam }}
+  {{ $cats = split (lower $catParam) "," }}
+{{ end }}
+
+{{ $tags := slice }}
+{{ if $tagParam }}
+  {{ $tags = split (lower $tagParam) "," }}
+{{ end }}
+
+{{ $excludeTags := slice }}
+{{ if $excludeParam }}
+  {{ $excludeTags = split (lower $excludeParam) "," }}
+{{ end }}
+
+{{/* ---------- Base set: everything under Resources ---------- */}}
+{{ $items := where .Site.RegularPages "Section" "resources" }}
+
+{{/* ---------- Category filter (any match, case-insensitive) ---------- */}}
+{{ if gt (len $cats) 0 }}
+  {{ $filtered := slice }}
+  {{ range $items }}
+    {{ $pageCats := slice }}
+    {{ range .Params.categories }}{{ $pageCats = $pageCats | append (lower .) }}{{ end }}
+    {{ if gt (len (intersect $pageCats $cats)) 0 }}
+      {{ $filtered = $filtered | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $items = $filtered }}
+{{ end }}
+
+{{/* ---------- Tag filter (AND logic, case-insensitive) ---------- */}}
+{{ if gt (len $tags) 0 }}
+  {{ $filtered := slice }}
+  {{ range $items }}
+    {{ $pageTags := slice }}
+    {{ range .Params.tags }}{{ $pageTags = $pageTags | append (lower .) }}{{ end }}
+    {{ if eq (len (intersect $pageTags $tags)) (len $tags) }}
+      {{ $filtered = $filtered | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $items = $filtered }}
+{{ end }}
+
+{{/* ---------- Exclude-tags filter (case-insensitive) ---------- */}}
+{{ if gt (len $excludeTags) 0 }}
+  {{ $filtered := slice }}
+  {{ range $items }}
+    {{ $hasExcludedTag := false }}
+    {{ range .Params.tags }}
+      {{ if in $excludeTags (lower .) }}
+        {{ $hasExcludedTag = true }}
+      {{ end }}
+    {{ end }}
+    {{ if not $hasExcludedTag }}
+      {{ $filtered = $filtered | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $items = $filtered }}
+{{ end }}
+
+{{/* ---------- Limit ---------- */}}
+{{ $items = first $limit $items }}
+
+{{/* ---------- Output -- same card look as resource-list.html/postgrid on
+     deepecology, so it doesn't introduce a third visual style ---------- */}}
+<div class="post-grid {{ $layout }}"
+     style="
+       {{ if eq $layout "column" }}
+         display:flex;flex-direction:column;gap:1.5rem;
+       {{ else }}
+         display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;
+       {{ end }}">
+  {{ range $items }}
+    <article style="border:1px solid #e5e7eb;border-radius:8px;background:#fafafa;padding:1.25rem;">
+      {{ if and $showImage .Params.featured_image }}
+        <div style="width:100%;height:180px;overflow:hidden;margin-bottom:0.75rem;">
+          <a href="{{ .RelPermalink }}">
+            <img src="{{ .Params.featured_image }}"
+                 alt="{{ .Title }}"
+                 style="width:100%;height:100%;object-fit:cover;">
+          </a>
+        </div>
+      {{ end }}
+      {{ if $showTitle }}
+        <h3 style="margin:0 0 0.5rem;font-size:1.1rem;">
+          <a href="{{ .RelPermalink }}" style="text-decoration:none;color:#1f2937;">
+            {{ .Title }}
+          </a>
+        </h3>
+      {{ end }}
+      {{ if $showDate }}
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"
+              style="color:#6b7280;font-size:0.85rem;display:block;margin-bottom:0.5rem;">
+          {{ .Date.Format "January 2, 2006" }}
+        </time>
+      {{ end }}
+      {{ $text := "" }}
+      {{ if .Summary }}
+        {{ $text = .Summary | plainify }}
+      {{ else }}
+        {{ $text = .Content | plainify }}
+      {{ end }}
+      {{ if $text }}
+        <p style="margin:0;color:#4b5563;line-height:1.5;">
+          {{ $text | truncate $summaryLength }}
+        </p>
+      {{ end }}
+    </article>
+  {{ end }}
+</div>
