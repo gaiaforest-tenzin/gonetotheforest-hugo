@@ -1,0 +1,14 @@
+{{/*
+  Usage: {{< audio src="https://example.com/path/to/file.mp3" >}}
+
+  Plain self-hosted HTML5 audio player -- same convention as deepecology's
+  shortcode of the same name. Used (unlike the soundcloud.html shortcode)
+  for recordings that are embedded directly rather than via a SoundCloud
+  track, e.g. cross-linking audio hosted on deepecology.net without
+  re-uploading it to SoundCloud.
+*/}}
+{{ $src := .Get "src" }}
+<audio controls style="width: 100%; max-width: 600px; margin: 1rem 0;">
+  <source src="{{ $src }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
