@@ -12,7 +12,7 @@ Guidance during the session drew on the [Satipaṭṭhāna Sutta](https://suttac
 
 ## Guided meditations
 
-{{< postgrid tags="Coffs Mindfulness in Nature" layout="column" >}}
+{{< postgrid tags="Basic Mindfulness" layout="column" >}}
 
 ## Suggested reading
 

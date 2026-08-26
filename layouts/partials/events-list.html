@@ -32,6 +32,7 @@
 
 <h2>Past events</h2>
 {{ if $past }}
+  <p style="color: #666;">Attended one of these? Click through for a write-up and any follow-up resources.</p>
   {{ $currentYear := "" }}
   {{ range $past }}
     {{ $year := .Date.Format "2006" }}
@@ -45,6 +46,14 @@
       </h4>
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
       {{ with .Params.location }}<span> — {{ . }}</span>{{ end }}
+      {{/* external_link (when set) already claims the title link above, so
+           past events need a second way back to this site's own page --
+           that's where the resources link (tailored or generic fallback)
+           lives, via single.html. Without this, an event with an
+           external_link is a dead end back to Eventbrite/Facebook/etc. */}}
+      {{ if .Params.external_link }}
+        <span> — <a href="{{ .RelPermalink }}">details & resources on this site →</a></span>
+      {{ end }}
     </article>
   {{ end }}
 {{ else }}

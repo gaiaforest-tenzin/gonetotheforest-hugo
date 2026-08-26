@@ -39,4 +39,24 @@ outputs:
   own Events page fetches it at build time to show your events there too,
   so nothing needs to be duplicated by hand. Just keep adding events here
   as normal.
+
+  Linking to follow-up resources
+  ================================
+  Once you've built a dedicated resources page for a specific event (like
+  the Coffs Harbour "Mindfulness in Nature" one, or the upcoming TCP/KFBG
+  ones), point to it by adding one more frontmatter field:
+
+  resources_page: "/resources/your-page-slug/"
+
+  The event's own page then shows a "Resources for this event ->" link
+  automatically (see layouts/news/events/single.html). Leave the field out
+  and, once the event is in the past, it falls back to a generic "Browse
+  all Resources ->" link instead -- so no event is ever a dead end, even
+  ones you haven't built anything bespoke for.
+
+  Note this link only ever appears on the event's own page on this site,
+  not on the Events list itself -- external_link (when set) claims the
+  title link there for the ticket/poster page, same as always. Past events
+  get a small second link ("details & resources on this site ->") back to
+  the internal page specifically so this is still reachable.
 -->

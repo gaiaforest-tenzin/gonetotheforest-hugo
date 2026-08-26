@@ -10,6 +10,16 @@
   <p><a href="{{ . }}" target="_blank" rel="noopener">Event details / RSVP →</a></p>
 {{ end }}
 
+{{/* Resources link -- a tailored page if one's been built for this specific
+     event (set resources_page in frontmatter, e.g. after building a
+     handout like the Coffs Harbour one), otherwise a generic fallback to
+     the main Resources section so no event page is ever a dead end. */}}
+{{ if .Params.resources_page }}
+  <p><a href="{{ .Params.resources_page }}">Resources for this event →</a></p>
+{{ else if lt .Date now }}
+  <p><a href="/resources/">Browse all Resources →</a></p>
+{{ end }}
+
 {{ range .Params.categories }}<span data-pagefind-filter="Category" style="display:none;">{{ . }}</span>{{ end }}
 
 {{ partial "footer.html" . }}
