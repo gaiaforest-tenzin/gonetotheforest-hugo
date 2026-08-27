@@ -10,13 +10,23 @@
   <p><a href="{{ . }}" target="_blank" rel="noopener">Event details / RSVP →</a></p>
 {{ end }}
 
-{{/* Resources link -- a tailored page if one's been built for this specific
-     event (set resources_page in frontmatter, e.g. after building a
-     handout like the Coffs Harbour one), otherwise a generic fallback to
-     the main Resources section so no event page is ever a dead end. */}}
-{{ if .Params.resources_page }}
-  <p><a href="{{ .Params.resources_page }}">Resources for this event →</a></p>
-{{ else if lt .Date now }}
+{{/* Follow-up resources, past events only. Tailored page (if one's been
+     built for this specific event, via resources_page in frontmatter --
+     e.g. the Coffs Harbour handout) gets priority, shown first. Below it,
+     ALWAYS a generic grid as backup -- matched against this event's own
+     tags where set, so it gets more relevant automatically as tagging
+     across events/resources gets richer over time, falling back to the
+     broad "Basic Mindfulness" set when an event has no specific tags yet.
+     Never just a dead end either way. */}}
+{{ if lt .Date now }}
+  {{ if .Params.resources_page }}
+    <p><a href="{{ .Params.resources_page }}">Resources for this event →</a></p>
+  {{ end }}
+  {{ $eventTags := "" }}
+  {{ with .Params.tags }}{{ $eventTags = delimit . "," }}{{ end }}
+  {{ if not $eventTags }}{{ $eventTags = "Basic Mindfulness" }}{{ end }}
+  <h3>General Resources</h3>
+  {{ partial "resource-grid.html" (dict "tags" $eventTags "limit" 6) }}
   <p><a href="/resources/">Browse all Resources →</a></p>
 {{ end }}
 

@@ -1,0 +1,130 @@
+{{/* this is /Users/alex/WebDevelopment/gonetotheforest/layouts/partials/resource-grid.html */}}
+{{/*
+Shared engine behind the postgrid shortcode (for hand-authored curated
+pages) AND the automatic "General Resources" grid on past event pages
+(layouts/news/events/single.html) -- one filtering/rendering
+implementation instead of two copies drifting apart.
+
+Params (all optional, passed as a dict):
+  categories, tags, excludetags -- comma-separated strings, case-insensitive
+  limit          -- default 12
+  layout         -- "grid" or "column", default "grid"
+  showimage      -- bool, default false
+  showtitle      -- bool, default true
+  showdate       -- bool, default false
+  summarylength  -- default 160
+*/}}
+{{ $catParam      := .categories  | default "" }}
+{{ $tagParam      := .tags        | default "" }}
+{{ $excludeParam  := .excludetags | default "" }}
+{{ $limit         := .limit       | default 12 | int }}
+{{ $layout        := .layout      | default "grid" }}
+{{ $showImage     := .showimage   | default false }}
+{{ $showTitle     := .showtitle   | default true }}
+{{ $showDate      := .showdate    | default false }}
+{{ $summaryLength := .summarylength | default 160 | int }}
+
+{{ $cats := slice }}
+{{ if $catParam }}{{ $cats = split (lower $catParam) "," }}{{ end }}
+
+{{ $tags := slice }}
+{{ if $tagParam }}{{ $tags = split (lower $tagParam) "," }}{{ end }}
+
+{{ $excludeTags := slice }}
+{{ if $excludeParam }}{{ $excludeTags = split (lower $excludeParam) "," }}{{ end }}
+
+{{/* ---------- Base set: everything under Resources ---------- */}}
+{{ $items := where site.RegularPages "Section" "resources" }}
+
+{{/* ---------- Category filter (any match, case-insensitive) ---------- */}}
+{{ if gt (len $cats) 0 }}
+  {{ $filtered := slice }}
+  {{ range $items }}
+    {{ $pageCats := slice }}
+    {{ range .Params.categories }}{{ $pageCats = $pageCats | append (lower .) }}{{ end }}
+    {{ if gt (len (intersect $pageCats $cats)) 0 }}
+      {{ $filtered = $filtered | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $items = $filtered }}
+{{ end }}
+
+{{/* ---------- Tag filter (any match, case-insensitive) ---------- */}}
+{{ if gt (len $tags) 0 }}
+  {{ $filtered := slice }}
+  {{ range $items }}
+    {{ $pageTags := slice }}
+    {{ range .Params.tags }}{{ $pageTags = $pageTags | append (lower .) }}{{ end }}
+    {{ if gt (len (intersect $pageTags $tags)) 0 }}
+      {{ $filtered = $filtered | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $items = $filtered }}
+{{ end }}
+
+{{/* ---------- Exclude-tags filter (case-insensitive) ---------- */}}
+{{ if gt (len $excludeTags) 0 }}
+  {{ $filtered := slice }}
+  {{ range $items }}
+    {{ $hasExcludedTag := false }}
+    {{ range .Params.tags }}
+      {{ if in $excludeTags (lower .) }}
+        {{ $hasExcludedTag = true }}
+      {{ end }}
+    {{ end }}
+    {{ if not $hasExcludedTag }}
+      {{ $filtered = $filtered | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $items = $filtered }}
+{{ end }}
+
+{{ $items = first $limit $items }}
+
+{{ if gt (len $items) 0 }}
+<div class="post-grid {{ $layout }}"
+     style="
+       {{ if eq $layout "column" }}
+         display:flex;flex-direction:column;gap:1.5rem;
+       {{ else }}
+         display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;
+       {{ end }}">
+  {{ range $items }}
+    <article style="border:1px solid #e5e7eb;border-radius:8px;background:#fafafa;padding:1.25rem;">
+      {{ if and $showImage .Params.featured_image }}
+        <div style="width:100%;height:180px;overflow:hidden;margin-bottom:0.75rem;">
+          <a href="{{ .RelPermalink }}">
+            <img src="{{ .Params.featured_image }}"
+                 alt="{{ .Title }}"
+                 style="width:100%;height:100%;object-fit:cover;">
+          </a>
+        </div>
+      {{ end }}
+      {{ if $showTitle }}
+        <h3 style="margin:0 0 0.5rem;font-size:1.1rem;">
+          <a href="{{ .RelPermalink }}" style="text-decoration:none;color:#1f2937;">
+            {{ .Title }}
+          </a>
+        </h3>
+      {{ end }}
+      {{ if $showDate }}
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"
+              style="color:#6b7280;font-size:0.85rem;display:block;margin-bottom:0.5rem;">
+          {{ .Date.Format "January 2, 2006" }}
+        </time>
+      {{ end }}
+      {{ $text := "" }}
+      {{ if .Summary }}
+        {{ $text = .Summary | plainify }}
+      {{ else }}
+        {{ $text = .Content | plainify }}
+      {{ end }}
+      {{ if $text }}
+        <p style="margin:0;color:#4b5563;line-height:1.5;">
+          {{ $text | truncate $summaryLength }}
+        </p>
+      {{ end }}
+    </article>
+  {{ end }}
+</div>
+{{ end }}

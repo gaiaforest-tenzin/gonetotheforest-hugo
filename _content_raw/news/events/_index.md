@@ -59,4 +59,18 @@ outputs:
   title link there for the ticket/poster page, same as always. Past events
   get a small second link ("details & resources on this site ->") back to
   the internal page specifically so this is still reachable.
+
+  Below that tailored link (if any), every past event ALSO always shows a
+  "General Resources" grid automatically -- no dead ends even for events
+  you haven't built anything for. It's matched against this event's own
+  tags, e.g.:
+
+  tags:
+    - Basic Mindfulness
+
+  Add whatever topical tags fit (Metta, Śamatha, Deep Ecology, etc.) --
+  matching tags on the Resources side is what makes the grid relevant.
+  No tags set at all just falls back to the broad "Basic Mindfulness" set.
+  As tagging gets richer across both events and resources over time, this
+  should keep self-improving without template changes.
 -->
