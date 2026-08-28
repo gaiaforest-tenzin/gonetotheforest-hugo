@@ -6,6 +6,6 @@ categories:
   - Meditation
   - Deep Ecology
 ---
-A meditation, from many years ago, on the impact of climate change on rainforest biodiversity.
+A meditation, recorded many years ago now (on-location in the rainforest of Far-North Queensland) on the impact of climate change on rainforest biodiversity.
 
 {{< soundcloud url="https://soundcloud.com/tenzin_alex/song-of-the-rainforest" >}}
