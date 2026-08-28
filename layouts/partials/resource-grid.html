@@ -1,22 +1,50 @@
 {{/* this is /Users/alex/WebDevelopment/gonetotheforest/layouts/partials/resource-grid.html */}}
 {{/*
 Shared engine behind the postgrid shortcode (for hand-authored curated
-pages) AND the automatic "General Resources" grid on past event pages
-(layouts/news/events/single.html) -- one filtering/rendering
+pages) AND the automatic "Follow-up Resources" grid on past event pages
+(layouts/posts/events/single.html) -- one filtering/rendering
 implementation instead of two copies drifting apart.
 
 Params (all optional, passed as a dict):
-  categories, tags, excludetags -- comma-separated strings, case-insensitive
+  categories, tags, excludetags, excludecategories
+                 -- comma-separated strings, case-insensitive
+  page           -- the page doing the calling; ALWAYS pass this (see below)
   limit          -- default 12
   layout         -- "grid" or "column", default "grid"
   showimage      -- bool, default false
   showtitle      -- bool, default true
   showdate       -- bool, default false
   summarylength  -- default 160
+
+Base pool is everything under posts/ (News, Events and Resources all live
+together there -- see posts/_index.md -- specifically so they can
+cross-reference each other; not the whole site, deliberately, since that
+would risk pulling in About/CV/Bio pages on any bare {{< postgrid >}}
+call with no filters). This is what lets a Resources page and an Events
+page reference each other by tag in either direction. Use
+excludecategories to keep a grid from bleeding into content it shouldn't
+(e.g. an events page's "Follow-up Resources" grid excluding
+Category=Event, so it doesn't just list other events back at you).
+
+The "page" param exists to prevent a page including ITSELF in its own
+grid, which is not merely untidy -- it hangs the build. Rendering a card
+needs that page's .Summary/.Content, so a page whose own tags match its
+own grid would have to finish rendering itself before it can finish
+rendering itself. Hugo deadlocks with no error, and the build just sits
+there forever. This bit for real on the Coffs Harbour event, which is
+tagged "Basic Mindfulness" AND hand-picks a postgrid of tags="Basic
+Mindfulness". Self-exclusion below makes that safe.
+
+(The same deadlock is theoretically reachable via a mutual pair -- event
+A's hand-written grid pulling in event B while B's pulls in A. Nothing
+guards that, since it needs two deliberate hand-authored grids pointing
+at each other; if a build ever hangs with no error message again, that
+is the first thing to check.)
 */}}
 {{ $catParam      := .categories  | default "" }}
 {{ $tagParam      := .tags        | default "" }}
 {{ $excludeParam  := .excludetags | default "" }}
+{{ $excludeCatParam := .excludecategories | default "" }}
 {{ $limit         := .limit       | default 12 | int }}
 {{ $layout        := .layout      | default "grid" }}
 {{ $showImage     := .showimage   | default false }}
@@ -33,8 +61,25 @@ Params (all optional, passed as a dict):
 {{ $excludeTags := slice }}
 {{ if $excludeParam }}{{ $excludeTags = split (lower $excludeParam) "," }}{{ end }}
 
-{{/* ---------- Base set: everything under Resources ---------- */}}
-{{ $items := where site.RegularPages "Section" "resources" }}
+{{ $excludeCats := slice }}
+{{ if $excludeCatParam }}{{ $excludeCats = split (lower $excludeCatParam) "," }}{{ end }}
+
+{{/* ---------- Base set: everything under posts/ (News, Events, Resources) ---------- */}}
+{{ $items := where site.RegularPages "Section" "posts" }}
+
+{{/* ---------- Never include the calling page in its own grid ----------
+     Not cosmetic: see the header comment. Without this, a page whose own
+     tags match its own grid deadlocks the build with no error output. */}}
+{{ with .page }}
+  {{ $self := .RelPermalink }}
+  {{ $filtered := slice }}
+  {{ range $items }}
+    {{ if ne .RelPermalink $self }}
+      {{ $filtered = $filtered | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $items = $filtered }}
+{{ end }}
 
 {{/* ---------- Category filter (any match, case-insensitive) ---------- */}}
 {{ if gt (len $cats) 0 }}
@@ -73,6 +118,23 @@ Params (all optional, passed as a dict):
       {{ end }}
     {{ end }}
     {{ if not $hasExcludedTag }}
+      {{ $filtered = $filtered | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $items = $filtered }}
+{{ end }}
+
+{{/* ---------- Exclude-categories filter (case-insensitive) ---------- */}}
+{{ if gt (len $excludeCats) 0 }}
+  {{ $filtered := slice }}
+  {{ range $items }}
+    {{ $hasExcludedCat := false }}
+    {{ range .Params.categories }}
+      {{ if in $excludeCats (lower .) }}
+        {{ $hasExcludedCat = true }}
+      {{ end }}
+    {{ end }}
+    {{ if not $hasExcludedCat }}
       {{ $filtered = $filtered | append . }}
     {{ end }}
   {{ end }}

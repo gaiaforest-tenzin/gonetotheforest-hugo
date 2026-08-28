@@ -3,8 +3,11 @@
        Events page at build time (resources.GetRemote) so Tenzin's events
        show there too without hand-duplicating content across repos.
        Served at /news/events/index.json. */ -}}
+{{- /* RegularPagesRecursive, not .Pages: events live in year subfolders
+       (posts/events/2026/...), so .Pages would yield the year sections
+       instead of the events and this feed would go empty. */ -}}
 {{- $events := slice -}}
-{{- range .Pages -}}
+{{- range .RegularPagesRecursive -}}
   {{- $events = $events | append (dict
       "title" .Title
       "date" (.Date.Format "2006-01-02")

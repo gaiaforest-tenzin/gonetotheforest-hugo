@@ -5,3 +5,46 @@
 
 [build.environment]
   HUGO_VERSION = "0.147.4"
+
+# Redirects from the old URL scheme, kept so nothing already shared out in
+# the wild dead-ends. News/Events/Resources used to sit at the top level
+# (/resources/..., /news/events/...); they now live together under /posts/
+# so that URLs mirror the content folder tree exactly.
+#
+# Netlify takes the FIRST matching rule, so the specific ones come first.
+
+# Resources map one-to-one -- no year folders there, so the whole path
+# after /resources/ carries across unchanged.
+[[redirects]]
+  from = "/resources/*"
+  to = "/posts/resources/:splat"
+  status = 301
+
+# The events JSON feed consumed by gaiaforest.org's Events page at build
+# time. This one matters most: it keeps that site working even if it
+# rebuilds before this one has redeployed.
+[[redirects]]
+  from = "/news/events/index.json"
+  to = "/posts/events/index.json"
+  status = 301
+
+# Individual events and posts can't map one-to-one, because they gained
+# year folders and lost the year from their filename
+# (/news/events/2026-08-23-mindfulness-in-nature/ is now
+# /posts/events/2026/08-23-mindfulness-in-nature/). Rather than 404, send
+# old deep links to the relevant listing page, where the event/post is one
+# click away under its year heading.
+[[redirects]]
+  from = "/news/events/*"
+  to = "/posts/events/"
+  status = 301
+
+[[redirects]]
+  from = "/news/posts/*"
+  to = "/posts/news/"
+  status = 301
+
+[[redirects]]
+  from = "/news/*"
+  to = "/posts/"
+  status = 301

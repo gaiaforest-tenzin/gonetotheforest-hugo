@@ -53,7 +53,7 @@ Working closely with John Seed and Pat Fleming, coauthors with Joanna Macy and A
 
 ## Retreat Facilitation (selected)
 
-*See [News → Events](/news/events/) for a fuller, dated listing of recent and upcoming retreats and talks.*
+*See [News → Events](/posts/events/) for a fuller, dated listing of recent and upcoming retreats and talks.*
 
 - 2025–2026: Metta and śamatha retreats, International Buddhist Academy, Kathmandu — co-facilitated with Christian Bernert.
 - 2025–2026: Forest mindfulness retreats, Kadoorie Farm and Botanic Garden, Hong Kong — one-day (2025) and two-day (2026) "Walking in Peace" events.

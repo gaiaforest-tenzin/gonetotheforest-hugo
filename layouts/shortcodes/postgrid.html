@@ -9,25 +9,33 @@ is the set I've already chosen for you" (good for a specific retreat,
 day, or participant group).
 
 The actual filtering/rendering lives in partials/resource-grid.html --
-shared with the automatic "General Resources" grid that appears on past
-event pages (layouts/news/events/single.html), so both stay in sync.
+shared with the automatic "Follow-up Resources" grid that appears on past
+event pages (layouts/posts/events/single.html), so both stay in sync.
 
 Category/tag matching is case-insensitive on both sides -- this site's
 frontmatter uses Title Case (e.g. "Audio", "Deep Ecology").
+
+The pool this draws from is everything under posts/ (News, Events and
+Resources), so a curated page can pull in a relevant upcoming/past event
+alongside resources -- use excludecategories="Event" if you only want
+resources, not events, to show up in a particular grid.
 
 Usage examples:
   {{< postgrid categories="Audio" limit="12" >}}
   {{< postgrid categories="Audio" tags="Pali" limit="20" layout="column" >}}
   {{< postgrid tags="Deep Ecology" excludetags="Video" layout="grid" >}}
+  {{< postgrid tags="Basic Mindfulness" excludecategories="Event" >}}
 */}}
 {{ partial "resource-grid.html" (dict
-  "categories"    (.Get "categories")
-  "tags"          (.Get "tags")
-  "excludetags"   (.Get "excludetags")
-  "limit"         (.Get "limit")
-  "layout"        (.Get "layout")
-  "showimage"     (eq (lower (.Get "showimage" | default "false")) "true")
-  "showtitle"     (eq (lower (.Get "showtitle" | default "true")) "true")
-  "showdate"      (eq (lower (.Get "showdate" | default "false")) "true")
-  "summarylength" (.Get "summarylength")
+  "page"              .Page
+  "categories"        (.Get "categories")
+  "tags"              (.Get "tags")
+  "excludetags"       (.Get "excludetags")
+  "excludecategories" (.Get "excludecategories")
+  "limit"             (.Get "limit")
+  "layout"            (.Get "layout")
+  "showimage"         (eq (lower (.Get "showimage" | default "false")) "true")
+  "showtitle"         (eq (lower (.Get "showtitle" | default "true")) "true")
+  "showdate"          (eq (lower (.Get "showdate" | default "false")) "true")
+  "summarylength"     (.Get "summarylength")
 ) }}

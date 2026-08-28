@@ -2,6 +2,15 @@ baseURL = "https://tenzin.gaiaforest.org"
 languageCode = "en-us"
 title = "gone to the forest"
 
+# Build future-dated content. Essential for this site: an "upcoming event"
+# is by definition dated in the future, and Hugo SKIPS such pages entirely
+# unless told otherwise -- so without this, every upcoming event silently
+# vanishes and the Events page reads "No upcoming events at this time."
+# Netlify's build command passes --buildFuture explicitly, but a plain
+# local `hugo server` does not; setting it here means local preview always
+# matches the live site without having to remember the flag.
+buildFuture = true
+
 # Enable HTML in markdown
 [markup]
   [markup.goldmark]
@@ -28,68 +37,68 @@ title = "gone to the forest"
 [[menu.main]]
   identifier = "resources"
   name = "Resources"
-  url = "/resources/"
+  url = "/posts/resources/"
   weight = 20
 
 [[menu.main]]
   identifier = "resources-audio"
   name = "Audio"
-  url = "/resources/audio/"
+  url = "/posts/resources/audio/"
   parent = "resources"
   weight = 21
 
 [[menu.main]]
   identifier = "resources-video"
   name = "Video"
-  url = "/resources/video/"
+  url = "/posts/resources/video/"
   parent = "resources"
   weight = 22
 
 [[menu.main]]
   identifier = "resources-text"
   name = "Text"
-  url = "/resources/text/"
+  url = "/posts/resources/text/"
   parent = "resources"
   weight = 23
 
 [[menu.main]]
   identifier = "resources-links"
   name = "Links"
-  url = "/resources/links/"
+  url = "/posts/resources/links/"
   parent = "resources"
   weight = 24
 
 [[menu.main]]
   identifier = "resources-suggested-reading"
   name = "Suggested Reading"
-  url = "/resources/suggested-reading/"
+  url = "/posts/resources/suggested-reading/"
   parent = "resources"
   weight = 25
 
 [[menu.main]]
   identifier = "resources-vocabularies"
   name = "Language Study"
-  url = "/resources/languages/"
+  url = "/posts/resources/languages/"
   parent = "resources"
   weight = 26
 
 [[menu.main]]
   identifier = "news"
   name = "News"
-  url = "/news/"
+  url = "/posts/"
   weight = 30
 
 [[menu.main]]
   identifier = "news-posts"
   name = "Posts"
-  url = "/news/posts/"
+  url = "/posts/news/"
   parent = "news"
   weight = 31
 
 [[menu.main]]
   identifier = "news-events"
   name = "Events"
-  url = "/news/events/"
+  url = "/posts/events/"
   parent = "news"
   weight = 32
 

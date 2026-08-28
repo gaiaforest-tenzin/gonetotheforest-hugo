@@ -40,20 +40,18 @@
       <h3>{{ $year }}</h3>
       {{ $currentYear = $year }}
     {{ end }}
+    {{/* Past events link to THIS site's own page, always -- never straight
+         out to external_link the way upcoming events do. Someone who
+         attended and is looking for the write-up/recordings should not be
+         bounced to an Eventbrite listing for an event that already
+         happened. The external listing is still reachable, as a muted
+         link at the bottom of the event's own page (see single.html). */}}
     <article class="post-snippet">
       <h4>
-        <a href="{{ with .Params.external_link }}{{ . }}{{ else }}{{ .RelPermalink }}{{ end }}"{{ with .Params.external_link }} target="_blank" rel="noopener"{{ end }}>{{ .Title }}</a>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </h4>
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
       {{ with .Params.location }}<span> — {{ . }}</span>{{ end }}
-      {{/* external_link (when set) already claims the title link above, so
-           past events need a second way back to this site's own page --
-           that's where the resources link (tailored or generic fallback)
-           lives, via single.html. Without this, an event with an
-           external_link is a dead end back to Eventbrite/Facebook/etc. */}}
-      {{ if .Params.external_link }}
-        <span> — <a href="{{ .RelPermalink }}">details & resources on this site →</a></span>
-      {{ end }}
     </article>
   {{ end }}
 {{ else }}

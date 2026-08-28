@@ -19,6 +19,6 @@ Links and resources for journeying into the Pāli textual tradition:
 
 #### Related resources
 
-- [Text: Recitations in Pali](/resources/text/pali-recitations-text/) (printable pecha-format PDF)
-- [Audio: Metta Bhavana recitation in Pali](/resources/audio/metta-bhavana-in-pali/)
-- [Audio: Transference of Merit in Pali](/resources/audio/transference-of-merit-in-pali/)
+- [Text: Recitations in Pali](/posts/resources/text/pali-recitations-text/) (printable pecha-format PDF)
+- [Audio: Metta Bhavana recitation in Pali](/posts/resources/audio/metta-bhavana-in-pali/)
+- [Audio: Transference of Merit in Pali](/posts/resources/audio/transference-of-merit-in-pali/)

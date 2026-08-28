@@ -1,0 +1,58 @@
+{{ partial "header.html" . }}
+
+<h1 class="post-title" data-pagefind-ignore>{{ .Title }}</h1>
+
+<span class="post-date">{{ .Date.Format "January 2, 2006" }}{{ with .Params.location }} — {{ . }}{{ end }}</span>
+
+{{/* Upcoming events lead with the RSVP link -- that's the whole point of
+     the page while the event is still ahead. Past events deliberately do
+     NOT: sending someone who attended back out to a dead Eventbrite/
+     Facebook listing for an event that already happened is a goose
+     chase. On past events the external listing moves to a small muted
+     line at the very bottom instead, below the write-up and resources,
+     so this site's own material comes first. */}}
+{{ $isPast := lt .Date now }}
+{{ if and .Params.external_link (not $isPast) }}
+  <p><a href="{{ .Params.external_link }}" target="_blank" rel="noopener">Event details / RSVP →</a></p>
+{{ end }}
+
+{{/* The event's own body. For a past event this is where the follow-up
+     write-up lives -- appended to this same file over time rather than
+     spun out as a separate post (see posts/events/_index.md): original
+     event description first (kept untouched, above the <!--more-->
+     break), then a short summary of how it went, then any tailored
+     links or hand-picked {{< postgrid >}} of resources. */}}
+{{ .Content }}
+
+{{/* "Further resources" -- the generic catch-all under whatever the
+     event itself offers, past events only, so no past event is ever a
+     dead end even when nothing has been written up for it yet.
+
+     The tag-matched grid is skipped when the body already hand-picks its
+     own postgrid: with the tag vocabulary as small as it currently is,
+     an automatic grid on such a page would just repeat the same items
+     the author already chose, immediately below them. Hand-picked wins;
+     the browse link below still gives people somewhere onward to go. */}}
+{{ if $isPast }}
+  <h2>Further resources</h2>
+  {{ if not (strings.Contains .RawContent "postgrid") }}
+    {{ $eventTags := "" }}
+    {{ with .Params.tags }}{{ $eventTags = delimit . "," }}{{ end }}
+    {{ if not $eventTags }}{{ $eventTags = "Basic Mindfulness" }}{{ end }}
+    {{/* excludecategories="Event" keeps this a resources grid rather than
+         an "other events" grid, now that resource-grid.html's base pool is
+         everything under posts/ (News, Events and Resources together). */}}
+    {{ partial "resource-grid.html" (dict "page" . "tags" $eventTags "excludecategories" "Event" "limit" 6) }}
+  {{ end }}
+  <p><a href="/posts/resources/">Browse all Resources →</a></p>
+
+  {{ with .Params.external_link }}
+    <p style="color:#6b7280;font-size:0.9rem;margin-top:2rem;">
+      <a href="{{ . }}" target="_blank" rel="noopener" style="color:#6b7280;">Original event listing →</a>
+    </p>
+  {{ end }}
+{{ end }}
+
+{{ range .Params.categories }}<span data-pagefind-filter="Category" style="display:none;">{{ . }}</span>{{ end }}
+
+{{ partial "footer.html" . }}

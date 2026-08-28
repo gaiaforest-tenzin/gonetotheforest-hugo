@@ -1,12 +1,14 @@
 {{/* Blog archive -- all posts, newest first. The most recent one also
-     shows automatically on /news/ (see layouts/news/list.html). */}}
+     shows automatically on /posts/ (see layouts/posts/list.html). */}}
 {{ partial "header.html" . }}
 
 <h1 data-pagefind-ignore>{{ .Title }}</h1>
 
 {{ .Content }}
 
-{{ range .Pages.ByDate.Reverse }}
+{{/* RegularPagesRecursive, not .Pages: posts live in year subfolders
+     (posts/news/2026/...), so .Pages would return the year sections. */}}
+{{ range .RegularPagesRecursive.ByDate.Reverse }}
 <article class="post-snippet">
   <h3>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>

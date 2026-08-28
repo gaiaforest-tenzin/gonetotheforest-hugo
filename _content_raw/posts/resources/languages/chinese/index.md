@@ -17,5 +17,5 @@ I'm posting here resources I'm finding useful for my own very tentative steps to
 
 ### Related resources
 
-- [Text: Heart Sutra in Sanskrit](/resources/text/heart-sutra-sanskrit-text/) (printable pecha-format PDF)
-- [Text: Recitations in Pali](/resources/text/pali-recitations-text/) (printable pecha-format PDF)
+- [Text: Heart Sutra in Sanskrit](/posts/resources/text/heart-sutra-sanskrit-text/) (printable pecha-format PDF)
+- [Text: Recitations in Pali](/posts/resources/text/pali-recitations-text/) (printable pecha-format PDF)

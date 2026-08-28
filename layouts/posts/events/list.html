@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+
+<h1 data-pagefind-ignore>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{/* RegularPagesRecursive, not .Pages: events live in year subfolders
+     (posts/events/2026/...), so .Pages here would return the year
+     sections themselves rather than the events inside them. */}}
+{{ partial "events-list.html" (dict "pages" .RegularPagesRecursive) }}
+
+{{ partial "footer.html" . }}

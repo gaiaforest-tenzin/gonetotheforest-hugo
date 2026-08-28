@@ -8,7 +8,7 @@
 
 {{ .Content }}
 
-{{ if eq .RelPermalink "/resources/" }}
+{{ if eq .RelPermalink "/posts/resources/" }}
 {{ partial "resource-search.html" (dict "id" "resources-search") }}
 {{ end }}
 

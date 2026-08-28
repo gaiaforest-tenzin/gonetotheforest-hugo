@@ -1,6 +1,6 @@
-{{/* News page: shows the single most recent post from /news/posts/
-     (title/date/teaser, clickable through to its own page), plus a plain
-     link to the Events calendar.
+{{/* News/Posts landing page (top of the posts/ tree): shows the single
+     most recent post from /posts/news/ (title/date/teaser, clickable
+     through to its own page), plus a plain link to the Events calendar.
 
      Deliberately NOT embedding the full Events listing here (that was
      tried, then reverted): whatever news post is currently featured --
@@ -13,8 +13,9 @@
 
 {{ .Content }}
 
-{{ with .Site.GetPage "/news/posts" }}
-  {{ range first 1 .Pages.ByDate.Reverse }}
+{{ with .Site.GetPage "/posts/news" }}
+  {{/* RegularPagesRecursive, not .Pages: posts live in year subfolders. */}}
+  {{ range first 1 .RegularPagesRecursive.ByDate.Reverse }}
     <article class="post-snippet">
       <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
@@ -24,6 +25,6 @@
   {{ end }}
 {{ end }}
 
-<p><a href="/news/events/">See upcoming events →</a></p>
+<p><a href="/posts/events/">See upcoming events →</a></p>
 
 {{ partial "footer.html" . }}
