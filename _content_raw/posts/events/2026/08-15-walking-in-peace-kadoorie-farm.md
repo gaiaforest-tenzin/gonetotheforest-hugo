@@ -9,7 +9,9 @@ categories:
 ---
 Thank you to those who joined our 2-day immersive retreat led by Ven. Ngawang Tenzin (Dr. Alex Anderson), hosted by KFBG. Included mindful forest walks, meditation at Kwun Yam Shan, and gentle qigong with body awareness practices — centred on returning to the present moment through breathing, sensing, and reconnecting with nature. 
 
-During our time together we used the framework of Four Elements meditation as a gateway into a felt connection with the natural world, both inside and outside the body.  Participants also experienced an immersive "Deep Ecology" guided relaxation, linking felt experience of the Four Elements to Deep Time and the evolution of Life on Earth.  Further resources can be found below.
+ <!--more-->
+
+We began our time with some basic [Qi-gong and mindful movement practices](/posts/resources/video/qigong-movement-practice/). During our time together we used the framework of Four Elements meditation as a gateway into a felt connection with the natural world, both inside and outside the body.  Participants also experienced an immersive "Deep Ecology" guided relaxation, linking felt experience of the Four Elements to Deep Time and the evolution of Life on Earth.  Further resources can be found below.
 
 ## Follow-up resources
 
