@@ -38,7 +38,7 @@
   {{ if not (strings.Contains .RawContent "postgrid") }}
     {{ $eventTags := "" }}
     {{ with .Params.tags }}{{ $eventTags = delimit . "," }}{{ end }}
-    {{ if not $eventTags }}{{ $eventTags = "Basic Mindfulness" }}{{ end }}
+    {{ if not $eventTags }}{{ $eventTags = "basic_mindfulness" }}{{ end }}
     {{/* excludecategories="Event" keeps this a resources grid rather than
          an "other events" grid, now that resource-grid.html's base pool is
          everything under posts/ (News, Events and Resources together). */}}

@@ -22,9 +22,9 @@ resources, not events, to show up in a particular grid.
 
 Usage examples:
   {{< postgrid categories="Audio" limit="12" >}}
-  {{< postgrid categories="Audio" tags="Pali" limit="20" layout="column" >}}
-  {{< postgrid tags="Deep Ecology" excludetags="Video" layout="grid" >}}
-  {{< postgrid tags="Basic Mindfulness" excludecategories="Event" >}}
+  {{< postgrid categories="Audio" tags="pali" limit="20" layout="column" >}}
+  {{< postgrid tags="deep_ecology" excludetags="video" layout="grid" >}}
+  {{< postgrid tags="basic_mindfulness" excludecategories="Event" >}}
 */}}
 {{ partial "resource-grid.html" (dict
   "page"              .Page

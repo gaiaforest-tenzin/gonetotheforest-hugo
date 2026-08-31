@@ -9,9 +9,17 @@
 {{ .Content }}
 
 {{/* Hidden Pagefind filter tags -- lets the search UI filter results by
-     category/tag without changing anything visible on the page. */}}
+     category/tag without changing anything visible on the page.
+
+     Tags are stored lowercase_with_underscores (the site convention) but
+     Pagefind renders these values verbatim as checkbox labels in the
+     search UI, so they're prettified here for display only --
+     basic_mindfulness shows as "Basic Mindfulness". The stored tag is
+     untouched; this is purely the label. A side benefit is that a tag and
+     an equivalent Title Case category collapse into one checkbox rather
+     than appearing twice. */}}
 {{ range .Params.categories }}<span data-pagefind-filter="Category" style="display:none;">{{ . }}</span>{{ end }}
-{{ range .Params.tags }}<span data-pagefind-filter="Category" style="display:none;">{{ . }}</span>{{ end }}
+{{ range .Params.tags }}<span data-pagefind-filter="Category" style="display:none;">{{ replaceRE "_" " " . | title }}</span>{{ end }}
 {{/* .Section alone can't distinguish Resources from Events/News any more --
      they all nest under one physical "posts" section now (see posts/_index.md) --
      so this checks the URL path specifically for the posts/resources/ branch. */}}

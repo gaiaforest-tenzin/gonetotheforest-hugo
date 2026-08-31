@@ -65,9 +65,14 @@ outputs:
      summarising how it went, if that feels worth saying.
 
   3. Then EITHER a hand-picked grid of specific resources --
-     {{</* postgrid tags="Basic Mindfulness" layout="column" */>}} -- or
-     just a tailored list of links you write yourself, or both. Use ###
-     sub-headings here so they sit under the ## Follow-up heading.
+     {{</* postgrid tags="basic_mindfulness" excludecategories="Event" layout="column" */>}}
+     -- or just a tailored list of links you write yourself, or both. Use
+     ### sub-headings here so they sit under the ## Follow-up heading.
+
+     Keep the excludecategories="Event" bit on a grid that's meant to list
+     resources. Events carry topical tags too, so without it a grid under
+     a heading like "Guided meditations" will happily list other EVENTS
+     that share the tag, alongside the recordings you actually meant.
 
   4. Nothing more needed: the page automatically appends a "Further
      resources" section at the very bottom for you.
@@ -78,11 +83,19 @@ outputs:
   shows a tag-matched grid, drawn from this event's own tags, e.g.:
 
   tags:
-    - Basic Mindfulness
+    - basic_mindfulness
 
-  Add whatever topical tags fit (Metta, Śamatha, Deep Ecology, etc.) --
-  matching tags on the Resources side is what makes the grid relevant.
-  No tags set at all just falls back to the broad "Basic Mindfulness" set.
+  TAG CONVENTION: always lowercase_with_underscores, e.g. basic_mindfulness,
+  deep_ecology, metta, samatha. Tag matching is case-insensitive but NOT
+  punctuation-insensitive, so "Basic Mindfulness" and "basic_mindfulness"
+  are two different tags that will not find each other -- sticking to the
+  one style is what keeps the cross-referencing working. (Categories are a
+  separate, older list still in Title Case: Audio, Video, Event, Retreat.
+  Those say what a thing IS; tags say what it's ABOUT.)
+
+  Add whatever topical tags fit -- matching tags on the Resources side is
+  what makes the grid relevant.
+  No tags set at all just falls back to the broad basic_mindfulness set.
   It draws from Resources AND other Events/News (excluding Events
   themselves, so it doesn't just list other events back at you) -- as
   tagging gets richer across both sides over time, this keeps

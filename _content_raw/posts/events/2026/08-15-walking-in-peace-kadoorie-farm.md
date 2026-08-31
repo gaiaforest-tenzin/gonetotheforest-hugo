@@ -15,7 +15,7 @@ During our time together we used the framework of Four Elements meditation as a 
 
 ### Guided meditations
 
-{{< postgrid tags="Basic Mindfulness" layout="column" >}}
+{{< postgrid tags="basic_mindfulness" excludecategories="Event" layout="column" >}}
 
 Guided meditation and total relaxation [Our Life as Gaia](gonetotheforest/_content_raw/posts/resources/audio/our-life-as-gaia.md)
 ### Suggested reading

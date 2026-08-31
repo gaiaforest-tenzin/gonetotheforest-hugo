@@ -32,8 +32,12 @@ needs that page's .Summary/.Content, so a page whose own tags match its
 own grid would have to finish rendering itself before it can finish
 rendering itself. Hugo deadlocks with no error, and the build just sits
 there forever. This bit for real on the Coffs Harbour event, which is
-tagged "Basic Mindfulness" AND hand-picks a postgrid of tags="Basic
-Mindfulness". Self-exclusion below makes that safe.
+tagged basic_mindfulness AND hand-picks a postgrid of the same tag.
+Self-exclusion below makes that safe.
+
+Tag convention across this site is lowercase_with_underscores. Matching
+here lowercases both sides, so case never matters, but punctuation does:
+"Basic Mindfulness" and basic_mindfulness are different tags.
 
 (The same deadlock is theoretically reachable via a mutual pair -- event
 A's hand-written grid pulling in event B while B's pulls in A. Nothing

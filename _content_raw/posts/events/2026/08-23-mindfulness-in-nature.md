@@ -21,7 +21,7 @@ Thank you to everyone who joined the *Mindfulness in Nature* session at Coffs Ha
 Guidance during the session drew on the [Satipaṭṭhāna Sutta](https://suttacentral.net/mn10/en/sujato?lang=en&layout=linebyline&reference=main%2Cpts&notes=none&highlight=false&script=latin) (MN 10), the "Four Establishments of Mindfulness" — of which Mindfulness of the Body is the first. A key instruction from the sutta is the attitude it asks us to bring: "*ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ*" — ardent, clearly comprehending, and mindful, having put aside longing and aversion. In plain terms: keen and attentive, clearly understanding what's happening, and not grasping at or pushing away any part of our experience.
 ### Guided meditations
 
-{{< postgrid tags="Basic Mindfulness" layout="column" >}}
+{{< postgrid tags="basic_mindfulness" excludecategories="Event" layout="column" >}}
 
 ### Suggested reading
 

@@ -6,7 +6,7 @@ categories:
   - Meditation
   - Deep Ecology
 tags:
-  - Basic Mindfulness
+  - basic_mindfulness
 ---
 A guided introduction (35 minutes) to rediscovering the full volume of the body's natural, diaphragmatic breath — simple, safe preliminary practices common to the Buddhist and Yoga traditions as precursors to more elaborate breath-work, inspired in part by the work of Donna Farhi.
 
