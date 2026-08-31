@@ -7,4 +7,4 @@ Your message has been received. I'll do my best to respond soon.
 
 - [Upcoming events](/posts/events/)
 - [Resources](/posts/resources/)
-- [Support this work](/support/donate/)
+- [Support this work](/donate/)

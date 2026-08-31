@@ -6,18 +6,17 @@
 [build.environment]
   HUGO_VERSION = "0.147.4"
 
-# Short /donate, because that's the URL published in the description of the
-# Qi-gong video on YouTube (and it's the obvious thing for anyone to guess).
-# The page itself lives at /support/donate/. Can't edit a link once it's out
-# in the world, so catch it here.
+# The donate page moved up to /donate/ (it was the only thing under
+# /support/, which never had a page of its own). This catches the old path,
+# including anything already shared in a newsletter or on another site.
 [[redirects]]
-  from = "/donate"
-  to = "/support/donate/"
+  from = "/support/donate"
+  to = "/donate/"
   status = 301
 
 [[redirects]]
-  from = "/donate/*"
-  to = "/support/donate/"
+  from = "/support/*"
+  to = "/donate/"
   status = 301
 
 # Redirects from the old URL scheme, kept so nothing already shared out in

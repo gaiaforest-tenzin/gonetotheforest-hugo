@@ -117,5 +117,5 @@ buildFuture = true
 [[menu.main]]
   identifier = "donate"
   name = "Dāna"
-  url = "/support/donate/"
+  url = "/donate/"
   weight = 60
