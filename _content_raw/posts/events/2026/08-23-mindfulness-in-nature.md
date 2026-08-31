@@ -1,13 +1,13 @@
 ---
-title: "Mindfulness in Nature"
+title: Mindfulness in Nature
 date: 2026-08-23T10:00:00+10:00
-location: "Coffs Harbour Regional Botanic Gardens, NSW"
-external_link: "https://www.eventbrite.com.au/e/mindfulness-in-nature-tickets-1996915977444"
+location: Coffs Harbour Regional Botanic Gardens, NSW
+external_link: https://www.eventbrite.com.au/e/mindfulness-in-nature-tickets-1996915977444
 categories:
   - Event
   - Retreat
 tags:
-  - Basic Mindfulness
+  - basic_mindfulness
 ---
 A guided outdoor mindfulness session led by Br. Tenzin, exploring Buddhist principles of compassion and wisdom through meditation practices that deepen connection with nature — inspired by Thich Nhat Hanh's teachings. Part of the [Our Living Coast](https://www.ourlivingcoast.com.au/Home) program, organised by Lilli Nicholson.
 
@@ -15,14 +15,10 @@ A guided outdoor mindfulness session led by Br. Tenzin, exploring Buddhist princ
 
 ## Follow-up
 
-Thank you to everyone who joined the *Mindfulness in Nature* session at Coffs Harbour Regional Botanic Gardens, on Gumbaynggirr Country — part of [Our Living Coast](https://www.ourlivingcoast.com.au/Home), organised by Lilli Nicholson.
-
-This was a two-hour session: a 35-minute movement practice drawing on qigong and yoga principles (video of this to follow soon), an introduction to mindful walking in the Plum Village tradition, a slow 45-minute mindful walk through the gardens, and a closing sharing circle.
-
+Thank you to everyone who joined the *Mindfulness in Nature* session at Coffs Harbour Regional Botanic Gardens, on beauitful Gumbaynggirr Country.  This was a two-hour session: a 35-minute movement practice drawing on qigong and yoga principles (video of this to follow soon), an introduction to mindful walking in the Plum Village tradition, a slow 45-minute mindful walk through the gardens, and a closing sharing circle.  Some key take-homes from the practices shared are below.
 ### The "Satipaṭṭhāna attitude"
 
-Guidance during the session drew on the [Satipaṭṭhāna Sutta](https://suttacentral.net/mn10/en/sujato?lang=en&layout=linebyline&reference=main%2Cpts&notes=none&highlight=false&script=latin) (MN 10), the "Four Establishments of Mindfulness" — of which Mindfulness of the Body is the first. A key instruction from the sutta is the attitude it asks us to bring: *ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ* — ardent, clearly comprehending, and mindful, having put aside longing and aversion for the world. In plain terms: keen and attentive, clearly understanding what's happening, and not grasping at or pushing away any part of our experience.
-
+Guidance during the session drew on the [Satipaṭṭhāna Sutta](https://suttacentral.net/mn10/en/sujato?lang=en&layout=linebyline&reference=main%2Cpts&notes=none&highlight=false&script=latin) (MN 10), the "Four Establishments of Mindfulness" — of which Mindfulness of the Body is the first. A key instruction from the sutta is the attitude it asks us to bring: "*ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ*" — ardent, clearly comprehending, and mindful, having put aside longing and aversion. In plain terms: keen and attentive, clearly understanding what's happening, and not grasping at or pushing away any part of our experience.
 ### Guided meditations
 
 {{< postgrid tags="Basic Mindfulness" layout="column" >}}

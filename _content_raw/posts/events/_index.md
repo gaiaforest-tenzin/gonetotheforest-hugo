@@ -55,7 +55,7 @@ outputs:
   bottom of it. The shape:
 
   1. The original event description stays exactly as it was, at the top,
-     untouched. Put a <!--more--> line directly under it before you add
+     untouched. Put a "<!--more--> line directly under it before you add
      anything else (see the 2026-08-23 Coffs Harbour event). That break
      tells Hugo where the teaser ends, which keeps the events list and
      the gaiaforest.org JSON feed showing just the original blurb rather
