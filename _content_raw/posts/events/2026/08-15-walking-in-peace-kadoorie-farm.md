@@ -11,6 +11,7 @@ Thank you to those who joined our 2-day immersive retreat led by Ven. Ngawang Te
 
  <!--more-->
 
+## Session review
 We began our time with some basic [Qi-gong and mindful movement practices](/posts/resources/video/qigong-movement-practice/). During our time together we used the framework of Four Elements meditation as a gateway into a felt connection with the natural world, both inside and outside the body.  Participants also experienced an immersive "Deep Ecology" guided relaxation, linking felt experience of the Four Elements to Deep Time and the evolution of Life on Earth.  Further resources can be found below.
 
 ## Follow-up resources
