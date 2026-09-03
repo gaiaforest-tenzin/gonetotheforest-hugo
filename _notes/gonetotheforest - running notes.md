@@ -5,14 +5,14 @@
 ## To do
 
 - [x] important to note, the recording of the heart sutra chant is not me singing, that is from the Plum village app - this need to just be an external link 
-- [ ] Some events that missing from my events listing, and that are already posts in Gaia Forest news: 
+- [x] Some events that missing from my events listing, and that are already posts in Gaia Forest news: 
 	- [x] https://gaiaforest.org/news/2023/05/2023-05-10-menaware-nature-retreat-new-england-n-p-may-31st-june-4th-2023/ -- event page at /posts/events/2023/05-31-menaware-nature-retreat/, cross-linked both ways with the gaiaforest post
 	- [x] https://gaiaforest.org/news/2024/08/2024-08-15-sacred-ecology-nature-retreat-yuraygir-n-p-june-13th-16th-2024/ -- event page at /posts/events/2024/06-13-sacred-ecology-retreat-yuraygir/, cross-linked both ways with the gaiaforest post
 	- [x] https://gaiaforest.org/news/2024/08/2024-08-18-sacred-ecology-retreat-oct-10-13th-2024/ -- event page at /posts/events/2024/10-10-sacred-ecology-retreat-new-england/, cross-linked both ways with the gaiaforest post
 	- [x] https://gaiaforest.org/news/2025/10/2025-10-18-outdoor-health-forum/ -- event page at /posts/events/2025/10-18-outdoor-health-forum/, cross-linked
 	- [x] And from Yatra website: https://yatra.org.au/archive/2023-yuraygir-yatra-yuraygir-np/ -- event page at /posts/events/2023/10-21-yuraygir-yatra/
 	- [x] https://yatra.org.au/archive/2022-menaware-nature-retreat-2/ Co-facilitated with Ken Golding -- event page at /posts/events/2022/10-06-menaware-nature-retreat-yuraygir/
-	- [ ] another pair of missing events - info here: '/Users/alex/Desktop/Mindfulness Day.pdf' -- got the PDF, it's actually three sessions on one day (Peace Walk, a talk, evening meditation), all 31 May, venue Old Dairy Hall / Shambhala Haven Labyrinth, Currumbin Ecovillage -- still waiting to hear what YEAR this was, nothing on the flyer itself says
+	- [x] another pair of missing events - info here: '/Users/alex/Desktop/Mindfulness Day.pdf' -- confirmed as 2026, event page at /posts/events/2026/05-31-mindfulness-day-currumbin-ecovillage/ covering all three sessions (Peace Walk, talk, evening meditation)
 - [ ] Pure Land Assembly - Hong Kong: http://www.purelandassembly.org/ February 7th 2025:  "The Pure Land is Here and Now" With Venerable Tenzin - Mindfulness of breathing in meditation and daily life - Time: 08:30 - 15:30
 - [x]  Pure Land Assembly  http://www.purelandassembly.org/ "Finding The Pure Land in the Present Moment" Mindfulness of breathing in meditation and daily life with Venerable Tenzin Date: 4th October 2023 Time: 08:30 - 16:30
 - [ ] correct heart sutra links for new Pureland assembly talks : plum village chanting version in English (this is what I chant in those events)  https://www.youtube.com/watch?v=dei3RmuJd7M and the Audio only sanskrit.  (not the video link)
