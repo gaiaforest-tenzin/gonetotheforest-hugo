@@ -53,6 +53,16 @@
   {{ end }}
 {{ end }}
 
+{{/* Standard closing CTA, on EVERY event page (past and upcoming alike,
+     unlike the "Further resources" section above which is past-only) --
+     this site has no mailing list of its own yet, so it points at Gaia
+     Forest's, which already exists and works. Revisit if a
+     gonetotheforest-specific list ever gets built (see the open item
+     in the running notes about this). */}}
+<p style="border-top:1px solid #e5e7eb;margin-top:2.5rem;padding-top:1.5rem;color:#4b5563;">
+  If you like the sound of this event, <a href="https://gaiaforest.org/connect/subscribe-to-updates/" target="_blank" rel="noopener">subscribe to updates</a> to find out about similar offerings in future.
+</p>
+
 {{ range .Params.categories }}<span data-pagefind-filter="Category" style="display:none;">{{ . }}</span>{{ end }}
 
 {{ partial "footer.html" . }}

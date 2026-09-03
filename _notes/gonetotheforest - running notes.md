@@ -10,9 +10,12 @@
 	- [ ] https://gaiaforest.org/news/2024/08/2024-08-15-sacred-ecology-nature-retreat-yuraygir-n-p-june-13th-16th-2024/
 	- [ ] https://gaiaforest.org/news/2024/08/2024-08-18-sacred-ecology-retreat-oct-10-13th-2024/
 	- [ ] https://gaiaforest.org/news/2025/10/2025-10-18-outdoor-health-forum/
-- [ ] Pure Land Assembly - Hong Kong: http://www.purelandassembly.org/ February 7th 2025:  "The Pure Land is Here and Now" With Venerable Tenzin - Mindfulness of breathing in meditation and daily - Time: 08:30 - 15:30
+	- [ ] And from Yatra website: https://yatra.org.au/archive/2023-yuraygir-yatra-yuraygir-np/
+	- [ ] https://yatra.org.au/archive/2022-menaware-nature-retreat-2/ Co-facilitated with Ken Golding
+- [ ] Pure Land Assembly - Hong Kong: http://www.purelandassembly.org/ February 7th 2025:  "The Pure Land is Here and Now" With Venerable Tenzin - Mindfulness of breathing in meditation and daily life - Time: 08:30 - 15:30
 - [x]  Pure Land Assembly  http://www.purelandassembly.org/ "Finding The Pure Land in the Present Moment" Mindfulness of breathing in meditation and daily life with Venerable Tenzin Date: 4th October 2023 Time: 08:30 - 16:30
 - [ ] correct heart sutra links for new Pureland assembly talks : plum village chanting version in English (this is what I chant in those events)  https://www.youtube.com/watch?v=dei3RmuJd7M and the Audio only sanskrit.  (not the video link)
+- [ ] 
 - [x] Armidale Buddhist group January 2025 “Zen and the art of Acceptance” - finding ground for healing and growth in times of sudden change”
 - [x] Armidale: Public talk Friday 15th March 2024 at 6.30pm at Armidale Buddhist Centre “Mindfulness of Breathing”. 
 - [x] Rocky River: Day of Mindfulness  - March 16th 2024 A Day of Mindfulness  - On The Theme of Loving Kindness”. 
