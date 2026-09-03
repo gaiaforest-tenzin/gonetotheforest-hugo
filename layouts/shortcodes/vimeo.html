@@ -1,0 +1,29 @@
+{{/*
+  Usage: {{< vimeo id="951292451" hash="d296d23656" >}}
+  hash is optional -- only needed for "unlisted" Vimeo videos (the ones
+  with a privacy hash in their share URL, e.g. vimeo.com/951292451/d296d23656).
+  Plain public videos just need id.
+
+  This overrides Hugo's built-in vimeo shortcode deliberately: the built-in
+  one wasn't confirmed to pass the privacy hash through correctly, and
+  unlisted was exactly the case that mattered first (One Earth Sangha's
+  "The Ecological Self" recording). Verified against Vimeo's own oEmbed
+  API before using -- id+hash together return a working embed, id alone
+  404s for this kind of video.
+*/}}
+{{ $id := .Get "id" }}
+{{ $hash := .Get "hash" }}
+{{ if not $id }}
+  <p style="color:#a00; border:1px solid #a00; padding:0.75rem 1rem; border-radius:4px;">
+    Vimeo shortcode error: no <code>id</code> provided. Usage:
+    <code>{{`{{< vimeo id="951292451" hash="d296d23656" >}}`}}</code>
+  </p>
+{{ else }}
+<div class="vimeo-embed" style="margin: 1.5rem 0; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://player.vimeo.com/video/{{ $id }}{{ if $hash }}?h={{ $hash }}{{ end }}"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+{{ end }}
