@@ -4,22 +4,22 @@
 
 ## To do
 
-- [x] important to note, the recording of the heart sutra chant is not me singing, that is from the Plum village app - this need to just be an external link -- fixed. Deleted the resource page I'd wrongly created for it (was presenting it like your own hosted content); both Pure Land Assembly events now link straight out to the YouTube video itself, credited to the Plum Village App, alongside the Sanskrit audio.
+- [x] important to note, the recording of the heart sutra chant is not me singing, that is from the Plum village app - this need to just be an external link 
 - [ ] Some events that missing from my events listing, and that are already posts in Gaia Forest news: 
-	- [ ] https://gaiaforest.org/news/2023/05/2023-05-10-menaware-nature-retreat-new-england-n-p-may-31st-june-4th-2023/
-	- [ ] https://gaiaforest.org/news/2024/08/2024-08-15-sacred-ecology-nature-retreat-yuraygir-n-p-june-13th-16th-2024/
-	- [ ] https://gaiaforest.org/news/2024/08/2024-08-18-sacred-ecology-retreat-oct-10-13th-2024/
-	- [ ] https://gaiaforest.org/news/2025/10/2025-10-18-outdoor-health-forum/
-	- [ ] And from Yatra website: https://yatra.org.au/archive/2023-yuraygir-yatra-yuraygir-np/
-	- [ ] https://yatra.org.au/archive/2022-menaware-nature-retreat-2/ Co-facilitated with Ken Golding
+	- [x] https://gaiaforest.org/news/2023/05/2023-05-10-menaware-nature-retreat-new-england-n-p-may-31st-june-4th-2023/ -- event page at /posts/events/2023/05-31-menaware-nature-retreat/, cross-linked both ways with the gaiaforest post
+	- [x] https://gaiaforest.org/news/2024/08/2024-08-15-sacred-ecology-nature-retreat-yuraygir-n-p-june-13th-16th-2024/ -- event page at /posts/events/2024/06-13-sacred-ecology-retreat-yuraygir/, cross-linked both ways with the gaiaforest post
+	- [x] https://gaiaforest.org/news/2024/08/2024-08-18-sacred-ecology-retreat-oct-10-13th-2024/ -- event page at /posts/events/2024/10-10-sacred-ecology-retreat-new-england/, cross-linked both ways with the gaiaforest post
+	- [x] https://gaiaforest.org/news/2025/10/2025-10-18-outdoor-health-forum/ -- event page at /posts/events/2025/10-18-outdoor-health-forum/, cross-linked
+	- [x] And from Yatra website: https://yatra.org.au/archive/2023-yuraygir-yatra-yuraygir-np/ -- event page at /posts/events/2023/10-21-yuraygir-yatra/
+	- [x] https://yatra.org.au/archive/2022-menaware-nature-retreat-2/ Co-facilitated with Ken Golding -- event page at /posts/events/2022/10-06-menaware-nature-retreat-yuraygir/
+	- [ ] another pair of missing events - info here: '/Users/alex/Desktop/Mindfulness Day.pdf' -- got the PDF, it's actually three sessions on one day (Peace Walk, a talk, evening meditation), all 31 May, venue Old Dairy Hall / Shambhala Haven Labyrinth, Currumbin Ecovillage -- still waiting to hear what YEAR this was, nothing on the flyer itself says
 - [ ] Pure Land Assembly - Hong Kong: http://www.purelandassembly.org/ February 7th 2025:  "The Pure Land is Here and Now" With Venerable Tenzin - Mindfulness of breathing in meditation and daily life - Time: 08:30 - 15:30
 - [x]  Pure Land Assembly  http://www.purelandassembly.org/ "Finding The Pure Land in the Present Moment" Mindfulness of breathing in meditation and daily life with Venerable Tenzin Date: 4th October 2023 Time: 08:30 - 16:30
 - [ ] correct heart sutra links for new Pureland assembly talks : plum village chanting version in English (this is what I chant in those events)  https://www.youtube.com/watch?v=dei3RmuJd7M and the Audio only sanskrit.  (not the video link)
-- [ ] 
 - [x] Armidale Buddhist group January 2025 “Zen and the art of Acceptance” - finding ground for healing and growth in times of sudden change”
 - [x] Armidale: Public talk Friday 15th March 2024 at 6.30pm at Armidale Buddhist Centre “Mindfulness of Breathing”. 
 - [x] Rocky River: Day of Mindfulness  - March 16th 2024 A Day of Mindfulness  - On The Theme of Loving Kindness”. 
-- [ ] Five Remembrances November 17th 2024 - Metta centre online talk - We live in uncertain times; politics, climate, relationships, all can change dramatically in a short time, seemingly without warning. Tasked with the challenge of accepting things as they are, and “living joyfully in each moment”, as practitioners we may sometimes feel overwhelmed. At times we may wonder how to move through change with dignity, courage and integrity, while also keeping an open heart to the suffering we experience around us and inside us. The five Remembrances can be a valuable contemplation to guide us to the heart of the matter, and recall our attention to what is most important * About Metta Centre ** To find out more about the Metta Centre & how you can support us you can visit [https://www.mettacentre.com](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rU0ktUzVYeEJ0UEVKMkYtbl9ySE9ZenxBTl9pYzRkOTdGVWxva25ndnhjRDJEOU1CeEJiaFkzdUdIV2dkYmFIWkFvMWxQVDJsSEJxZzN5ajIxb0Rfd0Q3Q0lpd0Y0OTV5ak8yOUFJbXpsVmc0RjFFNjVVVlZXd2UwQnc2&q=https%3A%2F%2Fwww.mettacentre.com%2F&v=ACBYxKfuSZs)
+- [x] Five Remembrances November 17th 2024 - Metta centre online talk -- event page at /posts/events/2024/11-17-the-five-remembrances/ - We live in uncertain times; politics, climate, relationships, all can change dramatically in a short time, seemingly without warning. Tasked with the challenge of accepting things as they are, and “living joyfully in each moment”, as practitioners we may sometimes feel overwhelmed. At times we may wonder how to move through change with dignity, courage and integrity, while also keeping an open heart to the suffering we experience around us and inside us. The five Remembrances can be a valuable contemplation to guide us to the heart of the matter, and recall our attention to what is most important * About Metta Centre ** To find out more about the Metta Centre & how you can support us you can visit [https://www.mettacentre.com](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rU0ktUzVYeEJ0UEVKMkYtbl9ySE9ZenxBTl9pYzRkOTdGVWxva25ndnhjRDJEOU1CeEJiaFkzdUdIV2dkYmFIWkFvMWxQVDJsSEJxZzN5ajIxb0Rfd0Q3Q0lpd0Y0OTV5ak8yOUFJbXpsVmc0RjFFNjVVVlZXd2UwQnc2&q=https%3A%2F%2Fwww.mettacentre.com%2F&v=ACBYxKfuSZs)
 - [ ] [The Ecological Self](https://oneearthsangha.org/pgm-post/ecodharma-explorations/24-05/)
 - Br. Tenzin (Dr. Alex Anderson)  and  John Seed
 - March 21, 2024
