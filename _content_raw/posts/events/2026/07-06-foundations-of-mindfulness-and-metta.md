@@ -1,5 +1,5 @@
 ---
-title: Foundations of Mindfulness and Mettā – Loving Kindness at IBA Kathmandu
+title: "7-Day Retreat: Foundations of Mindfulness and Mettā – Loving Kindness at IBA Kathmandu"
 date: 2026-07-06
 location: International Buddhist Academy, Kathmandu, Nepal (July 6–12)
 external_link: https://internationalbuddhistacademy.org/dharma-courses-for-all-in-2026/

@@ -1,8 +1,8 @@
 ---
-title: "MenAware Nature Retreat, Yuraygir National Park"
+title: "4-Day Retreat: MenAware Nature Retreat, Yuraygir National Park"
 date: 2022-10-06
-location: "Yuraygir National Park, NSW (Lake Arragan base camp)"
-external_link: "https://yatra.org.au/archive/2022-menaware-nature-retreat-2/"
+location: Yuraygir National Park, NSW (Lake Arragan base camp)
+external_link: https://yatra.org.au/archive/2022-menaware-nature-retreat-2/
 categories:
   - Event
   - Retreat

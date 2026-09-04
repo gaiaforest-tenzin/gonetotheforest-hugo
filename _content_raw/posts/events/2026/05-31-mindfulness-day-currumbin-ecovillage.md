@@ -1,7 +1,7 @@
 ---
-title: "Mindfulness Day at Currumbin Ecovillage"
+title: "One-Day Event: Mindfulness Day at Currumbin Ecovillage"
 date: 2026-05-31
-location: "Currumbin Ecovillage, QLD"
+location: Currumbin Ecovillage, QLD
 categories:
   - Event
   - Talk

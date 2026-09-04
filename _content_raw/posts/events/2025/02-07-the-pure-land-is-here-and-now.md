@@ -1,8 +1,8 @@
 ---
-title: "The Pure Land is Here and Now"
+title: "One-Day Retreat: The Pure Land is Here and Now"
 date: 2025-02-07T08:30:00+08:00
-location: "Pure Land Assembly, Hong Kong"
-external_link: "http://www.purelandassembly.org/"
+location: Pure Land Assembly, Hong Kong
+external_link: http://www.purelandassembly.org/
 categories:
   - Event
   - Retreat

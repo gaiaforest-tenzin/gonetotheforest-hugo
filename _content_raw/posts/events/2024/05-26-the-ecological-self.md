@@ -1,8 +1,8 @@
 ---
-title: "The Ecological Self"
+title: "Online Talk: The Ecological Self"
 date: 2024-05-26
-location: "Online — One Earth Sangha, EcoDharma Explorations"
-external_link: "https://oneearthsangha.org/pgm-post/ecodharma-explorations/24-05/"
+location: Online — One Earth Sangha, EcoDharma Explorations
+external_link: https://oneearthsangha.org/pgm-post/ecodharma-explorations/24-05/
 categories:
   - Event
   - Talk

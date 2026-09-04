@@ -1,8 +1,8 @@
 ---
-title: "Yuraygir Yatra"
+title: "Nine Day Walking Retreat: Yuraygir Yatra"
 date: 2023-10-21
-location: "Mid North Coast NSW (Lake Arragan to Yarrawarra Aboriginal Cultural Centre)"
-external_link: "https://yatra.org.au/archive/2023-yuraygir-yatra-yuraygir-np/"
+location: Mid North Coast NSW (Lake Arragan to Yarrawarra Aboriginal Cultural Centre)
+external_link: https://yatra.org.au/archive/2023-yuraygir-yatra-yuraygir-np/
 categories:
   - Event
   - Retreat

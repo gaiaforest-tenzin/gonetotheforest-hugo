@@ -1,8 +1,8 @@
 ---
-title: "Outdoor Health Forum: Nature Connection and Mental Wellbeing"
+title: "Presentation: Outdoor Health Forum: Nature Connection and Mental Wellbeing"
 date: 2025-10-18
-location: "Lennox Heads, NSW"
-external_link: "https://gaiaforest.org/news/2025/10/2025-10-18-outdoor-health-forum/"
+location: Lennox Heads, NSW
+external_link: https://gaiaforest.org/news/2025/10/2025-10-18-outdoor-health-forum/
 categories:
   - Event
   - Talk

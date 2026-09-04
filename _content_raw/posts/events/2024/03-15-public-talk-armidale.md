@@ -1,7 +1,7 @@
 ---
-title: "Mindfulness of Breathing"
+title: "Public Talk: Mindfulness of Breathing"
 date: 2024-03-15T18:30:00+11:00
-location: "Armidale Buddhist Centre, Armidale, NSW"
+location: Armidale Buddhist Centre, Armidale, NSW
 categories:
   - Event
   - Talk

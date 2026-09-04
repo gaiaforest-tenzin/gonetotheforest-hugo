@@ -1,8 +1,8 @@
 ---
-title: "Sacred Ecology Retreat, New England National Park"
+title: "3-Day rRtreat: Sacred Ecology, New England National Park"
 date: 2024-10-10T16:30:00+11:00
-location: "Thungutti Campground, New England National Park, NSW"
-external_link: "https://gaiaforest.org/news/2024/08/2024-08-18-sacred-ecology-retreat-oct-10-13th-2024/"
+location: Thungutti Campground, New England National Park, NSW
+external_link: https://gaiaforest.org/news/2024/08/2024-08-18-sacred-ecology-retreat-oct-10-13th-2024/
 categories:
   - Event
   - Retreat

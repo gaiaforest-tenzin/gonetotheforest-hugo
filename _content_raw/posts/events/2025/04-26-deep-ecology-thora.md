@@ -1,8 +1,8 @@
 ---
-title: "Deep Ecology Workshop, Thora"
+title: "One-Day Deep Ecology Immersion: Thora, NSW"
 date: 2025-04-26T09:00:00+10:00
-location: "Thora Community Hall, Thora, NSW"
-external_link: "https://events.humanitix.com/deep-ecology-with-john-seed-karin-raven-steininger-and-brother-tenzin-bellingen-april-26-2025"
+location: Thora Community Hall, Thora, NSW
+external_link: https://events.humanitix.com/deep-ecology-with-john-seed-karin-raven-steininger-and-brother-tenzin-bellingen-april-26-2025
 categories:
   - Event
   - Retreat

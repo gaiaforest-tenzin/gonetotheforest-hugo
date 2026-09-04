@@ -1,8 +1,8 @@
 ---
-title: "Day of Mindfulness: Walking in Peace 2025"
+title: "Day of Mindfulness: Walking in Peace 2025 Hong Kong"
 date: 2025-07-15T15:00:00+08:00
-location: "Kadoorie Farm and Botanic Garden, Tai Po, Hong Kong"
-external_link: "https://www.kfbg.org/en/events/ven-ngawang-tenzinday-of-mindfulnesswalking-in-peace-2025/"
+location: Kadoorie Farm and Botanic Garden, Tai Po, Hong Kong
+external_link: https://www.kfbg.org/en/events/ven-ngawang-tenzinday-of-mindfulnesswalking-in-peace-2025/
 categories:
   - Event
   - Retreat

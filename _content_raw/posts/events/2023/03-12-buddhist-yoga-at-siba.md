@@ -1,5 +1,5 @@
 ---
-title: "Buddhist Yoga: Calm Abiding and Insight Meditation in the Non-Dual Traditions (With Thomas Dhammadipa)"
+title: "7-Day Retreat: Buddhist Yoga: Calm Abiding and Insight Meditation in the Non-Dual Traditions (With Thomas Dhammadipa)"
 date: 2023-03-12T16:30:00+11:00
 location: SIBA Retreat Centre, W Tree, VIC (12–19 March 2023)
 external_link: https://events.humanitix.com/buddhist-yoga-at-siba

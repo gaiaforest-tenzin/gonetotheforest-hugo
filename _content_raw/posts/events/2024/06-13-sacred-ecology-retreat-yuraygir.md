@@ -1,8 +1,8 @@
 ---
-title: "Sacred Ecology Retreat, Yuraygir National Park"
+title: "3-Day Retreat: Sacred Ecology, Yuraygir National Park"
 date: 2024-06-13
-location: "Yuraygir National Park, Mid North Coast NSW (Red Cliff Campground base camp)"
-external_link: "https://gaiaforest.org/news/2024/08/2024-08-15-sacred-ecology-nature-retreat-yuraygir-n-p-june-13th-16th-2024/"
+location: Yuraygir National Park, Mid North Coast NSW (Red Cliff Campground base camp)
+external_link: https://gaiaforest.org/news/2024/08/2024-08-15-sacred-ecology-nature-retreat-yuraygir-n-p-june-13th-16th-2024/
 categories:
   - Event
   - Retreat

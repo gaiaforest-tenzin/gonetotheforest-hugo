@@ -1,7 +1,7 @@
 ---
-title: "Zen and the Art of Acceptance — Finding Ground for Healing and Growth in Times of Sudden Change"
+title: "Dharma Talk: Zen and the Art of Acceptance — Finding Ground for Healing and Growth in Times of Sudden Change"
 date: 2025-01-15
-location: "Armidale Buddhist Group, Armidale, NSW"
+location: Armidale Buddhist Group, Armidale, NSW
 categories:
   - Event
   - Talk

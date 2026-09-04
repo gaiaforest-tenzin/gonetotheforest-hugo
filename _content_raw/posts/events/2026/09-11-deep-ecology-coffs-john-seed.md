@@ -1,8 +1,8 @@
 ---
-title: "Deep Ecology: Coffs Harbour, with John Seed and Friends"
+title: "Deep Ecology Immersion: Coffs Harbour, with John Seed and Friends"
 date: 2026-09-11T19:00:00+10:00
-location: "North Coast Regional Botanic Garden, Coffs Harbour, NSW"
-external_link: "https://events.humanitix.com/sept-11-13-deep-ecology-coffs-with-john-seed-and-friends"
+location: North Coast Regional Botanic Garden, Coffs Harbour, NSW
+external_link: https://events.humanitix.com/sept-11-13-deep-ecology-coffs-with-john-seed-and-friends
 categories:
   - Event
   - Retreat

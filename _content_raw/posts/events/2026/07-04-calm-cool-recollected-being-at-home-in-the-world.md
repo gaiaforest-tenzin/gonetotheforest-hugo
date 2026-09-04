@@ -1,8 +1,8 @@
 ---
-title: "One-day Retreat: Calm, Cool, and Re-collected — Practices for Being at Home in the World"
+title: "One-Day Mini-Retreat: Calm, Cool, and Re-collected — Practices for Being at Home in the World"
 date: 2026-07-04T09:00:00+10:00
-location: "Concord, NSW"
-external_link: "https://www.mettacentre.com/event/oneday-retreat-practices-for-being-at-home-in-the-world"
+location: Concord, NSW
+external_link: https://www.mettacentre.com/event/oneday-retreat-practices-for-being-at-home-in-the-world
 categories:
   - Event
   - Retreat

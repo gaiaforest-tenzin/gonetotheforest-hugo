@@ -1,5 +1,5 @@
 ---
-title: "Loving Kindness, Compassion, Joy and Equanimity: A Meditation Retreat for Our Times (With Thomas Dhammadipa)"
+title: "7-Day Retreat: Loving Kindness, Compassion, Joy and Equanimity: A Meditation Retreat for Our Times (With Thomas Dhammadipa)"
 date: 2023-02-19T15:30:00+11:00
 location: Yarrawarra Cultural Centre, Corindi Beach, NSW (19–26 February 2023)
 external_link: https://events.humanitix.com/loving-kindness-at-yarrawarra

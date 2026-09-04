@@ -1,8 +1,8 @@
 ---
-title: "Walking in Peace: 2-Day Mindfulness Retreat"
+title: " Two-Day Mindfulness Retreat: Walking in Peace"
 date: 2026-08-15T15:00:00+08:00
-location: "Kadoorie Farm and Botanic Garden, Hong Kong"
-external_link: "https://www.instagram.com/p/DZeqv4hn5Fs/"
+location: Kadoorie Farm and Botanic Garden, Hong Kong
+external_link: https://www.instagram.com/p/DZeqv4hn5Fs/
 categories:
   - Event
   - Retreat

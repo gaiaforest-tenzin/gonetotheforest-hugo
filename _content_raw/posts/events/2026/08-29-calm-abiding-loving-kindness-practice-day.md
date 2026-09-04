@@ -1,7 +1,7 @@
 ---
-title: "Practice Day: Calm Abiding and Lovingkindness"
+title: "One-Day Event: Calm Abiding and Loving Kindness (Mettā)"
 date: 2026-08-29T09:30:00+10:00
-location: "Vajraling, Rocky River"
+location: Vajraling, Rocky River
 categories:
   - Event
   - Retreat

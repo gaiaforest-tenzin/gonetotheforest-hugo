@@ -1,7 +1,7 @@
 ---
-title: "Presentation: Exploration of Calm Abiding Meditation and Loving Kindness"
+title: "Public Talk: Exploration of Calm Abiding Meditation and Loving Kindness"
 date: 2026-08-28T18:30:00+10:00
-location: "Armidale Buddhist Centre"
+location: Armidale Buddhist Centre
 categories:
   - Event
   - Talk

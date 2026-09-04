@@ -1,7 +1,7 @@
 ---
-title: "One-day Retreat: Calm, Cool, and Re-collected — Practices for Being at Home in the World"
+title: "One-Day Mini-Retreat: Calm, Cool, and Re-collected — Practices for Being at Home in the World"
 date: 2025-01-18T09:00:00+11:00
-location: "Rhonda Place, Concord, NSW"
+location: Rhonda Place, Concord, NSW
 categories:
   - Event
   - Retreat

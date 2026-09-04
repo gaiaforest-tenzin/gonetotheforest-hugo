@@ -1,8 +1,8 @@
 ---
-title: "Finding the Pure Land in the Present Moment"
+title: "One-Day Mini-Retreat: Finding the Pure Land in the Present Moment"
 date: 2023-10-04T08:30:00+08:00
-location: "Pure Land Assembly, Hong Kong"
-external_link: "http://www.purelandassembly.org/"
+location: Pure Land Assembly, Hong Kong
+external_link: http://www.purelandassembly.org/
 categories:
   - Event
   - Retreat

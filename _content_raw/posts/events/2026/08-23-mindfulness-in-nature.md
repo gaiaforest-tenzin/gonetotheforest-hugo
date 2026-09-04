@@ -1,5 +1,5 @@
 ---
-title: Mindfulness in Nature
+title: "A Morning of Mindfulness in Nature: Coffs Harbour Botanic Gardens"
 date: 2026-08-23T10:00:00+10:00
 location: Coffs Harbour Regional Botanic Gardens, NSW
 external_link: https://www.eventbrite.com.au/e/mindfulness-in-nature-tickets-1996915977444

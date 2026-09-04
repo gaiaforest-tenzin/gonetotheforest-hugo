@@ -1,7 +1,7 @@
 ---
-title: "A Day of Mindfulness — On the Theme of Loving Kindness"
+title: "Day of Mindfulness: On the Theme of Loving Kindness"
 date: 2024-03-16T09:30:00+11:00
-location: "Vajraling, Rocky River"
+location: Vajraling, Rocky River
 categories:
   - Event
   - Retreat

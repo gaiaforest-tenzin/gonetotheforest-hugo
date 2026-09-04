@@ -1,8 +1,8 @@
 ---
-title: "The Five Remembrances"
+title: "Online Talk: The Five Remembrances"
 date: 2024-11-17
-location: "Online — Metta Centre"
-external_link: "https://www.mettacentre.com"
+location: Online — Metta Centre
+external_link: https://www.mettacentre.com
 categories:
   - Event
   - Talk

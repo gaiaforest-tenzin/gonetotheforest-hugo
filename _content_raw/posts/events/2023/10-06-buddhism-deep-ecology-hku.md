@@ -1,8 +1,8 @@
 ---
-title: "Buddhism & Deep Ecology"
+title: "Public Talk: Buddhism & Deep Ecology"
 date: 2023-10-06T19:00:00+08:00
-location: "HKU Centre of Buddhist Studies (20th Anniversary Series), Hong Kong"
-external_link: "https://event.buddhism.hku.hk/2023100601"
+location: HKU Centre of Buddhist Studies (20th Anniversary Series), Hong Kong
+external_link: https://event.buddhism.hku.hk/2023100601
 categories:
   - Event
   - Talk

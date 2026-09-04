@@ -1,7 +1,7 @@
 ---
-title: "Kinship and the Path of the Awakening Heart"
+title: "Two-Day Retreat: Kinship and the Path of the Awakening Heart"
 date: 2026-06-12T18:30:00+10:00
-location: "Bodhi Farm, near Nimbin, NSW"
+location: Bodhi Farm, near Nimbin, NSW
 categories:
   - Event
   - Retreat
@@ -10,14 +10,13 @@ tags:
   - metta
   - deep_ecology
 ---
-Deep Gratitude to the Community at Bodhi Farm for the invitation to visit and co-create this weekend of practice and reflection.  Bodhi Farm is one of Australia's oldest intentional communities.  It is nestled deep in rainforest near Dharmananda, the other "oldest" Buddhist intentional community in Australia.  It also shares history with the birthplace of Multiple Occupancy title in NSW (nearby at Tuntable Falls) and sits over the ridge from possibly the first direct action in defense of rainforest at Tarrania creek.
+Deep Gratitude to the Community at Bodhi Farm for the invitation to visit and co-create this weekend of practice and reflection.  Bodhi Farm is one of Australia's oldest intentional communities.  It is nestled deep in rainforest near Dharmananda, another "venerable" among Buddhist intentional community in Australia.  It also shares history with the birthplace of Multiple Occupancy title in NSW (nearby at Tuntable Falls) and sits over the ridge from possibly the first direct action in defence of rainforest at Tarrania creek.
 
 <!--more-->
 
-We enjoyed a weekend retreat (12–14 June) celebrating some of the theory and practice of awakening (*bodhi*) in the Buddhist tradition — mindfulness in daily life, and *kinship*, or loving kindness, drawing on practices from the Plum Village tradition.
+We enjoyed a weekend of gentle exploration of some of the theory and practice of awakening (*bodhi*) in the Buddhist tradition — mindfulness in daily life, and *kinship*, or loving kindness, drawing on practices from the Plum Village tradition especially, but our discussion ranged widely, from Theravada and Vajrayana to Deep Ecology.
 
-The event was held as part of Bodhi Farm's 50th Anniversary year (and celebrating the fact that Thich Nhat Hanh himself visited the community in 1985).  Envisioned as a series of optional activities accessible to meditators and non-meditators alike,  particular attention was paid to themes of community life — communication and connection — and to meeting the ecological crisis.
-
+The event was held as part of Bodhi Farm's 50th Anniversary year (and celebrating the fact that Thich Nhat Hanh himself visited the community in 1985).  Envisioned as a series of optional activities accessible to meditators and non-meditators alike, particular attention was paid to themes of community life — communication and connection — and to meeting ecological crisis through wisdom and connection.
 ## Follow-up
 
 ### Guided meditations
