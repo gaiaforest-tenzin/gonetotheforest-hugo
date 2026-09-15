@@ -74,7 +74,10 @@
          gaiaforest's look and feel. TO SWAP which line is primary (name
          vs. site title), just move which <p>/<h1> pair wraps which text. */}}
     <div>
-      <h1 style="
+      {{/* This is site-wide branding, not the page heading -- each page
+           template supplies its own <h1> for the actual content title.
+           Kept as a <p>, visually identical via the same inline styles. */}}
+      <p style="
         font-family: 'Estonia', serif;
         font-weight: 300;
         font-size: 4.6rem;
@@ -83,7 +86,7 @@
         line-height: 1.1;
       ">
         gone to the forest
-      </h1>
+      </p>
 
       <p style="margin: 0.15rem 0 0 0;
                 font-size: 1.3rem;
