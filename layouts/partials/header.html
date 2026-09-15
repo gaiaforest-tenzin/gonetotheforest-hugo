@@ -40,6 +40,12 @@
 	<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
+	{{/* GoatCounter: privacy-first analytics, no cookies, no consent banner
+	     needed. Automatically skips localhost/private-network requests, so
+	     local hugo server testing doesn't pollute the stats. */}}
+	<script data-goatcounter="https://gonetotheforest.goatcounter.com/count"
+	        async src="//gc.zgo.at/count.js"></script>
+
 	{{ with .OutputFormats.Get "rss" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 	{{ end -}}
