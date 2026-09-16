@@ -1,5 +1,5 @@
 ---
-title: "Deep Ecology Immersion: Coffs Harbour, with John Seed and Friends"
+title: "Deep Ecology Immersion: Coffs Harbour, with John Seed, Niamh Murray, Feya Durkin, and Br. Tenzin,"
 date: 2026-09-11T19:00:00+10:00
 location: North Coast Regional Botanic Garden, Coffs Harbour, NSW
 external_link: https://events.humanitix.com/sept-11-13-deep-ecology-coffs-with-john-seed-and-friends
@@ -7,7 +7,7 @@ categories:
   - Event
   - Retreat
 ---
-A three-day experiential deep ecology workshop (11–13 September), co-facilitated by John Seed with Br. Tenzin and Niamh Murray, following the Work That Reconnects framework — gratitude, honouring pain for the world, seeing with new eyes, and going forth — including the Council of All Beings ritual. Vegetarian meals provided; 25% of proceeds support the Rainforest Information Centre.
+A three-day experiential deep ecology workshop (11–13 September), co-facilitated by John Seed with Br. Tenzin, Feya Durkin and Niamh Murray, following the Work That Reconnects framework — gratitude, honouring pain for the world, seeing with new eyes, and going forth — including the Council of All Beings ritual. Vegetarian meals provided; 25% of proceeds support the Rainforest Information Centre.
 
 <!--more-->
 ## Follow-up
@@ -39,4 +39,3 @@ The path of śamatha-vipaśyanā meditation is specifically designed to help us 
 - [Work That Reconnects Network](https://workthatreconnects.org/) — Website focussed on Joanna Macy's formulation of Deep Ecology process - including the spiral framework (gratitude, honouring our pain, seeing with new eyes, going forth).
 - [Gaia Forest Project](https://gaiaforest.org) — our forest sanctuary and retreat project on the Mid North Coast. from time to time we offer multi-day immersions combining mindfulness, meditation and nature connection in the form of walking retreats in the beautiful wild places of our region. [Sign up to the newsletter](https://gaiaforest.org/connect/subscribe-to-updates/) for updates
 - [Support this work](https://tenzin.gaiaforest.org/donate/) — as a monk, all my teaching is offered freely; any offering, however small, is deeply appreciated.
-
