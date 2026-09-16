@@ -37,6 +37,6 @@ The path of śamatha-vipaśyanā meditation is specifically designed to help us 
 ### Related links
 - [Deep Ecology](https://www.deepecology.net)
 - [Work That Reconnects Network](https://workthatreconnects.org/) — Website focussed on Joanna Macy's formulation of Deep Ecology process - including the spiral framework (gratitude, honouring our pain, seeing with new eyes, going forth).
-- [Gaia Forest Project](https://gaiaforest.org) — our forest sanctuary and retreat project on the Mid North Coast. from time to time we offer multi-day immersions combining mindfulness, meditation and nature connection in the form of walking meditation retreats in the beautiful wild places of our region. [Sign up to the newsletter](https://gaiaforest.org/connect/subscribe-to-updates/) fo updates
+- [Gaia Forest Project](https://gaiaforest.org) — our forest sanctuary and retreat project on the Mid North Coast. from time to time we offer multi-day immersions combining mindfulness, meditation and nature connection in the form of walking retreats in the beautiful wild places of our region. [Sign up to the newsletter](https://gaiaforest.org/connect/subscribe-to-updates/) for updates
 - [Support this work](https://tenzin.gaiaforest.org/donate/) — as a monk, all my teaching is offered freely; any offering, however small, is deeply appreciated.
 
