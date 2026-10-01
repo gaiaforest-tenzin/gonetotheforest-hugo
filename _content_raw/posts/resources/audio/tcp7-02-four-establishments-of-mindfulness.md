@@ -10,6 +10,8 @@ A short talk on the four establishments of mindfulness (satipaṭṭhāna) and t
 
 Sakya tradition · IBA Kathmandu · The Complete Path (TCP) 2026 · English · Talk + silent sit
 
+For the full Sanskrit/Pali/Tibetan glossary and nine-stages reference table, see the [Glossary and Summary for Morning Meditations](/posts/resources/text/glossary-morning-meditations-tcp-2026/).
+
 {{< audio src="https://pub-e83962a21cf24918aeb82c57b7318e23.r2.dev/tcp7-en/02%20-%20TCP7-Meditation%20Class%20EN%20-%20Four%20establishments%20of%20mindfulness%2C%20nine%20stages%20stage%20one%20%28sthapayati%29%20-%20silent%20sit.mp3" >}}
 
 ## Transcript

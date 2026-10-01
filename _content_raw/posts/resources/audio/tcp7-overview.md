@@ -10,6 +10,8 @@ A 15-part series of short Buddhist meditation talks and sits, recorded live each
 
 A rough pronunciation guide (approximate, not authoritative): śamatha ≈ SHAH-muh-tuh, vipaśyanā ≈ vih-PASH-yuh-nah, mettā bhāvanā ≈ MET-tah bah-VAH-nah.
 
+For the full Sanskrit/Pali/Tibetan glossary and nine-stages reference table, see the [Glossary and Summary for Morning Meditations](/posts/resources/text/glossary-morning-meditations-tcp-2026/).
+
 Teacher: Ven. Ngawang Tenzin (Sakya tradition) · International Buddhist Academy (IBA), Kathmandu · The Complete Path course, 2026 · English
 
 Full transcripts are included on each session's own page.

@@ -10,6 +10,8 @@ A short talk on the third stage of śamatha (calm abiding), avasthāpayati ("pat
 
 Sakya tradition · IBA Kathmandu · The Complete Path (TCP) 2026 · English · Talk + silent sit
 
+For the full Sanskrit/Pali/Tibetan glossary and nine-stages reference table, see the [Glossary and Summary for Morning Meditations](/posts/resources/text/glossary-morning-meditations-tcp-2026/).
+
 {{< audio src="https://pub-e83962a21cf24918aeb82c57b7318e23.r2.dev/tcp7-en/04%20-%20TCP7-Meditation%20Class%20EN%20-%20Nine%20stages%2C%20stage%20three%20%28avasthapayati%29%2C%20six%20powers%20-%20silent%20sit.mp3" >}}
 
 ## Transcript

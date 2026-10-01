@@ -10,6 +10,8 @@ A short talk introducing mettā bhāvanā (loving-kindness meditation), one of t
 
 Sakya tradition · IBA Kathmandu · The Complete Path (TCP) 2026 · English · Talk + guided sit
 
+For the full Sanskrit/Pali/Tibetan glossary and nine-stages reference table, see the [Glossary and Summary for Morning Meditations](/posts/resources/text/glossary-morning-meditations-tcp-2026/).
+
 {{< audio src="https://pub-e83962a21cf24918aeb82c57b7318e23.r2.dev/tcp7-en/05%20-%20TCP7-Meditation%20Class%20EN%20-%20Shift%20to%20metta%20bhavana%20-%20guided%20sit.mp3" >}}
 
 ## Transcript

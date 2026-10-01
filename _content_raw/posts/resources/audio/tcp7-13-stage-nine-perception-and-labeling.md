@@ -10,6 +10,8 @@ A talk on the ninth and final stage of śamatha (calm abiding), samādhāna (bal
 
 Sakya tradition · IBA Kathmandu · The Complete Path (TCP) 2026 · English · Talk + silent sit
 
+For the full Sanskrit/Pali/Tibetan glossary and nine-stages reference table, see the [Glossary and Summary for Morning Meditations](/posts/resources/text/glossary-morning-meditations-tcp-2026/).
+
 {{< audio src="https://pub-e83962a21cf24918aeb82c57b7318e23.r2.dev/tcp7-en/13%20-%20TCP7-Meditation%20Class%20EN%20-%20Stage%20nine%2C%20perception%20and%20labeling%20-%20silent%20sit.mp3" >}}
 
 ## Transcript
