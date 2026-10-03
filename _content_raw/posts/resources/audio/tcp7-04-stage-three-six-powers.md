@@ -16,27 +16,31 @@ For the full Sanskrit/Pali/Tibetan glossary and nine-stages reference table, see
 
 ## Transcript
 
+*This recording begins partway through. The opening (approx. 3 minutes 41 seconds) is missing from the English recording and is reconstructed here via back-translation from the Chinese interpreter's recording (CH-04) — a translation of a translation, not verbatim original English. The paragraph below marks where the verbatim English recording resumes.*
+
+> Good morning, everyone. Welcome to this morning's practice session. Earlier we gave a brief overview — that is, regarding zhi and guan [止觀, śamatha-vipaśyanā], some of the main methods of practice. These come from the Buddha's early, original teachings; the practices of the Mahayana and Vajrayana also cannot do without these methods. We previously discussed focusing on one object — actually, what's difficult about this is... there's a saying: in a dark cave, trying to see clearly a picture — in that darkness, it's very difficult to see clearly.
+
 In darkness, impossible to discern, to see it. In flickering light, also very difficult to see it clearly. We need a steady illumination in order to understand what it is that we are looking at, to penetrate to its essence.
 
-So we have been learning about the connection between mindfulness and this practice of calm, abiding the close connection which we find in the Anapana Sati Sutta, the sutra on full awareness or mindfulness, Sati, mindfulness of breathing.
+So we have been learning about the connection between mindfulness and this practice of calm, abiding the close connection which we find in the Ānāpānasati Sutta, the sutra on full awareness or mindfulness, Sati, mindfulness of breathing.
 
-We have touched briefly on the correspondence between this sutra and the sutra on the four establishments of mindfulness also, which connects this fundamental practice of mindfulness gone into the body, Kayagatasati, beginning indeed also with awareness of breathing and connecting that to mindfulness in daily life of the cushion.
+We have touched briefly on the correspondence between this sutra and the sutra on the four establishments of mindfulness also, which connects this fundamental practice of mindfulness gone into the body, kāyagatāsati, beginning indeed also with awareness of breathing and connecting that to mindfulness in daily life of the cushion.
 
-We have met the basic posture, especially using the seven-point posture of Vairacana, a stable base, one in which we can find some ease and stillness, a foundation in which the mind can also grow still, subtle. We have been meeting the nine stages. So far, we have just been exploring the first two, Placing Sthāpayati in which we are aware of a forceful attention directing the mind to the object.
+We have met the basic posture, especially using the seven-point posture of Vairocana, a stable base, one in which we can find some ease and stillness, a foundation in which the mind can also grow still, subtle. We have been meeting the nine stages. So far, we have just been exploring the first two, Placing Sthāpayati in which we are aware of a forceful attention directing the mind to the object.
 
-Bala-avahana-manasikara, forceful transporting of the mind to object or making of the object in the mind. Manasikara. We have also met the type of power that is required here from among the powers, the six powers, the power of hearing, knowing the instructions related to Shrutamayi-prajna here, Shruta-bala, a power of listening, of learning only.
+Balavāhana-manasikāra, forceful transporting of the mind to object or making of the object in the mind. Manasikāra. We have also met the type of power that is required here from among the powers, the six powers, the power of hearing, knowing the instructions related to śrutamayī-prajñā here, śruta-bala, a power of listening, of learning only.
 
-Next, we met this closer placing or more continuous placing to be accurate. Saṃsthāpayati, placing for longer duration. Here, the attention is still forceful, pushing. We might have that feeling of pushing the mind towards the object. Power that we bring, Chinta-bala, thinking. The thinking mind is still active. The instructions are clear, but we need to think about those instructions.
+Next, we met this closer placing or more continuous placing to be accurate. Saṃsthāpayati, placing for longer duration. Here, the attention is still forceful, pushing. We might have that feeling of pushing the mind towards the object. Power that we bring, cintā-bala, thinking. The thinking mind is still active. The instructions are clear, but we need to think about those instructions.
 
 And today, I would like us to meet the next stage. Though for each of us in our practice, we may find that we are working with an earlier stage, mostly in our session. But here, familiarizing ourselves in these morning sessions with some of these key stages and concepts that support us in understanding what it is that we are doing, where we are at in our practice.
 
 And in this next stage, we are engaged in a process of patching up and placing or re-establishing connection with the object. We have been placing, we have been slowly placing for longer duration, beginning, middle, end, even maintaining that awareness in the pauses between in-breath and out-breath. And we start to notice when the mind wanders.
 
-And at that moment, we give rise to the power that is active in this stage, which is none other than mindfulness itself. Noticing that the mind has wandered. Smriti-bala, nianli [念力 niànlì, "mindfulness-power" — Chinese gloss].
+And at that moment, we give rise to the power that is active in this stage, which is none other than mindfulness itself. Noticing that the mind has wandered. smṛti-bala, nianli [念力 niànlì, "mindfulness-power" — Chinese gloss].
 
-The type of attention that we are bringing in this stage, we move to, rather than a forceful attention, we have been noticing that pushing and perhaps able to let go a little bit. Relaxing a little bit as the object becomes familiar, the mind becomes a little calmer. Rather than a bala-avahana-manasikara, this forceful attention, our attention becomes just interrupted from time to time.
+The type of attention that we are bringing in this stage, we move to, rather than a forceful attention, we have been noticing that pushing and perhaps able to let go a little bit. Relaxing a little bit as the object becomes familiar, the mind becomes a little calmer. Rather than a balavāhana-manasikāra, this forceful attention, our attention becomes just interrupted from time to time.
 
-Sacchidra-avahana [occasionally-interrupted attention]. And one of the key practices that helps us in this stage is counting of the breath. Ghanana from the Sravaka Bhumi, Yogācāra Bhumi Shastra, which has a detailed explanation of counting the breath.
+Sacchidra-āvahana [occasionally-interrupted attention]. And one of the key practices that helps us in this stage is counting of the breath. Gaṇanā from the Śrāvakabhūmi, Yogācārabhūmi-śāstra, which has a detailed explanation of counting the breath.
 
 But the basic principle is to give the mind a practice that allows us to notice when the mind has wandered, to keep a check on that wandering of the mind. So the power active here is mindfulness, and noticing when the mind has wandered, bringing the mind back to the object so the attention becomes, rather than forceful, it just has occasional interruptions. There is already some relaxation there.
 
@@ -78,9 +82,9 @@ Training the mind to become contented, fulfilled with paying attention to subtle
 
 And it is this quality that allows us to slowly develop greater and greater continuity of attention with the object that we choose, not the one chosen by the sense doors, by sounds, ear, ear consciousness, sights, eye, eye consciousness, thoughts, mind, mind consciousness. And the joy at that recognition is the reward for our practice.
 
-Not punishment with frustration, self-criticism, yet again I've forgotten the object. Rejoicing that mindfulness is present, giving rise to that energy, atapi. Clearly knowing what it is that we are doing, I'm meditating on the breath. Samprajanya, mindful, keeping my effort in balance, recognizing when distraction has arisen.
+Not punishment with frustration, self-criticism, yet again I've forgotten the object. Rejoicing that mindfulness is present, giving rise to that energy, ātāpī. Clearly knowing what it is that we are doing, I'm meditating on the breath. Samprajanya, mindful, keeping my effort in balance, recognizing when distraction has arisen.
 
-Satyama, and not grasping at or pushing away any aspect of my experience. Equanimous, and this is the satipaṭṭhāna attitude, if you like. The foundation in mindfulness of a balanced relationship to our experience. So let's do it. Establishing ourselves in a comfortable sitting position, stable. Easeful, upright, space for the breath.
+Satimā, and not grasping at or pushing away any aspect of my experience. Equanimous, and this is the satipaṭṭhāna attitude, if you like. The foundation in mindfulness of a balanced relationship to our experience. So let's do it. Establishing ourselves in a comfortable sitting position, stable. Easeful, upright, space for the breath.
 
 To move if discomfort comes to the foreground, knowing that in mindfulness we can gently shift our posture. Finding once again ease, returning to the breath. We can recognize in our motivation an aspect of selflessness, the seed of bodhicitta, the awakening heart, mind. I do not do this for just my own benefit. To slowly light a lamp of calm and awareness that may also be of support to others.
 
@@ -96,7 +100,7 @@ Noting the type of attention that has been predominant, a theme of distraction o
 
 So thank you all for your attention, your diligence, wishing you all a beautiful day. And may this container of calm and clarity be an appropriate one for receiving the teachings from His Holiness. There is a question from Sun Ping. Should we do the nine stages? I'm not sure I follow.
 
-The seven point posture is a systematization of a yoga rule of thumb for a conducive sitting position for practice, asana, that is grounded but also upright and relaxed and allows us to find space for the breath. This is a basic foundation for all practice of sitting. If this is a practice that you find helpful, my understanding of this is it's kind of a practice from pranayama.
+The seven point posture is a systematization of a yoga rule of thumb for a conducive sitting position for practice, asana, that is grounded but also upright and relaxed and allows us to find space for the breath. This is a basic foundation for all practice of sitting. If this is a practice that you find helpful, my understanding of this is it's kind of a practice from prāṇāyāma.
 
 If your mindfulness is very good, you can indeed expel negative energy through one nostril, then the other, then through both. My yoga teacher would suggest spending months doing this many hundreds of times in order to have benefit. But if our mindfulness practice is very strong, then perhaps we can find some support through this.
 

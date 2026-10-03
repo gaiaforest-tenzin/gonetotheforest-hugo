@@ -4,6 +4,8 @@ date: 2025-01-01
 categories:
   - Audio
   - Meditation
+tags:
+  - metta
 ---
 A guided loving kindness (mettā) meditation.
 

@@ -18,11 +18,11 @@ For the full Sanskrit/Pali/Tibetan glossary and nine-stages reference table, see
 
 Okay. I am just giving some forewarning that we are about to begin. Is that a good beep or a bad beep? We are tested. Put your meditation in English. It wasn't usually a lasting wind and I can listen for it. Very good. Okay. We are live. This is Radio IBA. So good morning dear friends. Welcome back for our penultimate morning meditation class.
 
-Tomorrow will be our last session together this time here at IBA Kathmandu. Our sessions, part of TCP 2026, an exploration of Śamatha Vipaśyanā and also the cultivation of loving-kindness as it is found among the four illimitable, so immeasurable minds.
+Tomorrow will be our last session together this time here at IBA Kathmandu. Our sessions, part of TCP 2026, an exploration of śamatha-vipaśyanā and also the cultivation of loving-kindness as it is found among the four illimitable, so immeasurable minds.
 
-My proposal today is that we indeed return to that cultivation of loving-kindness once again in the hope that we might leave the course with enough familiarity to self-guide in the cultivation of mettā, of maitri, of kindness, friendliness, kinship even.
+My proposal today is that we indeed return to that cultivation of loving-kindness once again in the hope that we might leave the course with enough familiarity to self-guide in the cultivation of mettā, of maitrī, of kindness, friendliness, kinship even.
 
-If not each of the brahma viharas, these divine abodes, then at least mettā, this foundational practice which, as we have explored, indeed contains all the others in perhaps seed form.
+If not each of the brahmavihāras, these divine abodes, then at least mettā, this foundational practice which, as we have explored, indeed contains all the others in perhaps seed form.
 
 Mettā, foundational to the immeasurable minds but also we might say foundational to the path itself as His Holiness so patiently reminds us at the beginning of each teaching session to give rise to a motivation that is not for our own benefit alone but extends that wish to other beings, that they awaken also.
 
@@ -34,13 +34,13 @@ So the recommendation would be to choose a teacher, someone who their virtue has
 
 But not only is this cultivation a special śamatha or rather it is special because it is also connected to wisdom. Eventually the understanding that this attitude of acceptance, non-clinging and non-aversion is the best we can bring to any aspect of our experience even to difficult sensation arising in the body or the mind during a meditation session.
 
-It is also concretely the best antidote to aversion. It is written in the mettā-sutta, the text that we learned was offered to those unfortunate monks who had been allotted a haunted forest for their rains retreat, if you remember, their practice disturbed by fear, anxiety. Once their cultivation of mettā began to bear fruit, there was no longer any space in the mind for those feelings of fear.
+It is also concretely the best antidote to aversion. It is written in the Mettā Sutta, the text that we learned was offered to those unfortunate monks who had been allotted a haunted forest for their rains retreat, if you remember, their practice disturbed by fear, anxiety. Once their cultivation of mettā began to bear fruit, there was no longer any space in the mind for those feelings of fear.
 
 And we have learned how also applying this practice with wisdom prevents us also from falling into the trap of the near enemy of loving kindness, of mettā, of friendliness, kinship.
 
 You will remember how we are encouraged when experimenting with the different canonical objects after the supporting object and ourselves, the dear being, not choosing the most dear being in our lives that one towards whom there is friendliness, love, kindness, care but also a tendency towards attachment, to clinging, to wanting something in return.
 
-So in this way, skillfully applied, loving kindness, meditation avoids that trap of the first of the nīvaraṇas, karmachandaya, sensual desire. And there are other, we might say, more powerful antidotes in the Ashuba contemplation, contemplation of the non-beautiful. But again, we don't have time in these sessions to explore those, perhaps another time.
+So in this way, skillfully applied, loving kindness, meditation avoids that trap of the first of the nīvaraṇas, kāmacchanda, sensual desire. And there are other, we might say, more powerful antidotes in the aśubha contemplation, contemplation of the non-beautiful. But again, we don't have time in these sessions to explore those, perhaps another time.
 
 And maybe also by way of just kind of an indication, a preview. Again, we don't have time to explore in detail.
 
@@ -62,7 +62,7 @@ We get a reminder every day, maybe twice a day if we are diligent, so we can rem
 
 And this is a very beautiful step, a beautiful phase of the practice, one that is practiced in the Southern schools on a daily basis, and kind of functions as almost a dedication of merit in and of itself. And I have a very fond memory of this practice in the monastery of Pa-Auk, Ta-ya, in Mo-mein, in Myanmar, where I had good fortune to study for some brief, too brief period.
 
-But in the evening, all of the monks would go up to the Sima meditation hall on the top of the hill, walking through the forest amongst the kuttis. Even sometimes there are fireflies dancing in the shadows of the forest. And everyone would sit and there would be a meditation practice.
+But in the evening, all of the monks would go up to the sīmā meditation hall on the top of the hill, walking through the forest amongst the kuttis. Even sometimes there are fireflies dancing in the shadows of the forest. And everyone would sit and there would be a meditation practice.
 
 And then we would chant this mettā bhāvanā chant, in which, on the basis of our capacity for extending loving-kindness to lots of different kinds of beings, then we begin to imagine spreading it out in space. So from the heart into the body, and then outwards into the meditation hall, into the forest around that neighborhood and landscape, in front and behind, to the right and left, above and below.
 
@@ -90,13 +90,13 @@ Setting aside sounds distant and close by, other sensations in the body not rela
 
 Breathing in, aware of in-breath, meeting the feelings of the breath in the body, with the curiosity, attentiveness, no need to change the breath in any way, long or short, deep or shallow, rough or smooth, the breath as it is to these feelings of the out-breath, curiosity, continuity, beginning, middle, end, just as we find it.
 
-Relaxing the body, calming the mind to the feelings of the breath, that continuity, beginning, middle and end. Everything established ourselves in that familiarity with the breath, knowing that this is our anchorage, our safe harbour, the place we can always return to.
+Relaxing the body, calming the mind to the feelings of the breath, that continuity, beginning, middle and end. Eventually, established ourselves in that familiarity with the breath, knowing that this is our anchorage, our safe harbour, the place we can always return to.
 
 The island within, invite you to gently begin to shift awareness down into the heart space, meeting sensations there, just as we find them also.
 
 Spaciousness or density, hardness or softness, roughness, smoothness, coolness or warmth, or even a subtle vibration or pushing, perhaps not a particular sensation we feel, we can name, but nonetheless resting with awareness now in the heart space, allowing that sensitivity to deepen, to clarify, with the heart, as it were, the body, letting go of distractions, so that our attention becomes ever more continuous, uninterrupted.
 
-And having established ourselves with that familiarity, sensitivity, we can begin with the first of our objects for mettā-bhavana, supporting the arising of that seed of kindness and care in the heart, the being, perhaps, a baby animal, a kitten, a puppy, a duckling, that being towards whom our kindness, our care, our wish to protect from harm, arises from its own side, spontaneous, by breath,
+And having established ourselves with that familiarity, sensitivity, we can begin with the first of our objects for mettā-bhāvanā, supporting the arising of that seed of kindness and care in the heart, the being, perhaps, a baby animal, a kitten, a puppy, a duckling, that being towards whom our kindness, our care, our wish to protect from harm, arises from its own side, spontaneous, by breath,
 
 tracking, feeling in the heart space as perhaps it begins to shift slightly in response to that mental image, that imagining, perhaps a little more spaciousness or warmth or light or softness, perhaps nothing that we can name, but trusting in this process nonetheless that here, for sure, is a human heart capable of love, and here is a being worthy of it, allowing that mental image to deepen and
 
@@ -104,7 +104,7 @@ clarify, that feeling also to steadily become clearer, not giving rise to frustr
 
 and mind, in ease, tranquility, imagining we can offer that safety to this being in this very moment, this embrace of light and warmth radiating from the heart space, imagining the benefit it would feel in body and mind, safety at last, able to relax, sharing those feelings in our own body and mind here and now, relaxing, letting go of tension at last, aware of that feeling in the body arising
 
-in response to this mental image, and knowing we can always return to this part of the cultivation if our practice begins to lose its flavor, its sensation in the body, becoming abstract or conceptual, but continuing now with the next phase of this Bhavana, this emergence, none other than this very being oneself, breath by breath tracking feelings in the heart space, giving rise, if it is
+in response to this mental image, and knowing we can always return to this part of the cultivation if our practice begins to lose its flavor, its sensation in the body, becoming abstract or conceptual, but continuing now with the next phase of this bhāvanā, this emergence, none other than this very being oneself, breath by breath tracking feelings in the heart space, giving rise, if it is
 
 helpful, to the mental image in the space in front of oneself, perhaps as a child, just like that supporting being, vulnerable, fragile, subject to ups and downs in life, in need of care, and whether or not we feel that we received that care at certain important moments in our life, we can imagine the possibility here and now to offer that embrace, that light and warmth radiating from the heart, embracing ourselves as a child perhaps, harmonizing that feeling and visualization with the heartfelt wish that this being also be free from pain and suffering, free from oppression.
 

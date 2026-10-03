@@ -18,37 +18,37 @@ For the full Sanskrit/Pali/Tibetan glossary and nine-stages reference table, see
 
 Okay, very good. So good morning, once again, dear friends. Welcome back to our morning meditation sessions here at the IBA Kathmandu, part of the Complete Path Course 2026.
 
-We have the intention in these sessions to explore, hopefully reviewing basic practices of śamatha vipaśyanā, especially related to mindfulness of breathing and the establishments of mindfulness, but recognizing that we have just a short time each morning and we want to have time really for cultivation, for bhavana itself, for practice as a way to prepare the mind for receiving the teachings from His Holiness.
+We have the intention in these sessions to explore, hopefully reviewing basic practices of śamatha vipaśyanā, especially related to mindfulness of breathing and the establishments of mindfulness, but recognizing that we have just a short time each morning and we want to have time really for cultivation, for bhāvanā itself, for practice as a way to prepare the mind for receiving the teachings from His Holiness.
 
-We are drawing on practices from the Yogācāra Bhumi Shastra, especially the Sravaka Bhumi and meditation manuals such as the Bhavana-krama of Kamalaśīla and also linking back to the sutras in the early canon, the teachings of the Buddha Himself, that describe in some detail the process of calming the mind, a prerequisite for the arising of insight, of clear seeing, the basis of wisdom.
+We are drawing on practices from the Yogācārabhūmi-śāstra, especially the Śrāvakabhūmi and meditation manuals such as the Bhāvanākrama of Kamalaśīla and also linking back to the sutras in the early canon, the teachings of the Buddha Himself, that describe in some detail the process of calming the mind, a prerequisite for the arising of insight, of clear seeing, the basis of wisdom.
 
-So far we have reviewed the posture, the stable foundation, common to all yoga traditions. We base that on the seven point posture of Vairacana also from Bhavana-krama.
+So far we have reviewed the posture, the stable foundation, common to all yoga traditions. We base that on the seven point posture of Vairocana also from Bhāvanākrama.
 
 We have heard from His Holiness how this same system for understanding the posture has an uncommon explanation related to the subtle winds, but we can also feel reassured that even at the beginning, before we are working directly with subtle winds, this type of stable posture in which stillness in the body is available to us is also critically important simply for this process of calming the mind.
 
 And we have met the first stage of the nine stages system which we may be recognised from the elephant chasing, tanka paintings or murals that we see in Gompas very often or maybe from the ox herding, ink paintings in the Chan or Zen tradition simply placing the mind, sthāpayati, nirru.
 
-We have also met the type of attention that is likely to be engaged at this stage, a force form type of attention. In the Sanskrit, bala avahana manasikara, bala power. Avahana, this implication of transporting, conveying.
+We have also met the type of attention that is likely to be engaged at this stage, a force form type of attention. In the Sanskrit, balavāhana-manasikāra, bala power. Avahana, this implication of transporting, conveying.
 
-And manasikara, very interesting term, one of the universal mental formations, for those who are familiar with Abhidharmakosha, present in every mind moment, actually the process through which the object is made in the mind, literally.
+And manasikara, very interesting term, one of the universal mental formations, for those who are familiar with Abhidharmakośa, present in every mind moment, actually the process through which the object is made in the mind, literally.
 
 In the beginning, in our cultivation, the process through which we bring the breath into our mind is one that maybe you have already noticed in your practice has a kind of a pressure behind it.
 
 This is why when we begin, perhaps, I mean apart from the physical yoga of sitting, perhaps in a posture that is a little unfamiliar to the body, we reach the end of even a relatively brief sit with a kind of a mental fatigue, maybe. Rather than the hoped for relaxation, we feel like we've been doing some hard work.
 
-And this is because the type of attention we are using is this forceful attention, this bala avahana manasikara, forceful making of the object in the mind. But it's also necessary, if we don't make this effort, then there is no antidote present to the tendency of the mind to wander away. In the beginning, we actually need to restrain the mind from destruction with some energy.
+And this is because the type of attention we are using is this forceful attention, this balavāhana-manasikāra, forceful making of the object in the mind. But it's also necessary, if we don't make this effort, then there is no antidote present to the tendency of the mind to wander away. In the beginning, we actually need to restrain the mind from destruction with some energy.
 
 And this energy, I think we can say, is one of the antidotes to laziness, to sloth, to torpor, to drowsiness and dullness, one of the first faults in our meditation practice. So even though it's something that we later work to soften, to let go of, in the beginning, this kind of forceful attention is our friend, it's a necessary stage.
 
-But it's something to be aware of, to notice that this is how we are bringing the mind to the object. In this stage, we are also very much relying on the first type of wisdom. We mentioned this already, the Shrutamayi-prajna, the knowledge that comes from listening, from study, from reading, instructions.
+But it's something to be aware of, to notice that this is how we are bringing the mind to the object. In this stage, we are also very much relying on the first type of wisdom. We mentioned this already, the śrutamayī-prajñā, the knowledge that comes from listening, from study, from reading, instructions.
 
-And if we are able to remember the instructions, remember what it is that we are cultivating, we are already bringing into our practice none other than mindfulness, sati, smrti. And this is indeed the antidote for the second major fault that we can have, which is simply forgetting what it is that we are supposed to be doing.
+And if we are able to remember the instructions, remember what it is that we are cultivating, we are already bringing into our practice none other than mindfulness, sati, smṛti. And this is indeed the antidote for the second major fault that we can have, which is simply forgetting what it is that we are supposed to be doing.
 
 You may have had that experience of leaving your house and getting into the car maybe and starting it up and once you're part way down the driveway, realizing you don't actually remember what it is that you are supposed to be doing. Or you arrive at your destination, at the shop, or wherever it is. And the purpose has escaped.
 
 So often we are caught in thinking about the past or the future, we are kind of on autopilot. And it's mindfulness that helps us to maintain an awareness not only of what's going on in this moment, but also the context, the purpose, our intention.
 
-But it's also true that our unconscious, in some ways related to the concept of store consciousness in the yogācāra system, is not an aspect of mind that is very easy to work with in a directive way, in a kind of control and command, like through direct instruction. We work with the unconscious through intention.
+But it's also true that our unconscious, in some ways related to the concept of store consciousness in the Yogācāra system, is not an aspect of mind that is very easy to work with in a directive way, in a kind of control and command, like through direct instruction. We work with the unconscious through intention.
 
 In the same way when we forget someone's name, we feel like it's on the tip of our tongue. And if we let go of trying for a while, sometimes a few minutes, a few hours later when we're doing something completely different, that memory will return the same as if we misplace our keys or something like that. Remembering in that way is not something we can control directly with the conscious mind.
 
@@ -66,13 +66,13 @@ So not just the beginning of the breath, the inhalation, but also the middle and
 
 This is not an instruction that you commonly find in the traditions that rely on the Pali Canon, the Pa Auk system, for example, in which I have also had good fortune to study. There is not emphasis placed on the in-between breaths, kumbhaka in the yoga traditions, the image of a vase retaining the breath, or the retention of the breath.
 
-This will be familiar to those who are already practicing the vase retention in their sādhana practice, related to practices of pranayama, of changing, training the breath. But here we are not working to forcefully retain the in-breath or the out-breath, the empty breath.
+This will be familiar to those who are already practicing the vase retention in their sādhana practice, related to practices of prāṇāyāma, of changing, training the breath. But here we are not working to forcefully retain the in-breath or the out-breath, the empty breath.
 
 We are just recognizing that in-between every inhalation and exhalation, there is a moment when the tide needs to turn, and in-between every exhalation and inhalation, there is another moment when the tide must turn.
 
 A moment of stillness can be short, or it can be long, and it can change within one session, and as our practice deepens, the breath becoming more subtle, we can have the experience of these pauses becoming quite long. But here in Ānāpānasati, in mindfulness of breathing, we are not working to change the breath.
 
-And in fact, if we do mistakenly practice kumbhaka in this way, retention, forcefully retaining the breath, we can actually create some difficulties for ourselves in the practice. Really, it becomes a pranayama. We can generate heat in the body and all kinds of obstacles that are unhelpful in the cultivation of śamatha at this stage.
+And in fact, if we do mistakenly practice kumbhaka in this way, retention, forcefully retaining the breath, we can actually create some difficulties for ourselves in the practice. Really, it becomes a prāṇāyāma. We can generate heat in the body and all kinds of obstacles that are unhelpful in the cultivation of śamatha at this stage.
 
 So the invitation is really not to modify the breath, just to allow it to flow, but to be aware that it has a gross aspect, the rising of the belly, expansion of the ribcage, lifting of the shoulders, and a subtle aspect. This very subtle breath where we may have the experience that our awareness shifts into the whole body even. The diaphragm is momentarily still.
 
@@ -80,7 +80,7 @@ The lungs are either full or empty depending on the stage. There is a pause, a m
 
 It stays with these sensations of the breath in the body. So I feel that that is more than enough information for one session. And I want us to have time to practice, so I'm going to invite us to find a comfortable sitting position.
 
-Once again, establishing that stable base, but also pliant space for in-breath and out-breath, length in the spine, recognizing our motivation for this practice, not for our own well-being alone, recognizing our intention, the how, mindfulness of breathing. And perhaps in this case, samstha payati, placing for longer duration.
+Once again, establishing that stable base, but also pliant space for in-breath and out-breath, length in the spine, recognizing our motivation for this practice, not for our own well-being alone, recognizing our intention, the how, mindfulness of breathing. And perhaps in this case, saṃsthāpayati, placing for longer duration.
 
 And now we'll invite three sounds off the bell and we will begin with a guided meditation this morning, alternating as we do between silent and guided breathing in of in-breath, meeting the breath in the body, finding that place where sensation is clear, perhaps initially in the rise and fall of the belly, the gross movements of the breath, perhaps eventually finding connection with the breath at
 
@@ -106,25 +106,25 @@ Not missing the opportunity to learn from every sit, the only bad meditation bei
 
 And if you do have a question, if you wouldn't mind please trekking up to the microphone at the front so that the question is also on the recording. Thank you. This is a very good question. The answer depends a little bit on the system in which we are studying and practicing.
 
-So for example, in the Burmese forest tradition of Pa-Auk Sayadaw, which follows very closely the Visuddhimagga, path of purification, the emphasis is very much on mastery of samatha before cultivation of vipaśyanā, mastery of calm abiding before insight meditation. And here mastery implies jhāna, implies absorption, immersion with one unmoving object.
+So for example, in the Burmese forest tradition of Pa-Auk Sayadaw, which follows very closely the Visuddhimagga, path of purification, the emphasis is very much on mastery of śamatha before cultivation of vipaśyanā, mastery of calm abiding before insight meditation. And here mastery implies jhāna, implies absorption, immersion with one unmoving object.
 
 Technically speaking, the mental image of the breath in that system based on the arising of a nimitta, a sign of the breath. Now this already is quite a technical answer but the main point is that in order to immerse in an object the mind needs to be very still. Because as we know from Yogācāra, all objects are objects of mind.
 
-If the mind is moving, it is because the object is moving, and vice versa. So in this way it's quite challenging to give rise to very strong samatha on an object that is shifting either due to our attention moving from place to place in the body or from our attention resting on an object that is changing frequently like the rise and fall of the breath.
+If the mind is moving, it is because the object is moving, and vice versa. So in this way it's quite challenging to give rise to very strong śamatha on an object that is shifting either due to our attention moving from place to place in the body or from our attention resting on an object that is changing frequently like the rise and fall of the breath.
 
-But as the Buddha taught himself in his compassion he recognized that there are different gateways. It is also possible to cultivate a lot of calm in the mind on a moving object. But at some point if we are interested in deep samatha we need to shift to a still object.
+But as the Buddha taught himself in his compassion he recognized that there are different gateways. It is also possible to cultivate a lot of calm in the mind on a moving object. But at some point if we are interested in deep śamatha we need to shift to a still object.
 
 So where we are in our practice is up to us to recognize and the quality of our sensitivity to sensations of the breath is something that we can also develop on a moving object exploring the body, noticing, oh, here there is pleasant sensation, here there is unpleasant sensation, here there is softness, hardness, roughness, smoothness.
 
 There is a whole landscape, a wilderness of sensation in the body.
 
-But if we can slowly navigate our way through that wilderness to a place in the body where the breath becomes more subtle, for example at the touching place in the nostrils and upper lip, then this is a very conducive object for deepening of samatha because eventually the mind paying attention to an object that is still and subtle becomes what? Also still and subtle. So skillful means.
+But if we can slowly navigate our way through that wilderness to a place in the body where the breath becomes more subtle, for example at the touching place in the nostrils and upper lip, then this is a very conducive object for deepening of śamatha because eventually the mind paying attention to an object that is still and subtle becomes what? Also still and subtle. So skillful means.
 
 No need to stay rigidly with a very subtle object if the result is drowsiness. The object is not clear, the mind is not sensitive enough to stay with that very subtle object. So use the skillful means of a more gross and obvious movement of breath.
 
 Train the body in maintaining a full bodied and a healthy yogic breath in that way with that awareness so that when we do pay attention to a more subtle object, the breath takes care of itself and our posture doesn't collapse, become dull, drowsy.
 
-So whether or not we are really interested in Jhāna, per se, or we feel that this map of the samapathis is relevant to our practice, we know that the nine stages also bring us to samādhāna, to samadhi, to immersion with an object that is very, very subtle. And so we need at some moment in our practice, we need to make that step from a gross moving object to one that is more still and subtle.
+So whether or not we are really interested in jhāna, per se, or we feel that this map of the samāpattis is relevant to our practice, we know that the nine stages also bring us to samādhāna, to samādhi, to immersion with an object that is very, very subtle. And so we need at some moment in our practice, we need to make that step from a gross moving object to one that is more still and subtle.
 
 But we do it with common sense when we are ready. And that can be different from day to day, it can be different within one sitting meditation practice. This is not a rigid system, it's a helpful map for us to understand. But where we are in that map depends on our practice, depends on our body and mind at any one moment. So I wish you good luck.
 

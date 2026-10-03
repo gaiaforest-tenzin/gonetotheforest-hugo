@@ -24,13 +24,13 @@ For one that is able to stay with the object more continuously, no longer the mi
 
 Eventually this pacification, a taming, a calming, a thorough calming, leading us to the possibility of eventually a mind that is single pointedly focused on the object of our choosing. And finally, a placement that is balanced, Dengchi [等持 děngchí, "even-holding" — the Chinese term for the ninth stage.
 
-Session 13 itself has no CH recording to check against, but day 10's CH translator explicitly names this same term for stage nine ("等持就是让你到家了" — "dengchi means you've arrived home"), so treated as confirmed by cross-session consistency]. Here again, as in the last stage, that single pointed stage, Ekoti Karoti or Ekoti Karana, that single pointed focus.
+Session 13 itself has no CH recording to check against, but day 10's CH translator explicitly names this same term for stage nine ("等持就是让你到家了" — "dengchi means you've arrived home"), so treated as confirmed by cross-session consistency]. Here again, as in the last stage, that single pointed stage, ekotīkaroti or ekotīkaraṇa, that single pointed focus.
 
-Here again the name for this last stage is a familiar term perhaps, it has an echo of Samadhi, Samadhatte. So again this sense of perfection in the placement of the mind, a mind that is in balance.
+Here again the name for this last stage is a familiar term perhaps, it has an echo of samādhi, samādhatte. So again this sense of perfection in the placement of the mind, a mind that is in balance.
 
 And again, rather than the emphasis being on fixation, being hooked or stuck with the sign of the object fixed, here the emphasis is placed on the possibility of being in balance with any object, even an object that is changing perhaps.
 
-So that as in the Southern school approach in which Dhihana is considered to be the training that prepares us for Vipaśyanā, here in the same way this Samadhi perhaps is considered to be ideal for the cultivation of Vipaśyanā. The mind is then turned to the investigation of objects, of phenomena, of dharma in the sense of the arising in our experience.
+So that as in the Southern school approach in which dhyāna is considered to be the training that prepares us for vipaśyanā, here in the same way this samādhi perhaps is considered to be ideal for the cultivation of Vipaśyanā. The mind is then turned to the investigation of objects, of phenomena, of dharma in the sense of the arising in our experience.
 
 But rather than an awareness or attention that is the same as the one we have in daily life, when I see an object along with that sense impression arises immediately, a label, a name. It's also perhaps even more obvious when I meet a person whom I know, I'm familiar with. Even from a great distance, maybe by the way they walk or the way they dress, a label comes into my mind.
 
@@ -52,11 +52,11 @@ But not, we are encouraged to understand, believe perhaps, hope or trust, not be
 
 But here we understand that actually this kind of label that we use is sticky on both sides. We also get stuck to the label.
 
-And the invitation here in the process of samatha and perhaps especially at this moment where samatha blends into vipaśyanā, where this mind that has been trained in staying with the object, letting go of distraction, relaxing that tendency to grasp or to push away, to get stuck by the label so that eventually it is in balance in relationship to the object, not grasping or pushing away.
+And the invitation here in the process of śamatha and perhaps especially at this moment where śamatha blends into vipaśyanā, where this mind that has been trained in staying with the object, letting go of distraction, relaxing that tendency to grasp or to push away, to get stuck by the label so that eventually it is in balance in relationship to the object, not grasping or pushing away.
 
 Seeing clearly that here is a label and here is also a mind that can be stuck to the label and here is also a river of reality that is flowing, arising and passing, dependent on causes and conditions, a river of reality that is very difficult to navigate when the one at the rudder, the steering wheel, is caught in labeling, always falling into extremes of attachment or aversion.
 
-This is good, this is bad. By introducing some flexibility in the mind, step by step, in the process of samatha, maybe someone is hanging a hook, there is a possibility for us to taste some of that freedom from clinging and stickiness inside our meditation practice.
+This is good, this is bad. By introducing some flexibility in the mind, step by step, in the process of śamatha, maybe someone is hanging a hook, there is a possibility for us to taste some of that freedom from clinging and stickiness inside our meditation practice.
 
 Maybe some of us have had such an experience already in our practice where having established ourselves in a stable sitting position and given rise to clear motivation and intention, we find the object, for example the breath, place our mind with that object and then a distraction arises.
 
@@ -72,15 +72,15 @@ And it is that taste that encourages, maybe inspires us to continue in the pract
 
 That while it may take some effort to maintain awareness of the object, it may take some effort and we might feel like we have more misses than hits, as it were. Maybe we only notice one in ten of the distractions. But it's the same process, the same quality of relationship to our experience that brings us all the way to this perfect placement and is also the quality of mind in vipaśyanā itself.
 
-We might remember that vipaśyanā or satipaṭṭhāna attitude, the energy, the willpower, the application of effort, perhaps, atapi, the clear understanding, samprajanyo, knowing what it is that we are doing and recognizing which factors that are helpful are arising and which factors that are unhelpful are arising.
+We might remember that vipaśyanā or satipaṭṭhāna attitude, the energy, the willpower, the application of effort, perhaps, ātāpī, the clear understanding, samprajanya, knowing what it is that we are doing and recognizing which factors that are helpful are arising and which factors that are unhelpful are arising.
 
-Satima, mindful, that factor of awakening that is never in excess because its function is balancing, not grasping or pushing away at any aspect of our experience. Biharatthi, dwelling, abhichatomanasam, without craving or dejection, biharatthi vinayaloke abhichatomanasam.
+Satimā, mindful, that factor of awakening that is never in excess because its function is balancing, not grasping or pushing away at any aspect of our experience. Viharati, dwelling, abhijjhā-domanassaṃ, without craving or dejection — "viharati, vineyya loke abhijjhā-domanassaṃ."
 
-In regards to the arising in the world, worldly phenomena, in balance, aware when there is this tendency to thinking, applying the antidotes that help us to bring energy back into our practice, investigating curiosity, pleasant energizing feelings in the body where when agitation, distraction, worry, regret is drawing the mind upwards away from the object, rising, applying, tranquilizing factors like clarity and relaxation itself, balanced placement, samadhi and letting go, upekka, equanimity, shur.
+In regards to the arising in the world, worldly phenomena, in balance, aware when there is this tendency to thinking, applying the antidotes that help us to bring energy back into our practice, investigating curiosity, pleasant energizing feelings in the body where when agitation, distraction, worry, regret is drawing the mind upwards away from the object, rising, applying, tranquilizing factors like clarity and relaxation itself, balanced placement, samādhi and letting go, upekkhā, equanimity, shě [捨].
 
 Wherever we are in this process, if we can bring some of these qualities into our relationship to experience, then slowly the mind becomes more and more familiar with this flow, intentional attention. Slowly the mind becomes habituated to this awareness and tranquility.
 
-The mind becomes so prone to stickiness, able to stay with the object for long enough to notice that behind the label flows a river of reality. So with the time that remains let us continue in our cultivation this bhavana, emergence like a skillful gardener, bringing together the conditions that are necessary for the seed of balanced placement to arise naturally.
+The mind becomes so prone to stickiness, able to stay with the object for long enough to notice that behind the label flows a river of reality. So with the time that remains let us continue in our cultivation this bhāvanā, emergence like a skillful gardener, bringing together the conditions that are necessary for the seed of balanced placement to arise naturally.
 
 Bring the ground, we can establish our comfortable meditation posture, supporting the body in a way that is stable, upright, inviting tensions to melt away for the body's natural capacity to rebound from gravity, holding us upright, planting that seed of awakening not for our benefit alone, but for the benefit of others.
 
@@ -96,9 +96,9 @@ slowly habituating the mind to that more balanced relationship with our experien
 
 So with our friends waiting patiently outside, we'd have just a few moments if there is a question perhaps, a clarification, with any object. Yeah. Can be with or through or in relation to, maybe to be more clear. Yeah, yeah. So that maybe we could open the door and allow people to start filtering in, I think. Thank you. It's clear? Okay, very good.
 
-Yeah, just, I don't know if there's another way to state that, but for me, the important thing to remember is that the distinction, and I think, again, without falling into the trap of defining one doctrine or another as superior or inferior based on the definition of one particular term, recognizing that even within the Southern school, there is many different ways to interpret the process of samatha vipaśyanā, skillful means even within one school, depending on the conditions for a particular practitioner, how to apply the factors, the mental factors, if you like, necessary for the arising of samatha and the application of that to vipaśyanā.
+Yeah, just, I don't know if there's another way to state that, but for me, the important thing to remember is that the distinction, and I think, again, without falling into the trap of defining one doctrine or another as superior or inferior based on the definition of one particular term, recognizing that even within the Southern school, there is many different ways to interpret the process of śamatha-vipaśyanā, skillful means even within one school, depending on the conditions for a particular practitioner, how to apply the factors, the mental factors, if you like, necessary for the arising of śamatha and the application of that to vipaśyanā.
 
-The key distinction made there is that this mind is perfectly balanced in that it is not hooked or stuck on the sign of the object. So whereas in jnana there is this implication of a mind that is fixed on a single object, in order for that mind to be applied to samatha, one needs to exit that fixated state.
+The key distinction made there is that this mind is perfectly balanced in that it is not hooked or stuck on the sign of the object. So whereas in jhāna there is this implication of a mind that is fixed on a single object, in order for that mind to be applied to śamatha, one needs to exit that fixated state.
 
 And here the interpretation in the nine stages is that that perfect placement is exactly that. If I understand correctly, it is balanced in the sense of not being caught, not being stuck on the object, so that it can relate to any object with that balanced perspective that allows the true nature of the object to be perceived, because it's not caught in the sign.
 

@@ -24,21 +24,21 @@ So foundational that the Buddha himself, when he was asked by Ananda, somehow in
 
 So the awakened one felt this practice was so important that it not only constituted the beginning of his journey, but it also was the practice that he continued until its end in that body.
 
-And for those who are familiar with the early suttas, the texts recording the words of Shakyamuni Buddha recorded, passed down to us in the Pali language at first orally and later in written form, these practices are key in the four establishments of mindfulness. The first establishment, mindfulness, gone into the body. Kayagatasati.
+And for those who are familiar with the early suttas, the texts recording the words of Shakyamuni Buddha recorded, passed down to us in the Pali language at first orally and later in written form, these practices are key in the four establishments of mindfulness. The first establishment, mindfulness, gone into the body. Kāyagatāsati.
 
-And if you're familiar also with the five paths framework for the cultivation, in the Mahayana tradition you will also recognize these four establishments as the first group in the path of accumulation. So their importance is maintained all the way into the Yogacchara, the Mahayana path.
+And if you're familiar also with the five paths framework for the cultivation, in the Mahayana tradition you will also recognize these four establishments as the first group in the path of accumulation. So their importance is maintained all the way into the Yogācāra, the Mahayana path.
 
 And while we do not have the time or scope to go into the Satipaṭṭhāna sutta, the sutra on the four establishments of mindfulness in any great detail, hopefully these sessions, the theory in these sessions will be in the form of review for most of us, reminders and orientations or reorientations in our city meditation practice.
 
-We can know that the first exercise in the first establishment of mindfulness, Kayagatasati, mindfulness gone into the body or Kaya Anupasana tracking the body, Anupasana has this implication, this meaning of closely following. The first exercises in that group of instructions is none other than mindfulness of breathing. Anapana Sati, Anapana Prana and Apraana, in-breath and out-breath and Sati.
+We can know that the first exercise in the first establishment of mindfulness, kāyagatāsati, mindfulness gone into the body or kāyānupassanā tracking the body, anupassanā has this implication, this meaning of closely following. The first exercises in that group of instructions is none other than mindfulness of breathing. Ānāpānasati — āna and apāna, in-breath and out-breath, and sati.
 
-Mindfulness is how we often receive Sati or Smriti, translated, but it is of course related to memory, to recollection. A very important concept in the North Indian context, that time and place in which the Buddha studied, practiced and taught, because everything that you needed to know in order to practice, you would have to receive from a teacher and remember.
+Mindfulness is how we often receive sati or smṛti, translated, but it is of course related to memory, to recollection. A very important concept in the North Indian context, that time and place in which the Buddha studied, practiced and taught, because everything that you needed to know in order to practice, you would have to receive from a teacher and remember.
 
 You didn't have great libraries, books that you could borrow, let alone download to your device and scroll through when you needed to remember what it was that you were supposed to be doing when you sat down on your cushion. You had to remember. But the Buddha, perhaps also seeing the risk if we just assume that by memorizing the texts, our understanding will flourish, will bear fruit.
 
 He recognized that we also need to remember something very important and that something is none other than what is happening right now, thinking about the past, caught in regret, not chasing after what has not yet happened, anxiety, worry for the future, clearly knowing what is going on here and now.
 
-And this kind of nutshell or summary condensed instruction repeats throughout the instructions for mindfulness gone into the body in Satipaṭṭhāna. It is present in the Anapana Sati Sutta as well, the Sutra on full awareness of breathing. The Buddha invites us to bring energy, atapi, to be ardent, ardiente in our practice.
+And this kind of nutshell or summary condensed instruction repeats throughout the instructions for mindfulness gone into the body in Satipaṭṭhāna. It is present in the Anapana Sati Sutta as well, the Sutra on full awareness of breathing. The Buddha invites us to bring energy, ātāpī, to be ardent, ardiente in our practice.
 
 Jingjin [精進 jīngjìn, "energetic effort" — Chinese gloss], in Chinese I believe, like a strong or energized in our practice, to clearly understand what it is that we are doing. Samprajanya in Sanskrit, Samprajanyo, Zhengzhi [正知 zhèngzhī, "clear knowing" — Chinese gloss], clearly knowing.
 
@@ -50,13 +50,13 @@ And these two ingredients, the stopping and looking deeply as it is translated i
 
 And together we have the very good fortune to be in this time and place to receive detailed instructions on such methods from His Holiness. And in some small way perhaps our time together in the morning is a way for us to prepare our mind for that receiving.
 
-Many skillful means, many systems, but what I would like to propose is that in these sessions we lean into the system that is brought to us through the yogacara, to the Mahayana approach in general, based on the nine stages. So this is familiar to us in the elephant chasing tanka, the ox herding pictures also in the Zen tradition. These are nine stages of Bhavana, of cultivation.
+Many skillful means, many systems, but what I would like to propose is that in these sessions we lean into the system that is brought to us through the Yogācāra, to the Mahayana approach in general, based on the nine stages. So this is familiar to us in the elephant chasing tanka, the ox herding pictures also in the Zen tradition. These are nine stages of bhāvanā, of cultivation.
 
-This word should be familiar to us. We have the three types of knowledge here. Who can remember those? We have the knowledge from listening, from our study reading perhaps these days, Shrutamayi-prajna. We have the knowledge from our own questioning, reflection. I have shared with our translator some vocabulary.
+This word should be familiar to us. We have the three types of knowledge here. Who can remember those? We have the knowledge from listening, from our study reading perhaps these days, śrutamayī-prajñā. We have the knowledge from our own questioning, reflection. I have shared with our translator some vocabulary.
 
-I'm just making sure I don't leave them behind when I throw out a Sanskrit term like Shrutamayi-prajna without any warning like that. Chintamayi-prajna, this knowledge from our reflection and questioning. Chinta, related to Chitta, thinking, mind.
+I'm just making sure I don't leave them behind when I throw out a Sanskrit term like śrutamayī-prajñā without any warning like that. cintāmayī-prajñā, this knowledge from our reflection and questioning. cintā, related to citta, thinking, mind.
 
-And we have of course the last, and maybe we can say the most important, this is related to the authenticity of experience that His Holiness referred to yesterday. Bhavanamayi-prajna, the knowledge arising from our own direct cultivation, our own seeing, our experience. Bhavana related to Bhu, that we hear also in Bhumi, in Bhuta, kind of the ground if you like, that which allows becoming.
+And we have of course the last, and maybe we can say the most important, this is related to the authenticity of experience that His Holiness referred to yesterday. bhāvanāmayī-prajñā, the knowledge arising from our own direct cultivation, our own seeing, our experience. bhāvanā related to bhū, that we hear also in bhūmi, in bhūta, kind of the ground if you like, that which allows becoming.
 
 So for this reason, cultivation, because it has this image of a farmer tending to the soil, is a helpful one. So as in the Christian contemplative tradition, we use the word meditation often for Bhavana, it has a little bit this kind of implication of thinking, but here we see that that is just one part of the practices that we need in order to bring this knowledge into fruition.
 
@@ -70,7 +70,7 @@ As I mentioned yesterday, in contrast to the usual mode of our daily life experi
 
 The different feelings in the body, sounds outside, thoughts of past and future, just this placing the mind on the object of our choosing.
 
-And in the Ānāpānasati, as in Satipaṭṭhāna, those two key texts, also in the Bhavana-krama, the texts that transmit to us these nine stages, Shrava-kabhumi, Yoga-chara-bhumi-shasra, the first object that we invited to consider, as the Buddha himself suggested, the breath. So yesterday, for those who were present, we did kind of a guided meditation, finding the breath in the body.
+And in the Ānāpānasati, as in Satipaṭṭhāna, those two key texts, also in the Bhāvanākrama, the texts that transmit to us these nine stages, Śrāvakabhūmi, Yogācārabhūmi-śāstra, the first object that we invited to consider, as the Buddha himself suggested, the breath. So yesterday, for those who were present, we did kind of a guided meditation, finding the breath in the body.
 
 Because if that object is not clear to the mind, the tendency will be for the mind to slide away into something that is more interesting. So if we can find a place in the body where the breath feels clearly sensible to us, that we can touch the feelings of the breath or find the place where the breath touches us, then we have a solid starting point for this placing.
 
@@ -94,11 +94,11 @@ And then we can begin the gentle process of recollecting our awareness, giving r
 
 So as we conclude, you might like to give yourself a gentle massage for the face, head and neck, shoulders, arms and hands, lower back. You may like to adjust your sitting position. And this brings us very near to our conclusion. But we just have a few moments if there are any practical questions that would like to be clarified. We have a microphone here. Mathias, very kindly, will deliver.
 
-Yes, we do have one. Raise your hand if you have a question. Did we have a question at the back? Yes, we did. The four. Which four? There are so many fours. There are also threes and twos, fives, sixes. There are four Satipaṭṭhānas, of which we are just meeting the first, Kaya Anupasana. There are also four qualities of attitude in the refrain in the Satipaṭṭhānas, sutta, atapi, sampajanyo, satima.
+Yes, we do have one. Raise your hand if you have a question. Did we have a question at the back? Yes, we did. The four. Which four? There are so many fours. There are also threes and twos, fives, sixes. There are four Satipaṭṭhānas, of which we are just meeting the first, kāyānupassanā. There are also four qualities of attitude in the refrain in the Satipaṭṭhānas, sutta, ātāpī, sampajañña, satimā.
 
-Is it this four? So these four are in a kind of a refrain in the Satipaṭṭhāna. The first is kind of an energy, diligence, atapi, related to tapas in the yoga tradition, this heat, yogic heat. Some friction is happening, some work is being done, requires energy. Sampajanyo implying clear understanding, clearly knowing what it is that we are doing.
+Is it this four? So these four are in a kind of a refrain in the Satipaṭṭhāna. The first is kind of an energy, diligence, atapi, related to tapas in the yoga tradition, this heat, yogic heat. Some friction is happening, some work is being done, requires energy. Sampajañña implying clear understanding, clearly knowing what it is that we are doing.
 
-So often Smriti, Samprajanya, they go together, mindfulness and clear understanding or awareness is translated in different ways. Satima is that mindfulness, sati, Smriti. And then we have this not clinging. So setting aside grasping and aversion for the arising of samsara. So is this maybe the four that you mean? Yeah.
+So often smṛti, samprajanya, they go together, mindfulness and clear understanding or awareness is translated in different ways. Satimā is that mindfulness, sati, smṛti. And then we have this not clinging. So setting aside grasping and aversion for the arising of saṃsāra. So is this maybe the four that you mean? Yeah.
 
 So this refrain is woven throughout the first part of the Satipaṭṭhāna sutta as a kind of a quality of attitude that we can bring not only to samatha but also as you can see because it has this kind of non grasping aspect. It is suited for an object that is changing like in daily life. So it is also appropriate for a vipaśyanā relationship to our experience. Okay.
 

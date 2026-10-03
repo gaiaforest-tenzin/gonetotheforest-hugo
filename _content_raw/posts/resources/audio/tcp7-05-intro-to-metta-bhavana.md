@@ -16,31 +16,31 @@ For the full Sanskrit/Pali/Tibetan glossary and nine-stages reference table, see
 
 ## Transcript
 
-So good morning dear friends and welcome back for our morning meditation sessions here at IBA Kathmandu, part of TCP 2026. Yesterday his holiness gently guided us in some reflections on the four immeasurables, the point in our sādhana where we invite the possibility for the mind and heart to become limitless.
+So good morning dear friends and welcome back for our morning meditation sessions here at IBA Kathmandu, part of TCP 2026. Yesterday His Holiness gently guided us in some reflections on the four immeasurables, the point in our sādhana where we invite the possibility for the mind and heart to become limitless.
 
-Thomas Dhammadipa says these immeasurable minds, among them loving-kindness, mettā, compassion, karuna, joy or altruistic joy, mudita, equanimity, upeksha are perhaps the most beautiful feelings that we can experience in this mind and body as human beings. And we will return to that word feeling in just a moment, emphasizing that these are not simply thoughts but something that runs much deeper.
+Thomas Dhammadipa says these immeasurable minds, among them loving-kindness, mettā, compassion, karuṇā, joy or altruistic joy, muditā, equanimity, upekṣā are perhaps the most beautiful feelings that we can experience in this mind and body as human beings. And we will return to that word feeling in just a moment, emphasizing that these are not simply thoughts but something that runs much deeper.
 
-It seems appropriate for us to pivot to a cultivation of at least the first of these immeasurable minds at this point in our series of practice sessions, given that this is a core part of our sādhana practice also. But it is also directly related to the cultivation of samatha vipaśyanā.
+It seems appropriate for us to pivot to a cultivation of at least the first of these immeasurable minds at this point in our series of practice sessions, given that this is a core part of our sādhana practice also. But it is also directly related to the cultivation of śamatha-vipaśyanā.
 
-While there are good reasons for which in the Pa-Auk system of the Burmese forest traditions, loving-kindness, mettā and the other three brahma viharas, divine abhos, are offered as a protection before the practitioner embarks on the cultivation of vipaśyanā, insight, meditation, having mastered samatha, a protection because the truth that is revealed in vipaśyanā is a terrifying truth in some sense.
+While there are good reasons for which in the Pa-Auk system of the Burmese forest traditions, loving-kindness, mettā and the other three brahmavihāras, divine abodes, are offered as a protection before the practitioner embarks on the cultivation of vipaśyanā, insight meditation, having mastered śamatha, a protection because the truth that is revealed in vipaśyanā is a terrifying truth in some sense.
 
 It is a truth that disentangles, unweaves all of the stories that we habitually tell ourselves about what it is to be in this body and mind and how the world works, living as we do in the desire realm, insensitive to the reality of form, contented to accept our mental images, our imagination as real. For this veil to be thrown back and the truth to be illuminated can be a shocking experience.
 
 Reason, capacity to cultivate from our own side a profound sense of safety is very important as a foundation for vipaśyanā practice.
 
-And the Buddha also recognized importantly that this profound sense of safety, a mind infused with kindliness, friendliness in relationship to other beings, even in relationship to phenomena, the arising and passing of our experience, is also an important part of our foundation practice for samatha itself.
+And the Buddha also recognized importantly that this profound sense of safety, a mind infused with kindliness, friendliness in relationship to other beings, even in relationship to phenomena, the arising and passing of our experience, is also an important part of our foundation practice for śamatha itself.
 
-It is very difficult for us to relax in body and mind if we are beset, if we are a victim of thoughts of anger, ill will, vyapada, along with desire, the first of the two main hindrances that we meet and the first of the two root poisons, grasping, pushing away.
+It is very difficult for us to relax in body and mind if we are beset, if we are a victim of thoughts of anger, ill will, vyāpāda, along with desire, the first of the two main hindrances that we meet and the first of the two root poisons, grasping, pushing away.
 
 And we have heard how important these two are already in that satipaṭṭhāna attitude, these four qualities of relationship to experience, our energy, diligence, our clear knowing what it is that we are doing, our mindfulness, keeping energy and relaxation in balance without grasping or aversion, remembering that these are qualities of the awakened but they're also something that we invite into our sitting practice from the very beginning.
 
-Even if we can only touch them briefly, they are the factors that open the path of samatha for us, allow us to start to let go. And for this reason, there are clear examples in the early suttas in which the Buddha offered mettā as the first practice.
+Even if we can only touch them briefly, they are the factors that open the path of śamatha for us, allow us to start to let go. And for this reason, there are clear examples in the early suttas in which the Buddha offered mettā as the first practice.
 
 There is a story of a young novice coming to see the Buddha and asking for a meditation instruction to prepare him to go into Rains retreat for the Vasa, the three month traditional retreat. And from the tone of the reply, you get the impression that this is not the first time that this novice has asked for meditation instruction.
 
 Maybe it's the hundredth time actually that the Buddha has been asked for basic instructions the day before the retreat begins, coming from a monk who's already been told once, twice, ten times, a hundred times how to practice. And in fact, the Buddha actually makes this monk ask three times before he tells him the basic practice that he should attend to in his Rains retreat.
 
-But when he finally relents, the practice that he offers to begin with isn't another than mettā bhagavana, the cultivation of kinship. And this is a word that I choose to use in relation to mettā, partly because in the original language of the Vedas in Sanskrit, metri evokes the root that is shared with the god of alliance, of connection, of bond, mitra.
+But when he finally relents, the practice that he offers to begin with isn't another than mettā bhāvanā, the cultivation of kinship. And this is a word that I choose to use in relation to mettā, partly because in the original language of the Vedas in Sanskrit, maitrī evokes the root that is shared with the god of alliance, of connection, of bond, mitra.
 
 And you can imagine in those days of the early arrival of the Aryan civilization into the subcontinent, wandering tribespeople, perhaps a people used to instability, to a nomadic existence dependent on the weather, the rains, and also dependent on the goodwill of their neighbors. The idea of alliance and bond was a very important one.
 
@@ -52,9 +52,9 @@ And while love may be the most beautiful feeling that we can have, it's also tru
 
 And when we're face to face with a different kind of being, someone that we don't really know, for example, or even someone who we perceive to be causing harm to ourselves or to another, kinship or love is not the feeling that naturally arises.
 
-Ordinarily, our love and kindness is limited, bounded, and it is the a pramana, the immeasurable aspect of this practice that makes it so important, so powerful, and also quite tricky when we begin where to find a foothold in this seemingly divine state of heart and mind.
+Ordinarily, our love and kindness is limited, bounded, and it is the apramāṇa, the immeasurable aspect of this practice that makes it so important, so powerful, and also quite tricky when we begin where to find a foothold in this seemingly divine state of heart and mind.
 
-This brahma vihara, this dwelling of divinity, this illimitable mind seems somehow exalted out of reach, impossible for us to cultivate.
+This brahmavihāra, this dwelling of divinity, this illimitable mind seems somehow exalted out of reach, impossible for us to cultivate.
 
 So thankfully, when we go back to the early teachings of the Buddha, we are rewarded with some very basic step-by-step instructions in how to bring this concept, which seems so far away and up in the clouds, back into the body so that it becomes a feeling and not just an idea. A feeling that is anchored in the body but one that we can connect with wisdom so that it is no longer limited by the body.
 
@@ -66,13 +66,13 @@ And it is connected to wisdom because in our perception, as it begins to change,
 
 It can recognize that actually underneath this appearance there is another being there just like me, with a heart that is subject to the ups and downs of life, suffers loss, sadness, also joy, and that only wishes to be free from suffering. So why would I wish for that being anything less than that which I wish for myself?
 
-And in that state of mind, slowly we can allow less and less room for that ill will, fear, anxiety, discontent. In that state of mind, already those first two main hindrances to the path of samadha vipaśyanā begin to soften desire aversion.
+And in that state of mind, slowly we can allow less and less room for that ill will, fear, anxiety, discontent. In that state of mind, already those first two main hindrances to the path of śamatha-vipaśyanā begin to soften desire aversion.
 
 And at this point you might be asking, how is it that I can work with the hindrance of desire if I'm actually giving rise to love, this sense of connection, maybe even attachment?
 
-Well, this is a very good question and the answer lies in what are called the near and far enemies and each of the brahma vihanas, the immeasurable minds, has this pair of instructions that help us to recognize when our cultivation is on target. So we have a clear opposite to loving-kindness. This is ill will, hatred.
+Well, this is a very good question and the answer lies in what are called the near and far enemies and each of the brahmavihāras, the immeasurable minds, has this pair of instructions that help us to recognize when our cultivation is on target. So we have a clear opposite to loving-kindness. This is ill will, hatred.
 
-This is the enemy, if you like, that we can see coming from a long way off is very different to loving-kindness. The near enemy is the one that looks a bit closer to home and looks a little similar on first inspection, kind of seems the same. And this is indeed attachment to the far chen-hen and the near tan-ai.
+This is the enemy, if you like, that we can see coming from a long way off is very different to loving-kindness. The near enemy is the one that looks a bit closer to home and looks a little similar on first inspection, kind of seems the same. And this is indeed attachment to the far chēnhèn and the near tān'ài.
 
 And it's for this reason, as we'll discover in a moment during our guided meditation, that when we choose our object for cultivation of loving-kindness, we don't choose the most dear one that we can think of.
 

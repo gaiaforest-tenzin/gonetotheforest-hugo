@@ -20,7 +20,7 @@ Good morning, dear friends. Welcome back to our morning meditation sessions here
 
 We began our journey with the understanding that for the northern schools, śamatha and vipaśyanā are very often together.
 
-Whereas in the transmission of the teachings of the southern schools that has come down to us to the present day, we often find a separation between the stopping, the calming of the twisting and turning of the thinking mind as a necessary condition for the arising of insight and therefore requiring us to master that śamatha before we begin the process of inside meditation.
+Whereas in the transmission of the teachings of the southern schools that has come down to us to the present day, we often find a separation between the stopping, the calming of the twisting and turning of the thinking mind as a necessary condition for the arising of insight and therefore requiring us to master that śamatha before we begin the process of insight meditation.
 
 But it seems clear that the Buddha himself taught different ways of seeing this, that we can practice śamatha and then vipaśyanā. We can practice vipaśyanā and then śamatha as is popular in some of the Burmese schools and we can practice śamatha and vipaśyanā together. And there is also a beautiful example of perhaps the Buddha's somewhat dry sense of humor.
 
@@ -44,7 +44,7 @@ Perhaps once the Buddha had laid that groundwork, allowing the opening of that d
 
 That there is not only no person to grasp but also no shrine room, no tables and chairs, no forest and trees and even no Buddha that we can pin down a separately existing because everything that we witness has a much deeper life, if you like, than just the labels that I put on that thing.
 
-And the Buddha was already pointing to this truth in recognizing the doors of liberation as not only not self, on atman but also the impermanence of those phenomenon that they are constantly changing, arising, passing, arising, passing and that their true nature is not something we can grasp when the mind is caught in labels in trying to freeze or freeze frame the world, our experience, into discrete objects.
+And the Buddha was already pointing to this truth in recognizing the doors of liberation as not only not-self, anātman but also the impermanence of those phenomenon that they are constantly changing, arising, passing, arising, passing and that their true nature is not something we can grasp when the mind is caught in labels in trying to freeze or freeze frame the world, our experience, into discrete objects.
 
 We miss the truth of process that is going on, this constant arising. And so in some important sense, whereas the path of meditation in the Southern school emphasizes arriving at the insight that this person here is just like the outside objects. Arising and passing. Here we are recognizing that every object itself has a true nature beyond the understanding that clings to signs, not just this self.
 
@@ -58,9 +58,9 @@ But where the road begins to fork is in the understanding of how one should be p
 
 But if our intention is to be able to relate to any object, any object that presents itself to the mind, to the sense, to us, and that recognises that it does not exist from its own side, as we might grasp at it based on its sign, the mind needs to be unfixed, very flexible, able to flow, adapt to many, many different kinds of situation, many different kinds of arising both inside and outside.
 
-So that perfect placement perhaps shifted to mean a mind that is perfectly balanced in relationship to any phenomenon, not just fixed on the meditation object. And this is where we meet a beautiful term, and I apologise for not putting this into vocabulary. So we'll see how we go. Drishta dharma sukha vihara. Dwelling happily in the present moment is how Thich Nhat Hanh translates this term.
+So that perfect placement perhaps shifted to mean a mind that is perfectly balanced in relationship to any phenomenon, not just fixed on the meditation object. And this is where we meet a beautiful term, and I apologise for not putting this into vocabulary. So we'll see how we go. Dṛṣṭa-dharma-sukha-vihāra. Dwelling happily in the present moment is how Thich Nhat Hanh translates this term.
 
-We can also unpack this, we can start at the end, vihara, same. Like the monastery, the dwelling place, like the satipaṭṭhāna refrain, viharati abhijjhā-domanassaṃ, dwelling without grasping or pushing away. So dwelling. Vihara. Sukha, not dukha. Contentment, happiness. Dharma, small t, phenomena. And drishti, like in the yoga tradition, drishti is the gaze or the perspective.
+We can also unpack this, we can start at the end, vihara, same. Like the monastery, the dwelling place, like the satipaṭṭhāna refrain, viharati abhijjhā-domanassaṃ, dwelling without grasping or pushing away. So dwelling. Vihāra. Sukha, not duḥkha. Contentment, happiness. Dharma, small t, phenomena. And drishti, like in the yoga tradition, dṛṣṭi is the gaze or the perspective.
 
 So we can maybe translate this loosely as dwelling in contentment with regards to all phenomena, not just on the cushion, but also off the cushion.
 
@@ -68,23 +68,23 @@ And so if this is the aim for the bodhisattva, meaning that rather than needing 
 
 And without making perhaps the error of assuming that, in this case, among the arahants, there were no bodhisattvas, none who could dwell in contentment with regards to all phenomena. I think it's fairly safe to say that there were many bodhisattvas. But it's maybe a question of emphasis, and a question of what was appropriate to the time to emphasize.
 
-Perhaps it was too radical, this understanding of the nature of purity and impurity, perhaps it was too radical yet at the time of the Buddha's teaching in his lifetime. So he taught about purity and impurity in a way that was accessible, that made sense, that allowed the flourishing of the sangha.
+Perhaps it was too radical, this understanding of the nature of purity and impurity, perhaps it was too radical yet at the time of the Buddha's teaching in his lifetime. So he taught about purity and impurity in a way that was accessible, that made sense, that allowed the flourishing of the saṅgha.
 
 But in our time, we have many great teachers emphasizing this other way to see that actually we can cultivate a mind that is at ease in any situation. And maybe with the emphasis on practicing not just for our own benefit, this is why this practice is such a wonderful one for the times in which we live. And so how does one reach this state?
 
 Well, it seems that it is through a very similar process, but one that perhaps practices from the beginning already this wise attention, recognizing that the way we bring the object into the mind is very important for how we then react and respond.
 
-And this is why in the stages, there is this emphasis on the quality of attention, at first forceful, and then interrupted, slowly becoming more and more continuous, a wise attention, yoniso manasikara, one that is able to hold wisely any kind of arising. And there's a lot there, even in that one term, yoniso manasikara, yoniso, yoni evokes the female reproductive capacity in some sense.
+And this is why in the stages, there is this emphasis on the quality of attention, at first forceful, and then interrupted, slowly becoming more and more continuous, a wise attention, yoniso manasikāra, one that is able to hold wisely any kind of arising. And there's a lot there, even in that one term, yoniso manasikāra, yoniso, yoni evokes the female reproductive capacity in some sense.
 
 Not necessarily in an anatomical sense, but in the sense of the quality of holding the matrix, if you like, which maybe is a nice word to use, because it's related to mother, the mother principle. So this womb-like or matrix attention that recognizes, is able to hold in context the object that recognizes its true nature from the beginning. Not clinging or fixating, even on the meditation object.
 
 In a sense, this is a meditation on emptiness. But because of the risk involved, that cliff edge, if you like, that we walk when we start to contemplate emptiness, while it is still a concept, the risk of clinging to that and falling into nihilism, we go step by step. We have the cultivation of the samayas, of wholesome action.
 
-We have the cultivation of the brahma viharas, giving rise to this mind whose momentum is love, whose momentum is kindness, whose momentum is rejoicing in virtue, and whose momentum is inclusivity, impartiality.
+We have the cultivation of the brahmavihāras, giving rise to this mind whose momentum is love, whose momentum is kindness, whose momentum is rejoicing in virtue, and whose momentum is inclusivity, impartiality.
 
 And if we are beginning from that place, then slowly we are approaching that goal of perfect placement in relation to any phenomenon, but step by step, after placing, continuous placing, replacing, close placing, taming, now pacifying. Already a hint of what is to come, because indeed in this stage, stage six, śamayati, we have this sense of peace approaching.
 
-Sam, same as in samatha, as in shanti, om, shanti, shanti, peace, jijing [寂靜 jìjìng, "tranquil" — Chinese gloss for stage six, confirmed against the CH translator recording for this same session], of attention functioning here is still the one that is interrupted from time to time by the mind wandering from the object.
+Sama, same as in śamatha, as in śānti, om, śānti, śānti, peace, jijing [寂靜 jìjìng, "tranquil" — Chinese gloss for stage six, confirmed against the CH translator recording for this same session], of attention functioning here is still the one that is interrupted from time to time by the mind wandering from the object.
 
 So we may still be working with our counting practice to recognize when the mind wanders. The other power that is still active, we met in previous sessions, this clear awareness, samprajanya, introspective awareness or metacognitive awareness. And I've also neglected to find a good way to translate this into Chinese samprajanya. We have the like the canonical translation for samprajanya.
 
@@ -100,15 +100,15 @@ Let us balance our motivation also, neither to the extreme of practicing only fo
 
 Am I still looking for the breath, finding its home in the body where the object can be clear? Am I working with continuity of attention, perhaps relying on counting?
 
-Am I struggling with aversion, suggesting that mettā-bhavana, loving-kindness meditation, may be an appropriate posture in which to put my cows to graze for this session, establishing that posture, motivation and intention, energetic, samprajanya, clearly understanding, sattima, mindful, viharati abhijjhā-domanassaṃ, dwelling without clinging or pushing away to any aspect of our experience, in contentment with regards to all phenomena, even the unpleasant ones, reviewing, acknowledging hindrances that have been present, acknowledging qualities of relationship to experience that have been balanced.
+Am I struggling with aversion, suggesting that mettā-bhāvanā, loving-kindness meditation, may be an appropriate posture in which to put my cows to graze for this session, establishing that posture, motivation and intention, energetic, samprajanya, clearly understanding, satimā, mindful, viharati abhijjhā-domanassaṃ, dwelling without clinging or pushing away to any aspect of our experience, in contentment with regards to all phenomena, even the unpleasant ones, reviewing, acknowledging hindrances that have been present, acknowledging qualities of relationship to experience that have been balanced.
 
 So thank you very much everyone for your presence, your energy, diligence, making use of the last moments we have, if there are any questions, comments, reflections.
 
-If anyone would like to share something in their practice that has felt fruitful or difficult, characteristic, there is good reason to understand that the concept of the self is one that is undone by an understanding of paticca samutpada, of interdependent, co-arising, dependent and interdependent co-arising, and also that dependent co-arising is a teaching on emptiness, emptiness of separate self, something that exists independently from its own side.
+If anyone would like to share something in their practice that has felt fruitful or difficult, characteristic, there is good reason to understand that the concept of the self is one that is undone by an understanding of paṭicca samuppāda, of interdependent, co-arising, dependent and interdependent co-arising, and also that dependent co-arising is a teaching on emptiness, emptiness of separate self, something that exists independently from its own side.
 
-So I think the short answer would be yes, that this is kind of where the signpost is pointing us. But as we have been discussing, not simply in relation to the self, this concept of atman, some kind of enduring soul perhaps, but also in regards to other phenomena, indeed all phenomena, up to and including the mind itself as we learn. But this is a frightening truth.
+So I think the short answer would be yes, that this is kind of where the signpost is pointing us. But as we have been discussing, not simply in relation to the self, this concept of ātman, some kind of enduring soul perhaps, but also in regards to other phenomena, indeed all phenomena, up to and including the mind itself as we learn. But this is a frightening truth.
 
-And for this reason, I found it helpful, the teachers who emphasise that the developmental self from a Western psychological perspective is a perfectly reasonable assumption to make for our progress on the path, our daily life. This is the self that gets up in the morning, puts on trousers before shoes, engages in practice, recognises wholesome and unawesome aspects of mind.
+And for this reason, I found it helpful, the teachers who emphasise that the developmental self from a Western psychological perspective is a perfectly reasonable assumption to make for our progress on the path, our daily life. This is the self that gets up in the morning, puts on trousers before shoes, engages in practice, recognises wholesome and unwholesome aspects of mind.
 
 The ultimate truth does not negate the relative truth, they interdepend. This is why in Zen, in the beginning, mountains are just mountains. In the middle, mountains are no longer mountains. But in the end, mountains are mountains again. We recognise that truth without clinging to it.
 
