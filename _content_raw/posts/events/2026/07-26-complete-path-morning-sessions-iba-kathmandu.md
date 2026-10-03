@@ -1,12 +1,12 @@
 ---
-title: "The Complete Path: Teachings from H.H. the 42nd Sakya Trizin — IBA Kathmandu"
+title: "The Complete Path: Morning Meditation Sessions during H.H. the 42nd Sakya Trizin's TCP7 — IBA Kathmandu"
 date: 2026-07-26
-location: "International Buddhist Academy (IBA), Tinchuli, Kathmandu, Nepal (26 July – 12 August 2026)"
+location: International Buddhist Academy (IBA), Tinchuli, Kathmandu, Nepal (26 July – 12 August 2026)
 categories:
   - Event
   - Retreat
 ---
-Three weeks at the International Buddhist Academy (IBA), Tinchuli, Kathmandu, for His Holiness the 42nd Sakya Trizin, Ratna Vajra Rinpoche's "Complete Path" teachings — part of the Academy's long-running, multi-year study programme in the Sakya Lamdré tradition. Alongside the main teachings, Br. Tenzin led a daily morning meditation class for course participants, covering śamatha (calm abiding), vipaśyanā (insight) and mettā bhāvanā (loving-kindness meditation).  The course was based on the Nine Stages approach found in Kamalaśīla's Bhāvanākrama, interweaving insights from the Pali tradition and Plum Village Zen.
+Three weeks at the International Buddhist Academy (IBA), Tinchuli, Kathmandu, for His Holiness the 42nd Sakya Trizin, Ratna Vajra Rinpoche's "Complete Path" teachings — part of the Academy's long-running, multi-year study programme in the Sakya Lamdré tradition. Alongside the main teachings, I led a daily morning meditation class for course participants, covering śamatha (calm abiding), vipaśyanā (insight) and mettā bhāvanā (loving-kindness meditation).  The course was based on the Nine Stages approach found in Kamalaśīla's Bhāvanākrama, interweaving insights from the Pali tradition and Plum Village Zen.
 
 <!--more-->
 
@@ -16,7 +16,7 @@ You can find here audio recordings of the morning meditation class, suggested re
 
 ### Morning meditation sessions
 
-The 15 morning sessions Br. Tenzin taught during the course are available in full, with transcripts, as [Śamatha, Vipaśyanā & Mettā Bhāvanā — Morning Meditation Talks](/posts/resources/audio/tcp7-overview/), alongside the [Glossary and Summary for Morning Meditations](/posts/resources/text/glossary-morning-meditations-tcp-2026/) prepared for the course.
+The 15 morning sessions I taught during the course are available in full, with transcripts, as [Śamatha, Vipaśyanā & Mettā Bhāvanā — Morning Meditation Talks](/posts/resources/audio/tcp7-overview/), alongside the [Glossary and Summary for Morning Meditations](/posts/resources/text/glossary-morning-meditations-tcp-2026/) prepared for the course.
 
 I make a living entirely through dāna from fellow practitioners.  If you have found these practices beneficial, please consider [making a small donation to support my work](/donate/).
 

@@ -20,9 +20,11 @@ Highlights for me were the heartfelt and generous Welcome to Country from Gumbyn
 
 During the gathering I offered a movement practice, a metta (loving-kindness) meditation, and a guided meditation version of the Cosmic Walk - "Our Life as Gaia". You can revisit these practices via the recordings below.
 
-- [Qi-gong — Mindful Movement Practices](/posts/resources/video/qigong-movement-practice/)
-- [Loving Kindness Guided Meditation](/posts/resources/audio/loving-kindness-guided-meditation/)
+{{< postgrid tags="metta,qigong" excludecategories="Event" layout="column" >}}
+
 - [Our Life as Gaia](/posts/resources/audio/our-life-as-gaia/)
+
+If you'd like to go deeper, I recently completed a 15-part morning meditation series on śamatha, vipaśyanā and mettā bhāvanā, recorded during teachings with His Holiness the 42nd Sakya Trizin at IBA Kathmandu — see [The Complete Path: Morning Meditation Sessions during H.H. the 42nd Sakya Trizin's TCP7](/posts/events/2026/07-26-complete-path-morning-sessions-iba-kathmandu/) for the full series, transcripts and suggested reading.
 
 I live entirely through the generosity of fellow practitioners.  If you have found these practices beneficial, please consider [making a small donation to support my work](/donate/).
 
