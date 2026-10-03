@@ -16,9 +16,9 @@ A thank-you gathering celebrating two decades of Yatra — the bushwalking pilgr
 
 Thank you to Ronny, Amalia, the organising team and all the facilitators and participants for a wonderful and nourishing time together at Yarralen Retreat.  Celebrating community, connection to country and the Buddha-Dharma has never felt more relevant and important.
 
-Highlights for me were the heartfelt and generous Welcome to Country from Gumbynggirr elder Uncle Micklo, and the many beautiful connections made with sangha friends, old and new.  Here's to another 20 years of Yatra :) - "towards freedom".
+Highlights for me were the heartfelt and generous Welcome to Country from Gumbynggirr elder Uncle Micklo, and the beautiful closing ceremony spontaneously co-created by all.  Here's to another 20 years of Yatra :) - "towards freedom".
 
-During the gathering I offered a movement practice, a metta (loving-kindness) meditation, and a guided meditation version of the Cosmic Walk - "Our Life as Gaia". You can revisit these practices via the recordings below.
+During the gathering I offered a [morning movement practice](/posts/resources/video/qigong-movement-practice/), a [metta (loving-kindness) meditation](/posts/resources/audio/loving-kindness-guided-meditation/), and facilitated the session "Dharma in Uncertain Times" - bringing together insights from Meditation Teachers [Carol Perry](https://www.insightmeditationaustralia.org/carol-perry.html), and [Emma Pittaway](https://www.wilddharma.net/), and author [Karina Shields](https://thechangeagency.org/activism-inside-the-tigers-mouth/) as well as an experiential exercise working with the Brahmaviharas (loving kindness, compassion, altruistic joy and equanimity) through an improvised theatre activity.  We also journeyed together through a guided meditation version of the Cosmic Walk - ["Our Life as Gaia"](/posts/resources/audio/our-life-as-gaia/). You can revisit the practices I shared via the recordings below.
 
 {{< postgrid tags="metta,qigong" excludecategories="Event" layout="column" >}}
 
