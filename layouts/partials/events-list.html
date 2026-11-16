@@ -5,8 +5,28 @@
      "pages" -- the event pages to list. */}}
 {{ $pages := .pages }}
 {{ $now := now }}
-{{ $upcoming := (where $pages "Date" "ge" $now).ByDate }}
-{{ $past := (where $pages "Date" "lt" $now).ByDate.Reverse }}
+
+{{/* Standing/recurring events (frontmatter: standing: true) -- things like
+     a weekly sit or a monthly online group that are always "on", not tied
+     to one calendar date. These get their own always-shown section up
+     top, and are excluded from the date-filtered Upcoming/Past lists
+     below (a weekly sit isn't "upcoming" on one date and "past" on
+     every other -- it's just always happening). */}}
+{{ $standing := where $pages ".Params.standing" true }}
+{{ $dated := where $pages ".Params.standing" "ne" true }}
+{{ $upcoming := (where $dated "Date" "ge" $now).ByDate }}
+{{ $past := (where $dated "Date" "lt" $now).ByDate.Reverse }}
+
+{{ if $standing }}
+<h2>Regular events</h2>
+{{ range $standing.ByTitle }}
+  <article class="post-snippet">
+    <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+    {{ with .Params.location }}<span> — {{ . }}</span>{{ end }}
+    {{ with .Content }}<div>{{ . }}</div>{{ end }}
+  </article>
+{{ end }}
+{{ end }}
 
 <h2>Upcoming events</h2>
 {{ if $upcoming }}

@@ -1,5 +1,5 @@
 ---
-title: "Audio: Kinship at the Crossroads — Mettā Reprise (Indonesian Buddhist Society)"
+title: "Audio: Translating Dharma for Our Time and Place"
 date: 2026-11-08
 categories:
   - Audio
@@ -9,7 +9,7 @@ tags:
   - metta
 ---
 <!-- DRAFT STUB — audio not yet uploaded to R2. -->
-A reprise of the mettā section of "Silk Road Dharma — Kinship at the Crossroads" (given at the Buddhist Library, Glebe), offered for the Indonesian Buddhist Society — with background material on the maritime Silk Road, Śrīvijaya, and Atiśa's time in Sumatra, built specifically for this audience. Followed by a guided mettā meditation.
+A talk for the Indonesian Buddhist Society revisiting the theme of "Silk Road Dharma" — how we translate the Buddha Dharma into our own time, place and community — this time by sea rather than by land, with material on the maritime Silk Road, Śrīvijaya, and the monk Yijing's time in Sumatra built specifically for this audience. Followed by a guided mettā meditation.
 
 Silk Road Dharma · Indonesian Buddhist Society, Sydney · English · Talk
 

@@ -1,8 +1,11 @@
-{{- /* this is /Users/alex/WebDevelopment/gonetotheforest/layouts/news/events/list.json.json */ -}}
+{{- /* this is /Users/alex/WebDevelopment/gonetotheforest/layouts/posts/events/list.json.json */ -}}
 {{- /* Machine-readable events feed, consumed by gaiaforest.org's own
        Events page at build time (resources.GetRemote) so Tenzin's events
        show there too without hand-duplicating content across repos.
-       Served at /news/events/index.json. */ -}}
+       Served at /posts/events/index.json (path/comment corrected 15 Nov
+       2026 -- this previously said /news/events/, stale from before the
+       site was restructured under one posts/ tree; the serving path
+       itself was always right, just the comment). */ -}}
 {{- /* RegularPagesRecursive, not .Pages: events live in year subfolders
        (posts/events/2026/...), so .Pages would yield the year sections
        instead of the events and this feed would go empty. */ -}}
@@ -15,6 +18,7 @@
       "external_link" (.Params.external_link | default "")
       "permalink" .Permalink
       "description" (.Summary | plainify)
+      "standing" (.Params.standing | default false)
   ) -}}
 {{- end -}}
 {{- dict "events" $events | jsonify -}}

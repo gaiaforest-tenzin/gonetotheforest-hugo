@@ -1,5 +1,5 @@
 ---
-title: "Dharma Talk: Kinship at the Crossroads — Mettā Reprise (Indonesian Buddhist Society)"
+title: "Dharma Talk: Translating Dharma for Our Time and Place"
 date: 2026-11-08
 location: Indonesian Buddhist Society, Sydney, NSW
 categories:
@@ -14,4 +14,4 @@ In this talk for the Indonesian Buddhist Society, I revisited the theme of [Silk
 
 ## Follow-up
 
-The full talk and transcript are available here: [Audio: Kinship at the Crossroads — Mettā Reprise](/posts/resources/audio/metta-reprise-indonesian-buddhist-society/).
+The full talk and transcript are available here: [Audio: Translating Dharma for Our Time and Place](/posts/resources/audio/translating-dharma-for-our-time-and-place/).

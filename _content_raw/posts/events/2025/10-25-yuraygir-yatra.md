@@ -14,6 +14,7 @@ A nine-day walking pilgrimage (25 October – 2 November), co-facilitated with E
 
 <!--more-->
 
+{{< gallery >}}
 ![Setting out along the beach](/media/posts/2025-yuraygir-yatra/IMG_8206.jpeg)
 
 ![Walking the tideline at Yuraygir](/media/posts/2025-yuraygir-yatra/IMG_8220.jpeg)
@@ -29,6 +30,7 @@ A nine-day walking pilgrimage (25 October – 2 November), co-facilitated with E
 ![Flannel flowers in fire-regrowth forest](/media/posts/2025-yuraygir-yatra/IMG_8239.jpeg)
 
 ![Into the bush track](/media/posts/2025-yuraygir-yatra/IMG_8245.jpeg)
+{{< /gallery >}}
 
 ## Follow-up
 

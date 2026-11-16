@@ -1,0 +1,49 @@
+{{/* ---------- gallery shortcode ---------- */}}
+{{/*
+Mobile-friendly photo grid. Wrap a block of ordinary markdown images in
+{{< gallery >}} ... {{< /gallery >}} and they lay out in a responsive
+grid -- 2 columns on narrow/mobile screens, more columns as the screen
+widens -- instead of stacking one-per-line with a long scroll.
+
+Usage: just wrap images exactly as you'd write them normally --
+
+  {{< gallery >}}
+  ![Caption one](/media/posts/.../img1.jpg)
+  ![Caption two](/media/posts/.../img2.jpg)
+  ![Caption three](/media/posts/.../img3.jpg)
+  {{< /gallery >}}
+
+Captions still work as alt text (same as before, not shown visibly --
+this shortcode only changes the layout, not how each image is written).
+Photos are cropped to a consistent 4:3 tile via object-fit so a mix of
+portrait/landscape originals still lines up neatly; click a photo to open
+the full original.
+*/}}
+<div class="photo-gallery">
+{{ .Inner | markdownify }}
+</div>
+<style>
+.photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.6rem;
+  margin: 1.5rem 0;
+}
+@media (min-width: 700px) {
+  .photo-gallery {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+}
+.photo-gallery p {
+  margin: 0;
+  display: contents;
+}
+.photo-gallery img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+</style>

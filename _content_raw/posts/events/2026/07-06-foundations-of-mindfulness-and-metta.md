@@ -26,7 +26,7 @@ For the most comprehensive series, see [Śamatha, Vipaśyanā & Mettā Bhāvanā
 ### Recent talks
 
 - [Audio: Silk Road Dharma — Kinship at the Crossroads](/posts/resources/audio/silk-road-dharma-kinship-at-the-crossroads/) — Buddhist Library, Glebe, Sydney
-- [Audio: Kinship at the Crossroads — Mettā Reprise](/posts/resources/audio/metta-reprise-indonesian-buddhist-society/) — Indonesian Buddhist Society, Sydney
+- [Audio: Translating Dharma for Our Time and Place](/posts/resources/audio/translating-dharma-for-our-time-and-place/) — Indonesian Buddhist Society, Sydney
 
 ### Related links
 

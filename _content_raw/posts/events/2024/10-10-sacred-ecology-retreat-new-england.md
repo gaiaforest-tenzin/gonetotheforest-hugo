@@ -1,5 +1,5 @@
 ---
-title: "3-Day rRtreat: Sacred Ecology, New England National Park"
+title: "4-Day Retreat: Sacred Ecology, New England National Park"
 date: 2024-10-10T16:30:00+11:00
 location: Thungutti Campground, New England National Park, NSW
 external_link: https://gaiaforest.org/news/2024/08/2024-08-18-sacred-ecology-retreat-oct-10-13th-2024/
@@ -14,6 +14,7 @@ A four-day retreat (10–13 October) in Gondwanan forest on Gumbaynggirr and Thu
 
 <!--more-->
 
+{{< gallery >}}
 ![Antarctic Beech forest creek crossing](/media/posts/2024-sacred-ecology-new-england/IMG_7005.jpg)
 
 ![Standing with an old Antarctic Beech](/media/posts/2024-sacred-ecology-new-england/IMG_7592.jpeg)
@@ -21,6 +22,7 @@ A four-day retreat (10–13 October) in Gondwanan forest on Gumbaynggirr and Thu
 ![Looking up through the canopy](/media/posts/2024-sacred-ecology-new-england/IMG_7593-3.jpg)
 
 ![Leaf litter on the forest floor](/media/posts/2024-sacred-ecology-new-england/IMG_7008.jpg)
+{{< /gallery >}}
 
 ## Follow-up
 
